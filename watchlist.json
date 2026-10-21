@@ -30,5 +30,61 @@
     "shop": "OQVestir",
     "url": "https://www.oqvestir.com.br/tenis-masculino-old-skool-preto-e-branco-260250",
     "currency": "BRL"
+  },
+  {
+    "id": "adidas-samba-og-branco-preto-210652",
+    "brand": "Adidas Originals",
+    "name": "Tênis Samba OG Branco e Preto",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/tenis-unissex-samba-og-branco-e-preto-210652",
+    "currency": "BRL"
+  },
+  {
+    "id": "adidas-samba-og-preto-241956",
+    "brand": "Adidas Originals",
+    "name": "Tênis Samba OG Preto",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/tenis-unissex-samba-og-preto-241956",
+    "currency": "BRL"
+  },
+  {
+    "id": "adidas-samba-adv-cinza-213677",
+    "brand": "Adidas Originals",
+    "name": "Tênis Samba ADV Cinza",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/tenis-masculino-samba-adv-cinza-213677",
+    "currency": "BRL"
+  },
+  {
+    "id": "adidas-samba-xlg-branco-vermelho-217381",
+    "brand": "Adidas Originals",
+    "name": "Tênis Samba XLG Branco e Vermelho",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/tenis-unissex-samba-xlg-branco-e-vermelho-217381",
+    "currency": "BRL"
+  },
+  {
+    "id": "boss-p-genius-cinza-199944",
+    "brand": "BOSS",
+    "name": "Calça Alfaiataria P-Genius Cinza",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/calca-masculina-alfaiataria-p-genius-cinza-199944",
+    "currency": "BRL"
+  },
+  {
+    "id": "boss-hover-striped-preto-225264",
+    "brand": "BOSS",
+    "name": "Calça Hover Striped Preto",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/calca-masculina-hover-striped-c-preto-225264",
+    "currency": "BRL"
+  },
+  {
+    "id": "boss-p-genius-bege-218752",
+    "brand": "BOSS",
+    "name": "Calça Alfaiataria P-Genius Bege",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/calca-masculina-alfaiataria-p-genius-bege-218752",
+    "currency": "BRL"
   }
 ]
