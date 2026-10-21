@@ -8,7 +8,7 @@
       "url": "https://www.oqvestir.com.br/jaqueta-masculina-bomber-h-coiner-bege-223231",
       "currency": "BRL",
       "price": 1448.9,
-      "checkedAt": "2026-10-21T10:15:37Z",
+      "checkedAt": "2026-10-21T10:19:24Z",
       "history": [
         {
           "price": 1448.9,
@@ -16,9 +16,60 @@
         }
       ],
       "source": "jsonld-or-meta"
+    },
+    "vans-hylane-238290": {
+      "id": "vans-hylane-238290",
+      "brand": "VANS",
+      "name": "Tênis UA Hylane Off White",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/tenis-unissex-ua-hylane-off-white-238290",
+      "currency": "BRL",
+      "price": 260.9,
+      "checkedAt": "2026-10-21T10:19:24Z",
+      "history": [
+        {
+          "price": 260.9,
+          "at": "2026-10-21T10:19:24Z"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "vans-oldskool-f-235781": {
+      "id": "vans-oldskool-f-235781",
+      "brand": "VANS",
+      "name": "Tênis Old Skool Preto Feminino",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/tenis-feminino-old-skool-preto-235781",
+      "currency": "BRL",
+      "price": 180.9,
+      "checkedAt": "2026-10-21T10:19:24Z",
+      "history": [
+        {
+          "price": 180.9,
+          "at": "2026-10-21T10:19:24Z"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "vans-oldskool-m-260250": {
+      "id": "vans-oldskool-m-260250",
+      "brand": "VANS",
+      "name": "Tênis Old Skool Preto e Branco Masculino",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/tenis-masculino-old-skool-preto-e-branco-260250",
+      "currency": "BRL",
+      "price": 449.99,
+      "checkedAt": "2026-10-21T10:19:24Z",
+      "history": [
+        {
+          "price": 449.99,
+          "at": "2026-10-21T10:19:24Z"
+        }
+      ],
+      "source": "jsonld-or-meta"
     }
   },
-  "lastRunAt": "2026-10-21T10:15:37Z",
-  "successfulChecks": 1,
+  "lastRunAt": "2026-10-21T10:19:24Z",
+  "successfulChecks": 4,
   "dropsDetected": 0
 }
