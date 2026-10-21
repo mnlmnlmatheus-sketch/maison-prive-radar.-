@@ -5,7 +5,6 @@ on:
     paths:
       - '.github/workflows/radar-precos.yml'
       - 'monitor.py'
-      - 'import_awin.py'
       - 'shopify_radar.py'
       - 'shopify_sources.json'
       - 'watchlist.json'
@@ -33,10 +32,6 @@ jobs:
         run: python3 monitor.py
       - name: Consultar coleções Shopify permitidas
         run: python3 shopify_radar.py
-      - name: Importar feed Awin quando autorizado
-        env:
-          AWIN_FEED_URL: ${{ secrets.AWIN_FEED_URL }}
-        run: python3 import_awin.py
       - name: Salvar historico
         run: |
           git config user.name 'github-actions[bot]'
