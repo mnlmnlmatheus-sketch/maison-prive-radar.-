@@ -1,9 +1,12 @@
 {
   "cursor": 0,
-  "lastRunAt": null,
+  "lastRunAt": "2026-10-21T23:17:21.346325+00:00",
   "successfulPages": 0,
   "verifiedThisRun": 0,
   "addedThisRun": 0,
   "catalogSize": 0,
-  "status": []
+  "status": [
+    "meta.json: HTTP 500",
+    "bolsas page 1: HTTP 429"
+  ]
 }
