@@ -1,26 +1,31 @@
-# Maison Privé · Radar de preços
+# Maison Privé · Radar pessoal de preços
 
-Monitor de preços em lojas selecionadas, com automação horária via GitHub Actions, histórico de preços e detecção de quedas verificadas.
+Este repositório é um monitor gratuito para **uso pessoal**, sem programa de afiliados, cadastro, comissões ou intenção de venda.
 
-**Estado:** a coleta só é confirmada quando a loja permite acesso e fornece preço em BRL identificável. Nunca inventar descontos, ignorar erros e respeitar robots.txt. Não é uma integração oficial com varejistas nem uma promessa de dados em tempo real.
+## Situação atual
+- **11 produtos na OQVestir** (Vans, BOSS e Adidas Originals) monitorados por metadados públicos de preço em BRL.
+- **16 produtos na Gringa** (Chanel e Louis Vuitton) consultados por JSON público de coleções Shopify, após checar robots.txt e confirmar a moeda BRL.
+- Total inicial: **27 preços confirmados** na execução de 21/10/2026, armazenados em `data/prices.json`.
+- Horário: **uma execução aproximada por hora**, agendada via `.github/workflows/radar-precos.yml`.
+- Histórico de preço e quedas em `data/prices.json` e `data/events.json`; quedas só são registradas quando uma leitura válida é inferior a outra leitura válida do mesmo item.
+- A vitrine Maison Privé existente permanece online em https://maison-prive-v6-ia-corrigida.vercel.app; o painel Radar grátis já consulta os dados públicos do GitHub.
 
-Os arquivos do monitor, testes e workflow serão adicionados a este repositório. A vitrine pública já existente permanecerá publicada separadamente até a integração ser verificada.
+## Como ver os preços
+Acesse `data/prices.json` ou o painel Radar grátis na vitrine. Para conferir a última automação: **Actions → Maison Prive - Radar de Precos**.
 
+## O que os números significam
+Os preços da Gringa vêm do catálogo Shopify em BRL; **podem corresponder ao preço de cartão/padrão**, não necessariamente ao Pix nem a cupons ou promoções de checkout. São produtos de luxo de segunda mão, cujo estado e disponibilidade podem mudar rapidamente. Os demais preços são metadados públicos e podem variar com tamanho, CEP, cupom e forma de pagamento. Confira na loja antes de comprar.
 
-## Status verificado em 21/10/2026
-- **GitHub Actions:** automação horária com 10 testes passando.
-- **OQVestir:** quatro páginas de produto acessíveis; quatro preços BRL confirmados e registrados em `data/prices.json`.
-- **Farfetch:** GitHub recebe HTTP 403; esses links foram retirados do radar gratuito (sem bypass).
-- **Sephora:** `robots.txt` indisponível a partir do runner; consulta omitida por segurança.
-- **Site Maison Privé:** https://maison-prive-v6-ia-corrigida.vercel.app mostra painel **Radar grátis** consumindo o JSON público do repositório.
-- **Quedas reais:** exigem pelo menos duas leituras válidas do mesmo produto. Até aqui não houve queda confirmada.
+Se houver erro de acesso, o script preserva o último preço com seu horário original, sem fingir que está atualizado. Nenhum preço é obtido burlando bloqueios, CAPTCHA ou robots.txt. O fato de o workflow terminar com sucesso não garante que todos os preços foram capturados; confirme `successfulChecks`, `shopifyVerifiedChecks` e `data/shopify-status.json`.
 
-## Ampliar catálogo com dados oficiais Awin (opcional)
-1. Cadastre seu canal/site como afiliado: https://www.awin.com/br/afiliados/content-creator-influencer
-2. Na plataforma, acesse **Toolbox → Create-a-Feed**. Use um anunciante/loja cujo feed sua conta esteja autorizada a baixar. Selecione CSV, moeda BRL e colunas de nome, preço, moeda, loja e link.
-3. Copie o link **privado** do feed, que contém credenciais. **Não publique a URL em commit ou chat.**
-4. No repositório, vá em **Settings → Secrets and variables → Actions → New repository secret**. Nome: `AWIN_FEED_URL`. Valor: URL HTTPS gerada no painel Awin.
-5. Próxima execução do GitHub executa `import_awin.py` e grava até 120 produtos autorizados em `data/affiliate-catalog.json`. URLs de feed são aceitas apenas de domínios oficiais permitidos; não enviamos a chave em logs.
-6. Os preços de feed e o histórico em GitHub serão distintos dos 49 itens de referência na vitrine. A incorporação automática dessas novas ofertas exige validação da origem e do uso das imagens fornecidas.
+## Como adicionar produtos
+- OQVestir: acrescente `id`, `brand`, `name`, `shop`, `url`, `currency=BRL` em `watchlist.json`. Apenas domínios permitidos no código serão acessados.
+- Shopify: adicione coleções de uma loja aprovada na configuração `shopify_sources.json` e, se necessário, ajuste a allowlist de hosts no código; sempre valide primeiro moeda e robots.txt.
 
-Fontes oficiais: https://help.awin.com/developers/docs/product-feed-list-download e https://help.awin.com/developers/docs/downloading-feeds-using-create-a-feed
+O monitoramento via Shopify atualmente utiliza uma amostra de produtos nas primeiras páginas das coleções. Produtos mais antigos podem sair da amostra; não é garantia de cobertura integral. O agendamento do GitHub Actions também pode atrasar.
+
+## Custo
+O workflow utiliza runners padrão de GitHub Actions em um repositório público. Normalmente isso não exige assinatura, sujeito a termos, limites de uso e possíveis alterações de política.
+
+## Segurança
+Não adicione senhas, cookies, tokens ou informações pessoais ao repositório público. O arquivo `import_awin.py` é um protótipo antigo, **não é executado** pelo workflow pessoal e não precisa de credenciais.
