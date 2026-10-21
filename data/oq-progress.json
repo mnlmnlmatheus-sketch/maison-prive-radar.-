@@ -1,8 +1,39 @@
 {
-  "cursor": 0,
-  "lastRunAt": null,
-  "verifiedThisRun": 0,
-  "addedThisRun": 0,
-  "catalogSize": 0,
-  "status": []
+  "lastRunAt": "2026-10-21T23:31:28.310701+00:00",
+  "cursor": 5,
+  "verifiedThisRun": 440,
+  "addedThisRun": 440,
+  "catalogSize": 440,
+  "status": [
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/casacos-e-jaquetas/jaquetas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Calçados",
+      "url": "https://www.oqvestir.com.br/feminino/sapatos/tenis",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Bolsas",
+      "url": "https://www.oqvestir.com.br/feminino/acessorios/bolsas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/camisetas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/vestidos",
+      "status": "ok",
+      "verified": 88
+    }
+  ]
 }
