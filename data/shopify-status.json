@@ -1,5 +1,18 @@
 {
-  "lastRunAt": null,
-  "verified": 0,
-  "status": []
+  "lastRunAt": "2026-10-21T22:47:39.245241+00:00",
+  "verified": 16,
+  "status": [
+    {
+      "shop": "gringa.com.br",
+      "collection": "bolsas-chanel",
+      "status": "ok",
+      "verified": 8
+    },
+    {
+      "shop": "gringa.com.br",
+      "collection": "louis-vuitton",
+      "status": "ok",
+      "verified": 8
+    }
+  ]
 }

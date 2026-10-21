@@ -8,7 +8,7 @@
       "url": "https://www.oqvestir.com.br/jaqueta-masculina-bomber-h-coiner-bege-223231",
       "currency": "BRL",
       "price": 1448.9,
-      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
       "history": [
         {
           "price": 1448.9,
@@ -25,7 +25,7 @@
       "url": "https://www.oqvestir.com.br/tenis-unissex-ua-hylane-off-white-238290",
       "currency": "BRL",
       "price": 260.9,
-      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
       "history": [
         {
           "price": 260.9,
@@ -42,7 +42,7 @@
       "url": "https://www.oqvestir.com.br/tenis-feminino-old-skool-preto-235781",
       "currency": "BRL",
       "price": 180.9,
-      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
       "history": [
         {
           "price": 180.9,
@@ -59,7 +59,7 @@
       "url": "https://www.oqvestir.com.br/tenis-masculino-old-skool-preto-e-branco-260250",
       "currency": "BRL",
       "price": 449.99,
-      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
       "history": [
         {
           "price": 449.99,
@@ -67,9 +67,435 @@
         }
       ],
       "source": "jsonld-or-meta"
+    },
+    "adidas-samba-og-branco-preto-210652": {
+      "id": "adidas-samba-og-branco-preto-210652",
+      "brand": "Adidas Originals",
+      "name": "Tênis Samba OG Branco e Preto",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/tenis-unissex-samba-og-branco-e-preto-210652",
+      "currency": "BRL",
+      "price": 799.99,
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
+      "history": [
+        {
+          "price": 799.99,
+          "at": "2026-10-21T22:47:08.782348+00:00"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "adidas-samba-og-preto-241956": {
+      "id": "adidas-samba-og-preto-241956",
+      "brand": "Adidas Originals",
+      "name": "Tênis Samba OG Preto",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/tenis-unissex-samba-og-preto-241956",
+      "currency": "BRL",
+      "price": 560.9,
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
+      "history": [
+        {
+          "price": 560.9,
+          "at": "2026-10-21T22:47:08.782348+00:00"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "adidas-samba-adv-cinza-213677": {
+      "id": "adidas-samba-adv-cinza-213677",
+      "brand": "Adidas Originals",
+      "name": "Tênis Samba ADV Cinza",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/tenis-masculino-samba-adv-cinza-213677",
+      "currency": "BRL",
+      "price": 560.9,
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
+      "history": [
+        {
+          "price": 560.9,
+          "at": "2026-10-21T22:47:08.782348+00:00"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "adidas-samba-xlg-branco-vermelho-217381": {
+      "id": "adidas-samba-xlg-branco-vermelho-217381",
+      "brand": "Adidas Originals",
+      "name": "Tênis Samba XLG Branco e Vermelho",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/tenis-unissex-samba-xlg-branco-e-vermelho-217381",
+      "currency": "BRL",
+      "price": 799.99,
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
+      "history": [
+        {
+          "price": 799.99,
+          "at": "2026-10-21T22:47:08.782348+00:00"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "boss-p-genius-cinza-199944": {
+      "id": "boss-p-genius-cinza-199944",
+      "brand": "BOSS",
+      "name": "Calça Alfaiataria P-Genius Cinza",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/calca-masculina-alfaiataria-p-genius-cinza-199944",
+      "currency": "BRL",
+      "price": 645.9,
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
+      "history": [
+        {
+          "price": 645.9,
+          "at": "2026-10-21T22:47:08.782348+00:00"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "boss-hover-striped-preto-225264": {
+      "id": "boss-hover-striped-preto-225264",
+      "brand": "BOSS",
+      "name": "Calça Hover Striped Preto",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/calca-masculina-hover-striped-c-preto-225264",
+      "currency": "BRL",
+      "price": 672.9,
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
+      "history": [
+        {
+          "price": 672.9,
+          "at": "2026-10-21T22:47:08.782348+00:00"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "boss-p-genius-bege-218752": {
+      "id": "boss-p-genius-bege-218752",
+      "brand": "BOSS",
+      "name": "Calça Alfaiataria P-Genius Bege",
+      "shop": "OQVestir",
+      "url": "https://www.oqvestir.com.br/calca-masculina-alfaiataria-p-genius-bege-218752",
+      "currency": "BRL",
+      "price": 805.9,
+      "checkedAt": "2026-10-21T22:47:08.782348+00:00",
+      "history": [
+        {
+          "price": 805.9,
+          "at": "2026-10-21T22:47:08.782348+00:00"
+        }
+      ],
+      "source": "jsonld-or-meta"
+    },
+    "shopify-390a285ed0da76d337": {
+      "id": "shopify-390a285ed0da76d337",
+      "brand": "Chanel",
+      "name": "GRAND SHOPPING TOTE CAVIAR",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/grand-shopping-tote-caviar-chanel-00149451-boch?variant=67754452058357",
+      "currency": "BRL",
+      "price": 17635.29,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_49d0fafb-c0c0-4461-913c-a44969547a66.png?v=1792588545",
+      "source": "Shopify public catalog",
+      "variantId": "67754452058357",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 17635.29,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-ffa9f1c8e438df6158": {
+      "id": "shopify-ffa9f1c8e438df6158",
+      "brand": "Chanel",
+      "name": "CASUAL ROCK CAMERA BAG",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/casual-rock-camera-bag-chanel-00150723-boch?variant=67690084598005",
+      "currency": "BRL",
+      "price": 13072.94,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_f69d35f7-f058-4d6a-a940-365cbda2ff4b.png?v=1792191285",
+      "source": "Shopify public catalog",
+      "variantId": "67690084598005",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 13072.94,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-cc487dca276162ac32": {
+      "id": "shopify-cc487dca276162ac32",
+      "brand": "Chanel",
+      "name": "JUMBO CLASSIC DOUBLE FLAP CAVIAR",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/jumbo-classic-double-flap-caviar-chanel-00112646-boch?variant=67688984838389",
+      "currency": "BRL",
+      "price": 50576.47,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_3315a501-e9e0-426d-ab06-f0011bab5f56.png?v=1792082395",
+      "source": "Shopify public catalog",
+      "variantId": "67688984838389",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 50576.47,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-aedb05095fb568a5d2": {
+      "id": "shopify-aedb05095fb568a5d2",
+      "brand": "Chanel",
+      "name": "WILD STITCH ACCORDION FLAP BAG",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/wild-stitch-accordion-flap-bag-chanel-00126468-boch?variant=67662307950837",
+      "currency": "BRL",
+      "price": 14105.88,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_c81fe477-e19e-4f62-9064-4775359292f3.png?v=1792335325",
+      "source": "Shopify public catalog",
+      "variantId": "67662307950837",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 14105.88,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-a2e9e5870868e3dd5f": {
+      "id": "shopify-a2e9e5870868e3dd5f",
+      "brand": "Chanel",
+      "name": "JUMBO CLASSIC DOUBLE FLAP LAMBSKIN",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/jumbo-classic-double-flap-lambskin-chanel-00149480-boch?variant=67652486201589",
+      "currency": "BRL",
+      "price": 43517.65,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_c2c2947b-6979-4ddb-9670-285cb455f0be.png?v=1791987760",
+      "source": "Shopify public catalog",
+      "variantId": "67652486201589",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 43517.65,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-3dde70eaf1fbc1cea3": {
+      "id": "shopify-3dde70eaf1fbc1cea3",
+      "brand": "Chanel",
+      "name": "MAXI CLASSIC DOUBLE FLAP CAVIAR",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/maxi-classic-double-flap-caviar-chanel-00149481-boch?variant=67652466376949",
+      "currency": "BRL",
+      "price": 52458.82,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_2a1179f2-3812-4e0d-9902-1f1bf7c0e26a.png?v=1791988447",
+      "source": "Shopify public catalog",
+      "variantId": "67652466376949",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 52458.82,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-8b08b970a2a4779d7c": {
+      "id": "shopify-8b08b970a2a4779d7c",
+      "brand": "Chanel",
+      "name": "JUMBO CLASSIC DOUBLE FLAP CAVIAR",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/jumbo-classic-double-flap-caviar-chanel-00150459-boch?variant=67641549455605",
+      "currency": "BRL",
+      "price": 43870.59,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_fa00654b-d8a4-4155-99cb-db95b51fff95.png?v=1791408496",
+      "source": "Shopify public catalog",
+      "variantId": "67641549455605",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 43870.59,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-f1196308b0e5f7e465": {
+      "id": "shopify-f1196308b0e5f7e465",
+      "brand": "Chanel",
+      "name": "MEDIUM VELVET BOY BAG",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/medium-velvet-boy-bag-chanel-00150455-boch?variant=67641443123445",
+      "currency": "BRL",
+      "price": 22223.53,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_1f7a1037-042e-4f1a-8de3-706a77615c27.png?v=1791586411",
+      "source": "Shopify public catalog",
+      "variantId": "67641443123445",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 22223.53,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-9c48ed727bed773477": {
+      "id": "shopify-9c48ed727bed773477",
+      "brand": "Louis Vuitton",
+      "name": "TAIGA PÉGASE LÉGÈRE BUSINESS 55",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/taiga-pegase-legere-business-55-louis-vuitton-00149862-bolo?variant=67755345641717",
+      "currency": "BRL",
+      "price": 4117.65,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_45f0c76e-d89c-4c3f-9aa6-ff7d6b533da1.png?v=1792506993",
+      "source": "Shopify public catalog",
+      "variantId": "67755345641717",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 4117.65,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-a23cbd354e3accf3e9": {
+      "id": "shopify-a23cbd354e3accf3e9",
+      "brand": "Louis Vuitton",
+      "name": "MONOGRAM NEVERFULL GM",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/monogram-neverfull-gm-louis-vuitton-00145078-bolo?variant=67755290165493",
+      "currency": "BRL",
+      "price": 5047.06,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_748f5e38-5013-488a-b5ca-da44c4ea0f90.png?v=1792608491",
+      "source": "Shopify public catalog",
+      "variantId": "67755290165493",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 5047.06,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-e2756a6229346d82cd": {
+      "id": "shopify-e2756a6229346d82cd",
+      "brand": "Louis Vuitton",
+      "name": "DAMIER ÉBÈNE SPEEDY 30",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/damier-ebene-speedy-30-louis-vuitton-00137789-bolo?variant=67755183472885",
+      "currency": "BRL",
+      "price": 7400.0,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_c54cff53-6e4a-48ef-99b8-0e96b8fe2df4.png?v=1792504126",
+      "source": "Shopify public catalog",
+      "variantId": "67755183472885",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 7400.0,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-17c85c6b59777010a7": {
+      "id": "shopify-17c85c6b59777010a7",
+      "brand": "Louis Vuitton",
+      "name": "SOFIA COPPOLA SC GM BAG",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/sofia-coppola-sc-gm-bag-louis-vuitton-00127008-bolo?variant=67754583392501",
+      "currency": "BRL",
+      "price": 6458.82,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_24afe474-a3a2-4d1f-8c27-cfe4807ad617.png?v=1792501850",
+      "source": "Shopify public catalog",
+      "variantId": "67754583392501",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 6458.82,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-6f1478c0f85512bb3f": {
+      "id": "shopify-6f1478c0f85512bb3f",
+      "brand": "Louis Vuitton",
+      "name": "DAMIER ÉBÈNE SPEEDY 35",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/damier-ebene-speedy-35-louis-vuitton-00115184-bolo?variant=67754581197045",
+      "currency": "BRL",
+      "price": 7752.94,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_90aaf05e-dbe1-44e0-be06-a036a3374b93.png?v=1792603777",
+      "source": "Shopify public catalog",
+      "variantId": "67754581197045",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 7752.94,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-7f21b075f6c6f13046": {
+      "id": "shopify-7f21b075f6c6f13046",
+      "brand": "Louis Vuitton",
+      "name": "VINTAGE DAMIER ÉBÈNE NOLITA",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/vintage-damier-ebene-nolita-louis-vuitton-00102979-bolo?variant=67754530930933",
+      "currency": "BRL",
+      "price": 6576.47,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_0021e14f-6e9b-43a7-9f18-9b78d4f7bd8b.png?v=1792604690",
+      "source": "Shopify public catalog",
+      "variantId": "67754530930933",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 6576.47,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-9713137005a8190b08": {
+      "id": "shopify-9713137005a8190b08",
+      "brand": "Louis Vuitton",
+      "name": "MONOGRAM MONTSOURIS NM",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/monogram-montsouris-nm-louis-vuitton-00142886-bolo?variant=67754506682613",
+      "currency": "BRL",
+      "price": 14223.53,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_d31ae576-145d-4695-bbd2-b4adb04e643e.png?v=1792602499",
+      "source": "Shopify public catalog",
+      "variantId": "67754506682613",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 14223.53,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
+    },
+    "shopify-7198bab1445865223e": {
+      "id": "shopify-7198bab1445865223e",
+      "brand": "Louis Vuitton",
+      "name": "VINTAGE MONOGRAM MULTIPLI CITE",
+      "shop": "Gringa",
+      "url": "https://gringa.com.br/products/vintage-monogram-multipli-cite-louis-vuitton-00136831-bolo?variant=67754470637813",
+      "currency": "BRL",
+      "price": 4694.12,
+      "image": "https://cdn.shopify.com/s/files/1/0370/7030/7463/files/frente_51cfb51b-1089-4718-a35b-17669442322b.png?v=1792588943",
+      "source": "Shopify public catalog",
+      "variantId": "67754470637813",
+      "checkedAt": "2026-10-21T22:47:39.245241+00:00",
+      "history": [
+        {
+          "price": 4694.12,
+          "at": "2026-10-21T22:47:39.245241+00:00"
+        }
+      ]
     }
   },
-  "lastRunAt": "2026-10-21T19:18:30.545233+00:00",
-  "successfulChecks": 4,
-  "dropsDetected": 0
+  "lastRunAt": "2026-10-21T22:47:08.782348+00:00",
+  "successfulChecks": 11,
+  "dropsDetected": 0,
+  "shopifyLastRunAt": "2026-10-21T22:47:39.245241+00:00",
+  "shopifyVerifiedChecks": 16,
+  "shopifyDropsDetected": 0
 }
