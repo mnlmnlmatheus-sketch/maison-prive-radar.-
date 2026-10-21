@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Monitor horário conservador: somente HTTPS permitido, robots.txt e preços BRL estruturados."""
-import json, os, re, time, urllib.request, urllib.parse, urllib.robotparser
+import json, os, re, time, urllib.request, urllib.parse, urllib.robotparser, urllib.error
 from datetime import datetime, timezone
 from decimal import Decimal, InvalidOperation
 from html.parser import HTMLParser
@@ -95,7 +95,10 @@ def main():
         ok,why=permitted(url)
         if not ok:print(pid,"not checked:",why);continue
         try:v=extract(fetch(url))
-        except Exception as e:print(pid,"fetch unavailable:",type(e).__name__);continue
+        except urllib.error.HTTPError as e:
+            print(pid, "fetch blocked/error HTTP", e.code);continue
+        except Exception as e:
+            print(pid,"fetch unavailable:",type(e).__name__);continue
         if v is None:print(pid,"BRL price not found");continue
         old=db["products"].get(pid,{})
         previous=old.get("price")
@@ -111,4 +114,13 @@ def main():
     db["lastRunAt"]=now;db["successfulChecks"]=checked;db["dropsDetected"]=drops
     write("data/prices.json",db);write("data/events.json",events[-200:])
     print(f"Completed: {checked} verified, {drops} drops")
+    summary_path=os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        with open(summary_path,"a",encoding="utf-8") as fp:
+            fp.write("## Maison Privé · Resultado do Radar\\n\\n")
+            fp.write(f"- Produtos verificados com preço em BRL: **{checked}**\\n")
+            fp.write(f"- Quedas confirmadas: **{drops}**\\n")
+            fp.write(f"- Produtos na lista: **{len(watch)}**\\n")
+            if checked==0:fp.write("\\n**Atenção:** nenhum preço pôde ser confirmado. A loja pode estar bloqueando consultas automáticas; não houve atualização de preços.\\n")
+    if checked==0:print("::warning title=Sem preços confirmados::O robô executou, mas nenhuma loja forneceu um preço verificável. Não há queda confirmada.")
 if __name__=="__main__":main()
