@@ -1,5 +1,8 @@
 name: Maison Prive - Radar de Precos
 on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/radar-precos.yml']
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
