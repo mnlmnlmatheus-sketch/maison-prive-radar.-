@@ -116,7 +116,16 @@ def main():
             page=Parser()
             page.feed(page_html)
             candidate=page.meta.get("og:image") or page.meta.get("twitter:image")
-            if isinstance(candidate,str) and candidate.startswith("https://"):
+            if not candidate:
+                for node in objects(page.ld):
+                    if str(node.get("@type","")).lower()!="product":continue
+                    v=node.get("image")
+                    if isinstance(v,list):v=v[0] if v else None
+                    if isinstance(v,dict):v=v.get("url")
+                    if isinstance(v,str) and v.startswith("https://"):
+                        candidate=v
+                        break
+            if isinstance(candidate,str) and candidate.startswith("https://oqvestir.fbitsstatic.net/"):
                 photo=candidate
         except Exception:
             pass
