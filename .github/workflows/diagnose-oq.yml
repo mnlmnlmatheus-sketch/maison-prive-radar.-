@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Testar metadados de produto e categoria
-        run: python3 scripts/diagnose_oq.py
+        run: PYTHONPATH=. python3 scripts/diagnose_oq.py
