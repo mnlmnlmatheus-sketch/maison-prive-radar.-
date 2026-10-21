@@ -4,6 +4,7 @@ import hashlib
 import json
 import os
 import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -171,8 +172,11 @@ def collect(config, opener=fetch):
             if not robots.can_fetch(UA,url):
                 statuses.append({"shop":host,"collection":collection,"status":"blocked by robots.txt"});continue
             try:
+                time.sleep(3)  # cortesia: não bombardear a loja
                 payload=json.loads(opener(url,host))
                 products=parse_products(payload,host,src.get("name",host),int(src.get("limit_per_collection",8)))
+            except urllib.error.HTTPError as exc:
+                statuses.append({"shop":host,"collection":collection,"status":"HTTP "+str(exc.code)+"; preço anterior preservado"});continue
             except Exception as exc:
                 statuses.append({"shop":host,"collection":collection,"status":"read failed: "+type(exc).__name__});continue
             statuses.append({"shop":host,"collection":collection,"status":"ok","verified":len(products)})
