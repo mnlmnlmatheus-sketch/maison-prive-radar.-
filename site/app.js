@@ -19,7 +19,7 @@ const naturalCategory = p => {
  return 'Acessórios';
 };
 const store = {
- all:[], visible:[], favorites:new Set(), compare:new Set(), search:'', category:'',brand:'',shop:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,sort:'relevance', pageSize:36, shown:36,list:false, updated:false, loading:true, synced:null, error:false
+ all:[], visible:[], favorites:new Set(), compare:new Set(), search:'', category:'',brand:'',shop:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,sort:'relevance', pageSize:36, shown:36,list:false, updated:false, started:false, loading:true, synced:null, error:false
 };
 const loadSet = key => {try {const a=JSON.parse(localStorage.getItem(key)||'[]');return new Set(Array.isArray(a)?a:[])}catch(e){return new Set()}};
 store.favorites=loadSet('maison-favorites-v9');
@@ -59,6 +59,8 @@ function score(p,q) {
  return score;
 }
 async function load() {
+ if(store.started)return;
+ store.started=true;
  $('syncLabel').textContent='Carregando preços verificados…';
  try {
   const [pricesResponse,catalogResponse]=await Promise.allSettled([
@@ -345,6 +347,6 @@ $('menuButton').addEventListener('click',()=>{const was=$('mobileMenu').hidden;$
 $('mobileMenu').addEventListener('click',e=>{if(e.target.closest('a')){$('mobileMenu').hidden=true;$('menuButton').setAttribute('aria-expanded','false')}});
 document.querySelectorAll('.search-focus').forEach(x=>x.addEventListener('click',()=>{document.getElementById('catalogo').scrollIntoView({behavior:'smooth'});setTimeout(()=>$('searchInput').focus(),320)}));
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLayers();if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){e.preventDefault();$('searchInput').focus()}});
-window.addEventListener('pageshow',()=>{if(!store.updated){store.updated=true;load()}});
+window.addEventListener('pageshow',()=>{if(!store.started)load()});
 if(document.readyState!=='loading')load();else document.addEventListener('DOMContentLoaded',load,{once:true});
 })();
