@@ -14,6 +14,9 @@ for url in (URL,CATEGORY):
   for x in objects(parsed.ld):
    if x.get("@type") in ("Product","ItemList"):
     print("DIAG LD",str(x.get("@type")),"image",str(x.get("image"))[:180],"keys",list(x)[:18])
+    if x.get("@type")=="ItemList":
+     elements=x.get("itemListElement",[])
+     print("DIAG ELEMENTS",len(elements),"first",json.dumps(elements[:2],ensure_ascii=False)[:3400])
     break
   print("DIAG LINKS PRODUCT",re.findall(r'href="([^"]+-\\d{5,8}(?:\\?[^"]*)?)"',html,re.I)[:6])
   print("DIAG SAMPLE IMG",re.findall(r'<img[^>]{0,600}>',html,re.I)[:2])
