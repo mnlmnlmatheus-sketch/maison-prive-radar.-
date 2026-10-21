@@ -34,8 +34,19 @@ def brand_for(p):
         if brand.casefold() in name:return brand
     return "Marca não identificada"
 
+def brand_map_from_html(html):
+    """Une item_id e item_brand declarados na camada pública de produtos, sem adivinhar marca."""
+    result={}
+    expression=r'item_id:(\d{5,8})(?:(?!item_id:).){0,900}?item_brand:"([^"]{1,95})"'
+    for match in re.finditer(expression,html,re.DOTALL):
+        brand=match.group(2).strip()
+        if brand and brand.lower() not in ("undefined","null"):
+            result[match.group(1)]=brand
+    return result
+
 def parse_itemlist(html,category,when):
     parser=Parser();parser.feed(html)
+    brands=brand_map_from_html(html)
     output=[]
     seen=set()
     for element in objects(parser.ld):
@@ -72,7 +83,7 @@ def parse_itemlist(html,category,when):
             if pid in seen:continue
             seen.add(pid)
             output.append({
-                "id":pid,"name":name,"brand":brand_for(item),"shop":"OQVestir","category":category,
+                "id":pid,"name":name,"brand":brands.get(key) or brand_for(item),"shop":"OQVestir","category":category,
                 "price":amount,"currency":"BRL","url":target,"image":photo,
                 "checkedAt":when,"firstSeenAt":when,"source":"OQVestir category structured data"
             })
