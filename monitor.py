@@ -9,6 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 UA = "MaisonPrive-Radar/1.0 (respects robots.txt)"
 HOSTS = {"www.farfetch.com","www.sephora.com.br","www.oqvestir.com.br","www.birkenstock.com.br"}
+ROBOTS_CACHE = {}
 def read(path, default):
     try: return json.loads((ROOT / path).read_text(encoding="utf-8"))
     except (OSError, ValueError): return default
@@ -66,14 +67,16 @@ def extract(html):
 def permitted(url):
     p=urllib.parse.urlsplit(url)
     if p.scheme!="https" or p.hostname not in HOSTS or p.username or p.password:return False,"host"
-    robots=urllib.robotparser.RobotFileParser()
-    try:
-        req=urllib.request.Request(f"https://{p.hostname}/robots.txt",headers={"User-Agent":UA})
-        with urllib.request.urlopen(req,timeout=12) as r:
-            if r.status!=200:return False,"robots"
-            robots.parse(r.read(250000).decode("utf-8","replace").splitlines())
-        return robots.can_fetch(UA,url),"robots"
-    except Exception:return False,"robots_unavailable"
+    if p.hostname not in ROBOTS_CACHE:
+        robots=urllib.robotparser.RobotFileParser()
+        try:
+            req=urllib.request.Request(f"https://{p.hostname}/robots.txt",headers={"User-Agent":UA})
+            with urllib.request.urlopen(req,timeout=12) as r:
+                if r.status!=200:return False,"robots"
+                robots.parse(r.read(250000).decode("utf-8","replace").splitlines())
+            ROBOTS_CACHE[p.hostname]=robots
+        except Exception:return False,"robots_unavailable"
+    return ROBOTS_CACHE[p.hostname].can_fetch(UA,url),"robots"
 def fetch(url):
     req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept":"text/html"})
     with urllib.request.urlopen(req,timeout=18) as r:
