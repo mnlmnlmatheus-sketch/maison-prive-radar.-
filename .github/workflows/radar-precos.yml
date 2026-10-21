@@ -38,7 +38,6 @@ jobs:
           AWIN_FEED_URL: ${{ secrets.AWIN_FEED_URL }}
         run: python3 import_awin.py
       - name: Salvar historico
-        if: github.event_name != 'push'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
