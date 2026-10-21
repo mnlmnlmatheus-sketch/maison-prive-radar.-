@@ -1,4 +1,5 @@
 name: Maison Prive - Radar de Precos
+# Teste integrado: fotografias originais e catálogo ampliado
 on:
   push:
     branches: [main]
