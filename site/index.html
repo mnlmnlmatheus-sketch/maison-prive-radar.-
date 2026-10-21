@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#181d1a">
+  <meta name="description" content="Maison Privé — seu catálogo pessoal de moda e luxo, com fotografias autênticas de produtos, pesquisa avançada e histórico de preços verificáveis.">
+  <meta property="og:title" content="Maison Privé · The Private Edit">
+  <meta property="og:description" content="A curadoria é sua. Explore peças reais, compare preços e acompanhe suas escolhas.">
+  <title>Maison Privé — The Private Edit</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a href="#catalogo" class="skip-link">Pular para o catálogo</a>
+  <div class="topline"><span>MAISON PRIVÉ <span class="topline-star">✳</span> PRIVATE EDITION</span><span>CURADORIA PESSOAL • BRASIL</span><span>FOTOGRAFIAS ORIGINAIS, SEM IA</span></div>
+  <header class="header" id="topo">
+    <div class="header-wrap">
+      <a class="logo" href="#topo" aria-label="Maison Privé, início">MAISON <span>✳</span> PRIVÉ<small>THE PRIVATE EDIT</small></a>
+      <nav class="desktop-nav" aria-label="Navegação principal">
+        <a href="#catalogo">Explorar</a>
+        <a href="#colecoes">Coleções</a>
+        <a href="#como-funciona">Sobre o radar</a>
+      </nav>
+      <div class="header-actions">
+        <button class="icon-button search-focus" title="Pesquisar" aria-label="Pesquisar"><svg viewBox="0 0 24 24"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m16 16 5 5"/></svg></button>
+        <button class="icon-button" id="favoriteButton" title="Favoritos" aria-label="Abrir favoritos"><svg viewBox="0 0 24 24"><path d="M20.8 8.4c0 4.2-8.8 10.5-8.8 10.5S3.2 12.6 3.2 8.4a4.8 4.8 0 0 1 8.8-2.6 4.8 4.8 0 0 1 8.8 2.6Z"/></svg><span id="favCount" class="count-bubble" hidden>0</span></button>
+        <button class="menu-button" id="menuButton" aria-label="Abrir menu" aria-expanded="false"><span></span><span></span></button>
+      </div>
+    </div>
+    <div id="mobileMenu" class="mobile-menu" hidden><a href="#catalogo">Explorar peças</a><a href="#colecoes">Coleções</a><a href="#como-funciona">Sobre o radar</a></div>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-line"></span> EDIÇÃO PESSOAL · 2026</div>
+        <h1 id="hero-title">O luxo é<br><em>uma questão</em><br>de escolha<span class="hero-stop">.</span></h1>
+        <p>Uma seleção de produtos reais, em lojas reais. Descubra marcas, refine sua pesquisa e acompanhe os preços das peças que fazem sentido para você.</p>
+        <div class="hero-actions"><a href="#catalogo" class="btn btn-dark">Explorar o catálogo <span aria-hidden="true">↗</span></a><a class="text-link" href="#como-funciona">Como funciona <span>↗</span></a></div>
+        <div class="hero-caption"><span class="mini-icon">✳</span> FOTOGRAFIAS DAS PRÓPRIAS LOJAS <span class="dot"></span> SEM IMAGENS GERADAS</div>
+      </div>
+      <div class="hero-visual" id="heroVisual"><div class="hero-image-backdrop"></div><img id="heroImage" alt="" decoding="async" fetchpriority="high"><div class="hero-photo-label"><span id="heroBrand">THE PRIVATE EDIT</span><small id="heroProduct">FOTOGRAFIA ORIGINAL</small></div><div class="vertical-text">CURATED. NOT GENERATED. · MMXXVI</div></div>
+      <div class="hero-index">01 / THE PRIVATE EDIT</div>
+    </section>
+    <div class="proof-strip" aria-label="Informações do catálogo">
+      <div><b id="totalCount">—</b><span>PEÇAS NA CURADORIA</span></div><i></i>
+      <div><b id="brandCount">—</b><span>MARCAS</span></div><i></i>
+      <div><b id="sourceCount">—</b><span>LOJAS ACOMPANHADAS</span></div><i></i>
+      <div class="proof-quality"><span class="proof-seal">✳</span><span>FOTOS REAIS<br><strong>NUNCA GERADAS POR IA</strong></span></div>
+    </div>
+    <section class="collections section-wrap" id="colecoes">
+      <div class="section-top"><div><p class="overline">SELEÇÕES DA MAISON</p><h2>Encontre seu <em>universo.</em></h2></div><span class="fine-print">Peças, marcas e histórias para explorar.</span></div>
+      <div class="collection-grid">
+        <button class="collection-card collection-bags" data-cat="Bolsas"><span class="collection-no">01 / CURADORIA</span><span class="collection-title">Bolsas <i>↗</i></span><small>ÍCONE, MATÉRIA, PRESENÇA</small><img id="collectionBagImage" alt="" loading="lazy"></button>
+        <button class="collection-card collection-shoes" data-cat="Calçados"><span class="collection-no">02 / CURADORIA</span><span class="collection-title">Calçados <i>↗</i></span><small>A PEÇA QUE DEFINE O PASSO</small><img id="collectionShoeImage" alt="" loading="lazy"></button>
+        <button class="collection-card collection-all" data-cat=""><span class="collection-no">03 / CURADORIA</span><span class="collection-title">Toda a Maison <i>↗</i></span><small>UMA SELEÇÃO SEM LIMITES</small><span class="collection-large-icon">✳</span></button>
+      </div>
+    </section>
+    <section class="catalog-section" id="catalogo">
+      <div class="section-wrap">
+        <div class="catalog-heading"><div><p class="overline">O ACERVO · ATUALIZADO PELA FONTE</p><h2>Descubra sua <em>próxima peça.</em></h2><p>Pesquise e combine filtros em todo o acervo de produtos com preços registrados.</p></div><div class="catalog-heading-right"><span id="syncDot" class="status-dot"></span><span id="syncLabel">Carregando catálogo…</span></div></div>
+        <div class="search-area">
+          <div class="search-main"><svg viewBox="0 0 24 24"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m16 16 5 5"/></svg><input id="searchInput" type="search" aria-label="Pesquisar produtos e marcas" placeholder="Busque por marca, modelo, peça ou palavra-chave…" autocomplete="off"><kbd>/</kbd><button id="clearSearch" aria-label="Limpar busca" hidden>×</button></div>
+          <button id="filterToggle" class="btn btn-outline" aria-controls="filters" aria-expanded="false"><span class="filter-icon">☷</span> Filtros <span id="filterBadge" class="filter-badge" hidden>0</span></button>
+        </div>
+        <div id="suggestions" class="suggestions" hidden></div>
+        <div class="quick-filters" id="quickFilters" aria-label="Filtros rápidos"><button data-quick="all" class="is-active">Tudo</button><button data-quick="Bolsas">Bolsas</button><button data-quick="Calçados">Calçados</button><button data-quick="Roupas">Roupas</button><button data-quick="Acessórios">Acessórios</button><button data-quick="Chanel">Chanel</button><button data-quick="Louis Vuitton">Louis Vuitton</button><button data-quick="Adidas Originals">Adidas</button><button data-quick="favorites">♥ Favoritos</button></div>
+        <div id="filters" class="filters-panel" hidden>
+          <div class="filters-header"><span>REFINE SUA PESQUISA</span><button id="resetFilters">Limpar todos ↗</button></div>
+          <div class="filters-layout">
+            <label class="field"><span>CATEGORIA</span><select id="categorySelect"><option value="">Todas as categorias</option></select></label>
+            <label class="field"><span>MARCA</span><select id="brandSelect"><option value="">Todas as marcas</option></select></label>
+            <label class="field"><span>LOJA</span><select id="shopSelect"><option value="">Todas as lojas</option></select></label>
+            <label class="field"><span>PREÇO MÍNIMO (R$)</span><input type="number" id="minPrice" placeholder="0" min="0"></label>
+            <label class="field"><span>PREÇO MÁXIMO (R$)</span><input type="number" id="maxPrice" placeholder="Sem limite" min="0"></label>
+            <div class="check-options"><label><input type="checkbox" id="withImage"> Apenas com fotos reais</label><label><input type="checkbox" id="onlyFresh"> Verificados nos últimos 7 dias</label><label><input type="checkbox" id="onlyDiscount"> Queda de preço confirmada</label></div>
+          </div>
+          <div class="filter-footer"><small>Filtros combináveis, sem anúncios ou resultados patrocinados.</small><button id="applyFilters" class="btn btn-dark">Ver resultados ↗</button></div>
+        </div>
+        <div class="results-bar"><div><strong id="resultCount">—</strong> <span id="resultText">peças encontradas</span><span class="results-separator">/</span><span id="searchContext">Uma seleção para explorar.</span></div><div class="results-controls"><label for="sortSelect">ORDENAR</label><select id="sortSelect"><option value="relevance">Mais relevantes</option><option value="newest">Atualizações recentes</option><option value="price-asc">Menor preço</option><option value="price-desc">Maior preço</option><option value="brand">Marca A–Z</option><option value="discount">Maiores quedas confirmadas</option></select><button id="viewToggle" class="view-toggle" title="Alternar visualização" aria-label="Alternar visualização"><svg viewBox="0 0 24 24"><rect x="2" y="2" width="8" height="8"/><rect x="14" y="2" width="8" height="8"/><rect x="2" y="14" width="8" height="8"/><rect x="14" y="14" width="8" height="8"/></svg></button></div></div>
+        <div id="activeFilters" class="active-filters" hidden></div>
+        <div id="loadingCards" class="product-grid skeleton-grid" aria-hidden="true"><div></div><div></div><div></div><div></div></div>
+        <div id="productGrid" class="product-grid" aria-live="polite"></div>
+        <div id="emptyState" class="empty-state" hidden><span>✳</span><h3>Nenhuma peça encontrada.</h3><p>Experimente retirar alguns filtros ou procurar por outra marca.</p><button id="emptyReset" class="btn btn-dark">Ver todo o catálogo ↗</button></div>
+        <div class="load-more" id="loadMoreBox" hidden><p id="loadedCaption"></p><button id="loadMore" class="btn btn-outline">Carregar mais peças <span>↓</span></button></div>
+      </div>
+    </section>
+    <section class="statement" id="como-funciona"><div class="statement-inner"><p class="overline">UMA CURADORIA SEM FILTROS ARTIFICIAIS</p><h2>O valor está em<br><em>encontrar a peça certa.</em></h2><div class="statement-info"><div><b>01</b><h3>Fotos verdadeiras</h3><p>Mostramos somente imagens dos próprios anúncios das lojas. Nada gerado por IA ou inventado.</p></div><div><b>02</b><h3>Preços com contexto</h3><p>Indicamos a última leitura de cada produto. Valores de checkout, Pix e disponibilidade podem variar.</p></div><div><b>03</b><h3>Feito para você</h3><p>Guarde favoritos e compare opções no próprio navegador. Sem anúncios, sem comissões e sem cadastro.</p></div></div></div></section>
+  </main>
+  <footer><div class="footer-main"><div><div class="footer-logo">MAISON ✳ PRIVÉ</div><p>O universo do luxo, na sua própria medida.</p></div><div class="footer-links"><a href="#catalogo">Catálogo</a><a href="#colecoes">Coleções</a><a href="#como-funciona">Como funciona</a><a target="_blank" rel="noopener noreferrer" href="https://github.com/mnlmnlmatheus-sketch/maison-prive-radar.-">Fonte dos dados ↗</a></div></div><div class="footer-bottom"><span>© MAISON PRIVÉ · PRIVATE COLLECTION</span><span>USO PESSOAL · NÃO AFILIADO ÀS MARCAS OU LOJAS</span><span>FOTOGRAFIAS CREDITADAS ÀS LOJAS DE ORIGEM</span></div></footer>
+  <div id="toast" role="status" class="toast" aria-live="polite"></div>
+  <div id="drawerBackdrop" class="drawer-backdrop" hidden></div>
+  <aside id="favDrawer" class="fav-drawer" role="dialog" aria-modal="true" aria-label="Meus favoritos" hidden><div class="drawer-header"><div><p class="overline">SUA EDIÇÃO</p><h2>Favoritos <span id="drawerCount"></span></h2></div><button id="drawerClose" aria-label="Fechar favoritos">×</button></div><div id="favList" class="fav-list"></div><p class="drawer-note">Salvos somente neste navegador. Nenhuma conta necessária.</p></aside>
+  <div id="compareBar" class="compare-bar" hidden><div><span class="compare-symbol">↔</span><strong id="compareCount">0 peças</strong><small>Selecionadas para comparar</small></div><button id="compareClear" class="compare-clear">Limpar</button><button id="compareOpen" class="btn btn-light">Comparar peças ↗</button></div>
+  <div id="modalBackdrop" class="modal-backdrop" hidden></div>
+  <section id="productModal" class="product-modal" role="dialog" aria-modal="true" aria-label="Detalhes do produto" hidden><button id="modalClose" class="modal-close" aria-label="Fechar">×</button><div id="modalBody"></div></section>
+  <section id="compareModal" class="compare-modal" role="dialog" aria-modal="true" aria-label="Comparar produtos" hidden><button id="compareModalClose" class="modal-close" aria-label="Fechar">×</button><div id="compareBody"></div></section>
+</body>
+</html>
