@@ -26,13 +26,13 @@ jobs:
           python3 -m unittest discover -s tests -v
       - name: Verificar precos
         run: python3 monitor.py
-      - name: Ampliar catálogo apenas com fotos das lojas
-        run: python3 catalog_expand.py
+      - name: Importar catálogo público OQVestir com fotos originais
+        run: python3 oq_listings.py
       - name: Salvar historico
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/prices.json data/events.json data/shopify-status.json data/catalog.json data/catalog-progress.json
+          git add data/prices.json data/events.json data/catalog.json data/oq-progress.json
           if ! git diff --cached --quiet; then
             git commit -m 'Radar: atualizar historico de precos'
             git fetch origin main
