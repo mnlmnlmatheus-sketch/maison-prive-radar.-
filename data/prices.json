@@ -8,7 +8,7 @@
       "url": "https://www.oqvestir.com.br/jaqueta-masculina-bomber-h-coiner-bege-223231",
       "currency": "BRL",
       "price": 1448.9,
-      "checkedAt": "2026-10-21T15:13:48.601030+00:00",
+      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
       "history": [
         {
           "price": 1448.9,
@@ -25,7 +25,7 @@
       "url": "https://www.oqvestir.com.br/tenis-unissex-ua-hylane-off-white-238290",
       "currency": "BRL",
       "price": 260.9,
-      "checkedAt": "2026-10-21T15:13:48.601030+00:00",
+      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
       "history": [
         {
           "price": 260.9,
@@ -42,7 +42,7 @@
       "url": "https://www.oqvestir.com.br/tenis-feminino-old-skool-preto-235781",
       "currency": "BRL",
       "price": 180.9,
-      "checkedAt": "2026-10-21T15:13:48.601030+00:00",
+      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
       "history": [
         {
           "price": 180.9,
@@ -59,7 +59,7 @@
       "url": "https://www.oqvestir.com.br/tenis-masculino-old-skool-preto-e-branco-260250",
       "currency": "BRL",
       "price": 449.99,
-      "checkedAt": "2026-10-21T15:13:48.601030+00:00",
+      "checkedAt": "2026-10-21T19:18:30.545233+00:00",
       "history": [
         {
           "price": 449.99,
@@ -69,7 +69,7 @@
       "source": "jsonld-or-meta"
     }
   },
-  "lastRunAt": "2026-10-21T15:13:48.601030+00:00",
+  "lastRunAt": "2026-10-21T19:18:30.545233+00:00",
   "successfulChecks": 4,
   "dropsDetected": 0
 }
