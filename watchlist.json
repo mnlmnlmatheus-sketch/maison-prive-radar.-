@@ -1,26 +1,34 @@
 [
   {
-    "id": "birkenstock-arizona-16453016",
-    "brand": "Birkenstock",
-    "name": "Arizona double-strap sandals",
-    "shop": "Farfetch",
-    "url": "https://www.farfetch.com/br/shopping/women/birkenstock-arizona-double-strap-sandals-item-16453016.aspx",
-    "currency": "BRL"
-  },
-  {
-    "id": "birkenstock-madrid-29373315",
-    "brand": "Birkenstock",
-    "name": "Madrid big buckle sandals",
-    "shop": "Farfetch",
-    "url": "https://www.farfetch.com/br/shopping/women/birkenstock-madrid-big-buckle-sandals-item-29373315.aspx",
-    "currency": "BRL"
-  },
-  {
     "id": "boss-bomber-223231",
     "brand": "BOSS",
     "name": "Jaqueta Bomber H Coiner · Bege",
     "shop": "OQVestir",
     "url": "https://www.oqvestir.com.br/jaqueta-masculina-bomber-h-coiner-bege-223231",
+    "currency": "BRL"
+  },
+  {
+    "id": "vans-hylane-238290",
+    "brand": "VANS",
+    "name": "Tênis UA Hylane Off White",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/tenis-unissex-ua-hylane-off-white-238290",
+    "currency": "BRL"
+  },
+  {
+    "id": "vans-oldskool-f-235781",
+    "brand": "VANS",
+    "name": "Tênis Old Skool Preto Feminino",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/tenis-feminino-old-skool-preto-235781",
+    "currency": "BRL"
+  },
+  {
+    "id": "vans-oldskool-m-260250",
+    "brand": "VANS",
+    "name": "Tênis Old Skool Preto e Branco Masculino",
+    "shop": "OQVestir",
+    "url": "https://www.oqvestir.com.br/tenis-masculino-old-skool-preto-e-branco-260250",
     "currency": "BRL"
   }
 ]
