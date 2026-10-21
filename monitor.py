@@ -97,7 +97,9 @@ def main():
         if not pid or not url:continue
         ok,why=permitted(url)
         if not ok:print(pid,"not checked:",why);continue
-        try:v=extract(fetch(url))
+        try:
+            page_html=fetch(url)
+            v=extract(page_html)
         except urllib.error.HTTPError as e:
             print(pid, "fetch blocked/error HTTP", e.code);continue
         except Exception as e:
@@ -107,7 +109,21 @@ def main():
         previous=old.get("price")
         history=old.get("history",[])
         if not history or previous!=v:history=(history+[{"price":v,"at":now}])[-120:]
-        db["products"][pid]={**item,"price":v,"checkedAt":now,"history":history,"source":"jsonld-or-meta"}
+        # Somente imagens declaradas pela própria página do produto; nunca gerar substitutas.
+        photo=None
+        try:
+            # Reaproveita metadados da resposta validada de preço.
+            page=Parser()
+            page.feed(page_html)
+            candidate=page.meta.get("og:image") or page.meta.get("twitter:image")
+            if isinstance(candidate,str) and candidate.startswith("https://"):
+                photo=candidate
+        except Exception:
+            pass
+        record={**old,**item,"price":v,"checkedAt":now,"history":history,"source":"jsonld-or-meta"}
+        if photo:
+            record["image"]=photo
+        db["products"][pid]=record
         checked+=1
         if isinstance(previous,(int,float)) and v<previous:
             drops+=1;events.append({"id":pid,"previous":previous,"current":v,"at":now,"percent":round(100*(previous-v)/previous,2)})
