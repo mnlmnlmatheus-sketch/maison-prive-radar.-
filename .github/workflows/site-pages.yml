@@ -1,0 +1,36 @@
+name: Maison Prive - Publicar Vitrine
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - '.github/workflows/site-pages.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: maison-prive-site
+  cancel-in-progress: false
+jobs:
+  site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Baixar codigo da vitrine
+        uses: actions/checkout@v4
+      - name: Verificar JavaScript
+        run: node --check site/app.js
+      - name: Preparar GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Empacotar site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./site
+      - name: Publicar site
+        id: deploy
+        uses: actions/deploy-pages@v4
