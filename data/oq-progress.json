@@ -1,37 +1,55 @@
 {
-  "lastRunAt": "2026-10-21T23:31:28.310701+00:00",
-  "cursor": 5,
-  "verifiedThisRun": 440,
-  "addedThisRun": 440,
-  "catalogSize": 440,
+  "lastRunAt": "2026-10-21T23:39:00.129011+00:00",
+  "cursor": 13,
+  "verifiedThisRun": 704,
+  "addedThisRun": 670,
+  "catalogSize": 1110,
   "status": [
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/casacos-e-jaquetas/jaquetas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/blusas",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/feminino/sapatos/tenis",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Bolsas",
-      "url": "https://www.oqvestir.com.br/feminino/acessorios/bolsas",
+      "url": "https://www.oqvestir.com.br/mercadoria/tenis",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas/camisetas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas/casaco-e-jaqueta",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/vestidos",
+      "url": "https://www.oqvestir.com.br/made-by-oqvestir/feminino/roupas/calcas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/made-by-oqvestir/masculino/roupas/camisetas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/saias",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/camisas",
       "status": "ok",
       "verified": 88
     }
