@@ -14,7 +14,7 @@ from monitor import Parser,objects,permitted,fetch,price,read,write
 ROOT=Path(__file__).resolve().parent
 DOMAIN="www.oqvestir.com.br"
 MAX_PRODUCTS=3500
-PER_RUN=5
+PER_RUN=8
 BRANDS=(
 "Adidas Originals X Jennie","Adidas Originals","New Balance","The North Face",
 "Tommy Hilfiger","Tommy Jeans","Armani Exchange","Calvin Klein Jeans",
