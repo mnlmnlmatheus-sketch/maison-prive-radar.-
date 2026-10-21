@@ -1,6 +1,6 @@
 import unittest
 import json
-from oq_listings import parse_itemlist,brand_for
+from oq_listings import parse_itemlist,brand_for,brand_map_from_html
 
 class TestOQListing(unittest.TestCase):
  def setUp(self):
@@ -21,6 +21,12 @@ class TestOQListing(unittest.TestCase):
   self.assertEqual(out[0]["price"],279.99)
   self.assertEqual(out[0]["category"],"Roupas")
   self.assertEqual(out[1]["brand"],"Adidas Originals")
+ def test_brand_mapping_from_public_datalayer(self):
+  data_layer='const data_layer_hotsite_details={items:[{item_id:261774,item_name:"Jaqueta",price:279.99,item_brand:"HERING",item_category:"Jaquetas"}]};'
+  self.assertEqual(brand_map_from_html(data_layer).get("261774"),"HERING")
+  html=data_layer+self.html([self.items[0]])
+  out=parse_itemlist(html,"Roupas","2026-10-21T22:00:00+00:00")
+  self.assertEqual(out[0]["brand"],"HERING")
  def test_reject_non_brl(self):
   item=json.loads(json.dumps(self.items[0]))
   item["offers"]["priceCurrency"]="USD"
