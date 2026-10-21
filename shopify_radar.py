@@ -144,14 +144,24 @@ def collect(config, opener=fetch):
         robots, reason=robots_for(host)
         if not robots:
             statuses.append({"shop":host,"status":reason});continue
-        meta_url=f"https://{host}/meta.json"
-        if not robots.can_fetch(UA,meta_url):
-            statuses.append({"shop":host,"status":"meta disallowed by robots.txt"});continue
-        try:
-            meta=json.loads(opener(meta_url,host))
-            currency=str(meta.get("currency","")).upper()
-        except Exception as exc:
-            statuses.append({"shop":host,"status":"currency unavailable: "+type(exc).__name__});continue
+        currency=""
+        currency_errors=[]
+        for endpoint in ("meta.json","cart.js"):
+            check_url=f"https://{host}/{endpoint}"
+            if not robots.can_fetch(UA,check_url):
+                currency_errors.append(endpoint+": disallowed by robots.txt")
+                continue
+            try:
+                details=json.loads(opener(check_url,host))
+                currency=str(details.get("currency","")).upper()
+                if currency:break
+                currency_errors.append(endpoint+": missing currency")
+            except urllib.error.HTTPError as exc:
+                currency_errors.append(endpoint+": HTTP "+str(exc.code))
+            except Exception as exc:
+                currency_errors.append(endpoint+": "+type(exc).__name__)
+        if not currency:
+            statuses.append({"shop":host,"status":"currency unavailable; "+"; ".join(currency_errors)});continue
         if currency!="BRL":
             statuses.append({"shop":host,"status":"unsupported currency: "+currency});continue
         for collection in src.get("collections",[])[:2]:
