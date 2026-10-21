@@ -1,0 +1,14 @@
+{
+  "shops": [
+    {
+      "name": "Gringa",
+      "host": "gringa.com.br",
+      "currency": "BRL",
+      "collections": [
+        "bolsas-chanel",
+        "louis-vuitton"
+      ],
+      "limit_per_collection": 8
+    }
+  ]
+}
