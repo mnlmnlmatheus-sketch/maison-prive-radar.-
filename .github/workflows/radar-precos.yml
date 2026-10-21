@@ -1,14 +1,5 @@
 name: Maison Prive - Radar de Precos
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/radar-precos.yml'
-      - 'monitor.py'
-      - 'shopify_radar.py'
-      - 'shopify_sources.json'
-      - 'watchlist.json'
-      - 'tests/**'
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
