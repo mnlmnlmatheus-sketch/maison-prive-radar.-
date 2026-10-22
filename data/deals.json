@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T04:43:24.460312+00:00",
+  "updatedAt": "2026-10-22T10:11:11.178093+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 24,
+  "totalVerifiedDeals": 30,
   "products": [
     {
       "id": "king-368423199",
@@ -33,6 +33,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1178141512",
+      "name": "Xerjoff - Mefisto Gentiluomo · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2999.0,
+      "discountPercent": 33.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/375x500-524321-f10d9faa728d81d37416269862782610-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-mefisto-gentiluomo/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -164,6 +180,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1375467695",
+      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
+      "brand": "Nishane",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1179283148",
       "name": "Xerjoff - Erba Pura · 100 ML",
       "brand": "Xerjoff",
@@ -228,6 +260,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1116202657",
+      "name": "By Kilian - Angels' Share · 100 ML",
+      "brand": "By Kilian",
+      "shop": "The King of Parfums",
+      "price": 3499.0,
+      "originalPrice": 4299.0,
+      "discountPercent": 18.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/angels-share1-2d17e278d2fd86631116355424518887-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/by-kilian-angels-share/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-518639225",
       "name": "Montale - Intense Cafe · 100 ML",
       "brand": "Montale",
@@ -241,6 +289,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1024145837",
+      "name": "Tom Ford - Noir Extreme Parfum · 50 ML",
+      "brand": "Tom Ford",
+      "shop": "The King of Parfums",
+      "price": 1399.0,
+      "originalPrice": 1699.0,
+      "discountPercent": 17.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/233011354-tom-ford-noir-extreme-parfum-b4d37c24942f61b7b217848322952493-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/tom-ford-noir-extreme-parfum/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": "Parfum",
+      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-787910067",
+      "name": "Nishane - Hundred Silent Ways X · 100 ML",
+      "brand": "Nishane",
+      "shop": "The King of Parfums",
+      "price": 1869.0,
+      "originalPrice": 2248.0,
+      "discountPercent": 16.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/x-3c625574c16939e63217031062562814-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/nishane-hundred-silent-ways-x/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -385,6 +465,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1610514077",
+      "name": "Armaf - Club de Nuit Intenso Fuego · 105 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 569.0,
+      "originalPrice": 599.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1790947649373-26db0249d47526090f17909476564729-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-intenso-fuego-ow821/",
+      "category": "Perfumes árabes",
+      "volumeMl": 105.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
       "basis": "store-listed-reference"
     }
   ]
