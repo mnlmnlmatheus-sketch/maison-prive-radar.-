@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "id": "king-niche",
+      "url": "https://www.thekingofparfums.com.br/nicho-exclusivo/",
+      "category": "Perfumes de nicho",
+      "maxPages": 60
+    },
+    {
+      "id": "king-all",
+      "url": "https://www.thekingofparfums.com.br/produtos/",
+      "category": "Perfumes",
+      "maxPages": 180
+    }
+  ]
+}
