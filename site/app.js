@@ -18,8 +18,38 @@ const naturalCategory = p => {
  if(/brinco|anel|colar|pulseira|jewel|joia|bijou/.test(text)) return 'Joias';
  return 'Acessórios';
 };
+const COLOR_FAMILIES = [
+ ['Off-white',/\boff white\b|\boffwhite\b|\boff\b/],
+ ['Preto',/\bpreto\b|\bpreta\b|\bblack\b/],
+ ['Branco',/\bbranco\b|\bbranca\b|\bwhite\b/],
+ ['Bege',/\bbege\b|\bcreme\b|\bareia\b|\bnude\b/],
+ ['Marrom',/\bmarrom\b|\bcaramelo\b|\bchocolate\b|\bcafe\b/],
+ ['Azul',/\bazul\b|\bblue\b|\bmarinho\b/],
+ ['Cinza',/\bcinza\b|\bgrafite\b|\bgrey\b/],
+ ['Verde',/\bverde\b|\bgreen\b/],
+ ['Rosa',/\brosa\b|\bpink\b/],
+ ['Vermelho',/\bvermelho\b|\bvermelha\b|\bbordo\b/],
+ ['Amarelo',/\bamarelo\b|\bamarela\b/],
+ ['Dourado',/\bdourado\b|\bdourada\b/],
+ ['Prateado',/\bprateado\b|\bprateada\b/],
+ ['Roxo',/\broxo\b|\broxa\b|\blilas\b/],
+ ['Laranja',/\blaranja\b/]
+];
+const colorOf = p => {
+ const label=String(p.color||p.name?.split(/\s[-–—]\s/).at(-1)||'');
+ const normalized=norm(label);
+ return COLOR_FAMILIES.find(([,rx])=>rx.test(normalized))?.[0]||'';
+};
+const audienceOf = p => {
+ if(['Feminino','Masculino','Unissex'].includes(p.audience))return p.audience;
+ const name=norm(p.name||'');
+ if(name.includes('unissex'))return 'Unissex';
+ if(name.includes('feminin'))return 'Feminino';
+ if(name.includes('masculin'))return 'Masculino';
+ return '';
+};
 const store = {
- all:[], visible:[], favorites:new Set(), compare:new Set(), search:'', category:'',brand:'',shop:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,sort:'relevance', pageSize:36, shown:36,list:false, updated:false, started:false, loading:true, synced:null, error:false
+ all:[], visible:[], favorites:new Set(), compare:new Set(), search:'', category:'',brand:'',shop:'',audience:'',color:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,sort:'relevance', pageSize:36, shown:36,list:false, updated:false, started:false, loading:true, synced:null, error:false
 };
 const loadSet = key => {try {const a=JSON.parse(localStorage.getItem(key)||'[]');return new Set(Array.isArray(a)?a:[])}catch(e){return new Set()}};
 store.favorites=loadSet('maison-favorites-v9');
@@ -39,8 +69,10 @@ function normalizeProduct(raw,src){
  const originalPrice=Number.isFinite(original)&&original>price?original:null;
  const previous=history.length>1?Number(history.at(-2).price):null;
  const drop=Number.isFinite(previous)&&previous>price?Math.round((previous-price)/previous*100):0;
- return {id:String(raw.id),name,brand,shop,price,url,image,checkedAt,history,originalPrice,drop,category:raw.category||naturalCategory(raw),source:raw.source||src,addedAt:raw.addedAt||null,condition:raw.condition||null,
-  searchValue:norm([name,brand,shop,raw.category,raw.productType,raw.tags,raw.condition].filter(Boolean).join(' '))};
+ const category=raw.category||naturalCategory(raw);
+ const audience=audienceOf(raw), color=colorOf(raw);
+ return {id:String(raw.id),name,brand,shop,price,url,image,checkedAt,history,originalPrice,drop,category,audience,color,source:raw.source||src,addedAt:raw.addedAt||null,condition:raw.condition||null,
+  searchValue:norm([name,brand,shop,category,audience,color,raw.productType,raw.tags,raw.condition].filter(Boolean).join(' '))};
 }
 function score(p,q) {
  if(!q)return 0;
@@ -125,12 +157,16 @@ function fillFilters(){
  fill('categorySelect',[...new Set(store.all.map(x=>x.category))]);
  fill('brandSelect',[...new Set(store.all.map(x=>x.brand))]);
  fill('shopSelect',[...new Set(store.all.map(x=>x.shop))]);
+ fill('audienceSelect',[...new Set(store.all.map(x=>x.audience))]);
+ fill('colorSelect',[...new Set(store.all.map(x=>x.color))]);
 }
 function filterAll(){
  let list=store.all.filter(p=>{
   if(store.category&&p.category!==store.category)return false;
   if(store.brand&&p.brand!==store.brand)return false;
   if(store.shop&&p.shop!==store.shop)return false;
+  if(store.audience&&p.audience!==store.audience)return false;
+  if(store.color&&p.color!==store.color)return false;
   if(store.min!==''&&p.price<Number(store.min))return false;
   if(store.max!==''&&p.price>Number(store.max))return false;
   if(store.photos&&!p.image)return false;
@@ -179,7 +215,7 @@ function render(){
  $('clearSearch').hidden=!store.search;
  $('favCount').textContent=store.favorites.size;
  $('favCount').hidden=store.favorites.size===0;
- const filterCount=[store.category,store.brand,store.shop,store.min,store.max,store.photos,store.fresh,store.discount,store.favoritesOnly].filter(x=>x!==''&&x!==false).length;
+ const filterCount=[store.category,store.brand,store.shop,store.audience,store.color,store.min,store.max,store.photos,store.fresh,store.discount,store.favoritesOnly].filter(x=>x!==''&&x!==false).length;
  $('filterBadge').hidden=filterCount===0;$('filterBadge').textContent=filterCount;
  renderChips();updateCompareBar();document.title=(store.search?store.search+' — ':'')+'Maison Privé · The Private Edit';
 }
@@ -190,6 +226,8 @@ function renderChips(){
  if(store.category)add(store.category,'category');
  if(store.brand)add(store.brand,'brand');
  if(store.shop)add(store.shop,'shop');
+ if(store.audience)add(store.audience,'audience');
+ if(store.color)add('Cor: '+store.color,'color');
  if(store.min)add('A partir de '+money(store.min),'min');
  if(store.max)add('Até '+money(store.max),'max');
  if(store.photos)add('Fotos reais','photos');
@@ -201,12 +239,13 @@ function renderChips(){
  for(const b of btns)b.classList.toggle('is-active',b.dataset.quick==='favorites'?store.favoritesOnly:b.dataset.quick==='all'?!store.category&&!store.brand&&!store.favoritesOnly:(b.dataset.quick===store.category||b.dataset.quick===store.brand));
 }
 function reset(){
- Object.assign(store,{search:'',category:'',brand:'',shop:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,shown:36});
+ Object.assign(store,{search:'',category:'',brand:'',shop:'',audience:'',color:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,shown:36});
  $('searchInput').value=''; syncFields();render(); updateUrl();
 }
 function syncFields(){
  $('categorySelect').value=store.category;
  $('brandSelect').value=store.brand;$('shopSelect').value=store.shop;
+ $('audienceSelect').value=store.audience;$('colorSelect').value=store.color;
  $('minPrice').value=store.min;$('maxPrice').value=store.max;
  $('withImage').checked=store.photos;$('onlyFresh').checked=store.fresh;$('onlyDiscount').checked=store.discount;
 }
@@ -216,6 +255,10 @@ function updateUrl(){
  if(store.category)q.set('cat',store.category);
  if(store.brand)q.set('brand',store.brand);
  if(store.shop)q.set('shop',store.shop);
+ if(store.audience)q.set('audience',store.audience);
+ if(store.color)q.set('color',store.color);
+ if(store.min!=='')q.set('min',store.min);
+ if(store.max!=='')q.set('max',store.max);
  if(store.sort!=='relevance')q.set('sort',store.sort);
  history.replaceState({},'',location.pathname+(q.size?'?'+q.toString():'')+location.hash);
 }
@@ -225,6 +268,10 @@ function restoreQuery(){
  store.category=q.get('cat')||'';
  store.brand=q.get('brand')||'';
  store.shop=q.get('shop')||'';
+ store.audience=q.get('audience')||'';
+ store.color=q.get('color')||'';
+ store.min=q.get('min')||'';
+ store.max=q.get('max')||'';
  const sorts=['relevance','newest','price-asc','price-desc','brand','discount'];
  store.sort=sorts.includes(q.get('sort'))?q.get('sort'):'relevance';
  $('searchInput').value=store.search;$('sortSelect').value=store.sort;
@@ -308,6 +355,8 @@ document.addEventListener('click',e=>{
   if(key==='category')store.category='';
   if(key==='brand')store.brand='';
   if(key==='shop')store.shop='';
+  if(key==='audience')store.audience='';
+  if(key==='color')store.color='';
   if(key==='min')store.min='';
   if(key==='max')store.max='';
   if(key==='photos')store.photos=false;
@@ -331,7 +380,7 @@ $('searchInput').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDef
 $('clearSearch').addEventListener('click',()=>{store.search='';$('searchInput').value='';render();updateUrl()});
 $('filterToggle').addEventListener('click',()=>{const hidden=!$('filters').hidden;$('filters').hidden=hidden;$('filterToggle').setAttribute('aria-expanded',String(!hidden))});
 $('applyFilters').addEventListener('click',()=>{
- Object.assign(store,{category:$('categorySelect').value,brand:$('brandSelect').value,shop:$('shopSelect').value,min:$('minPrice').value,max:$('maxPrice').value,photos:$('withImage').checked,fresh:$('onlyFresh').checked,discount:$('onlyDiscount').checked,shown:36});
+ Object.assign(store,{category:$('categorySelect').value,brand:$('brandSelect').value,shop:$('shopSelect').value,audience:$('audienceSelect').value,color:$('colorSelect').value,min:$('minPrice').value,max:$('maxPrice').value,photos:$('withImage').checked,fresh:$('onlyFresh').checked,discount:$('onlyDiscount').checked,shown:36});
  $('filters').hidden=true;$('filterToggle').setAttribute('aria-expanded','false');render();updateUrl();
 });
 $('resetFilters').addEventListener('click',reset);$('emptyReset').addEventListener('click',reset);
