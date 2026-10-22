@@ -34,7 +34,7 @@ jobs:
       - name: Importar variantes promocionais The King of Parfums
         run: python3 king_listings.py
       - name: Classificar marcas, descontos e melhores perfumes
-        run: python3 scripts/build_deals.py
+        run: PYTHONPATH=. python3 scripts/build_deals.py
       - name: Salvar historico
         run: |
           git config user.name 'github-actions[bot]'
