@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T15:17:30.480422+00:00",
+  "updatedAt": "2026-10-22T19:15:57.172688+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 38,
+  "totalVerifiedDeals": 45,
   "products": [
     {
       "id": "king-368423199",
@@ -33,6 +33,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1276197043",
+      "name": "Creed - Love in White · 75ML S/CAIXA S/TAMPA",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 1199.0,
+      "originalPrice": 1954.0,
+      "discountPercent": 38.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141525212-creed-love-in-white-e5679b8c62daa78e0217848283419909-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-love-in-white/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -180,6 +196,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-505311307",
+      "name": "Xerjoff - Amabile · 100ml",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1375467695",
       "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
       "brand": "Nishane",
@@ -257,6 +289,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-697049429",
+      "name": "Xerjoff - More Than Words · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 21.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/more-than1-d79bc164fb49ee741116926536217663-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-more-than-words/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -372,6 +420,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1393170882",
+      "name": "Parfums de Marly - Castley · 125 ML",
+      "brand": "Parfums de Marly",
+      "shop": "The King of Parfums",
+      "price": 2799.0,
+      "originalPrice": 3299.0,
+      "discountPercent": 15.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-59-5ff0c198c264f3da0717492701135175-640-0-12bd8913fe726ba34317664367436180-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/parfums-de-marly-castley-zoi9p/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 125.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1292254665",
+      "name": "Jo Milano - Game of Spades Diamond · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 586.0,
+      "originalPrice": 689.0,
+      "discountPercent": 14.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-28-be486670b85b4482cd17557199057617-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-diamond/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1408322937",
       "name": "Stella Dustin - Twilight Jade · 100 ML",
       "brand": "Stella Dustin",
@@ -484,6 +564,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-993365026",
+      "name": "Unique'e Luxury - Akdeniz · 100 ML",
+      "brand": "Unique'e Luxury",
+      "shop": "The King of Parfums",
+      "price": 3299.0,
+      "originalPrice": 3599.0,
+      "discountPercent": 8.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/a-cfc2c5a602c8d091d617235567443605-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/uniquee-luxury-akdeniz/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-766180870",
       "name": "Parfums de Marly - Althaïr · 125 ML",
       "brand": "Parfums de Marly",
@@ -545,6 +641,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1362650227",
+      "name": "Jo Milano - Game of Spades Jackpot · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 764.0,
+      "originalPrice": 804.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-6-f76ff67f5c31cfb17b17628876137745-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-jackpot-ebg1t/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
       "basis": "store-listed-reference"
     },
     {
