@@ -3,8 +3,7 @@
 import json,re,urllib.request,urllib.parse,urllib.robotparser,urllib.error,time
 from html.parser import HTMLParser
 SITES=[
- ("King nicho","https://www.thekingofparfums.com.br/nicho-exclusivo/"),
- ("King produtos page2","https://www.thekingofparfums.com.br/produtos/?page=2"),
+ ("King niche","https://www.thekingofparfums.com.br/nicho-exclusivo/"),
 ]
 UA="MaisonPrive-Radar/1.2 (personal product research; respects robots.txt)"
 class Inspector(HTMLParser):
@@ -67,6 +66,22 @@ def main():
    print("SAMPLE LINKS",name,json.dumps(p.links[:8],ensure_ascii=False))
    print("META",name,json.dumps({k:v[:110] for k,v in p.meta.items() if "image" in k or "title" in k},ensure_ascii=False)[:500])
    print("PRODUCT LINKS",name,json.dumps([a for a in p.links if '/produtos/' in a][:8],ensure_ascii=False)[:1700])
+
+   import html as html_module
+   m=re.search(r'<div[^>]*class="js-item-product\b[^"]*"[^>]*data-product-id="\d+"',html)
+   if m:
+    seg=html[m.start():m.start()+11500]
+    v=re.search(r'data-variants="([^"]{10,15000})"',seg)
+    if v:
+     try:
+      variants=json.loads(html_module.unescape(v.group(1)))
+      print("KING VARIANTS",json.dumps(variants[:2],ensure_ascii=False)[:3800])
+     except Exception as e:print("KING VARIANTS ERROR",str(e))
+    print("KING LINKS",json.dumps(re.findall(r'<a[^>]+href="([^"]+)"[^>]*>',seg)[:8],ensure_ascii=False)[:1500])
+    print("KING IMAGES",json.dumps(re.findall(r'<img[^>]{0,1200}>',seg)[:3],ensure_ascii=False)[:3000])
+    print("KING NAMES",json.dumps(re.findall(r'<(?:h[1-6]|span|div|p)[^>]*class="[^"]*(?:name|title|brand)[^"]*"[^>]*>[^<]{1,130}',seg)[:9],ensure_ascii=False)[:1800])
+    print("KING ATTR",seg[:1500].replace("\n"," "))
+
    for needle in ('data-product','js-item-product','data-store="product','<a href="/produtos/','price-compare','product-price'):
     pos=html.find(needle)
     if pos>=0:
