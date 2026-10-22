@@ -128,7 +128,7 @@ async function load() {
   $('totalCount').textContent=store.all.length.toLocaleString('pt-BR');
   $('brandCount').textContent=new Set(store.all.map(p=>p.brand)).size.toLocaleString('pt-BR');
   $('sourceCount').textContent=new Set(store.all.map(p=>p.shop)).size.toLocaleString('pt-BR');
-  setupCollections(); fillFilters(); restoreQuery();render();
+  setupCollections(); fillFilters(); restoreQuery();render();loadDeals();
  }catch(e) {
   store.loading=false;store.error=true;
   $('syncDot').className='status-dot error';
@@ -154,6 +154,25 @@ function setupCollections(){
  for(const [id,p] of [['collectionBagImage',bag],['collectionShoeImage',shoe],['collectionPerfumeImage',fragrance]]){
   if(!p)continue; const el=$(id);el.src=p.image;el.alt='Fotografia de '+p.name+' — '+p.shop;el.onload=()=>el.classList.add('loaded');
  }
+}
+async function loadDeals(){
+ try{
+  const resp=await fetch(REPO+'data/deals.json?at='+Math.floor(Date.now()/900000),{cache:'no-store'});
+  if(!resp.ok)return;
+  const data=await resp.json();
+  if(!Array.isArray(data.products)||!data.products.length)return;
+  const valid=data.products.filter(p=>safeUrl(p.image)&&safeUrl(p.url)&&Number(p.originalPrice)>Number(p.price)&&Number(p.discountPercent)>=5);
+  const perfumes=valid.filter(p=>String(p.category||'').startsWith('Perfumes'));
+  const selected=[...perfumes.slice(0,4),...valid.filter(p=>!perfumes.includes(p))].slice(0,4);
+  if(!selected.length)return;
+  $('dealsGrid').innerHTML=selected.map(p=>'<a class="deal-card" href="'+esc(safeUrl(p.url))+'" target="_blank" rel="noopener noreferrer" aria-label="Ver desconto de '+esc(p.name)+' na '+esc(p.shop)+'">'+
+    '<div class="deal-photo"><img src="'+esc(safeUrl(p.image))+'" loading="lazy" alt="Foto original de '+esc(p.name)+'" decoding="async"><span class="deal-percent">-'+Number(p.discountPercent).toFixed(0)+'% OFF</span></div>'+
+    '<div class="deal-details"><span class="deal-brand">'+esc(p.brand)+'</span><div class="deal-name">'+esc(p.name)+'</div>'+
+    '<span class="deal-price">'+money(p.price)+'</span><span class="deal-old">'+money(p.originalPrice)+'</span>'+
+    '<span class="deal-shop">'+esc(p.shop)+' · verificado '+day(p.checkedAt)+'</span></div></a>').join('');
+  $('dealsUpdate').textContent=data.updatedAt?'VERIFICADO EM '+day(data.updatedAt):'';
+  $('achados').hidden=false;
+ }catch(e){/* ofertas indisponíveis: não exibir descontos inventados */}
 }
 function fillFilters(){
  const fill=(id,values)=>{
