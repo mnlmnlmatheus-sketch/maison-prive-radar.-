@@ -353,7 +353,7 @@ function showCompare(){
  $('compareBody').innerHTML='<p class="overline">ANÁLISE PESSOAL</p><h2>Compare suas escolhas.</h2>'+
  '<div class="compare-table" style="--comparecols:'+items.length+'">'+items.map(p=>
  '<div class="compare-item">'+(p.image?'<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">':'<div class="product-placeholder" style="height:180px">SEM FOTO</div>')+
- '<strong>'+esc(p.brand)+'</strong><small>'+esc(p.name)+'</small><p>'+(p.priceBasis==='from'?'A partir de ':'')+money(p.price)+'</p>'<small>'+esc(p.shop)+' · '+day(p.checkedAt)+'</small><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">Ver na loja ↗</a></div>').join('')+'</div>';
+ '<strong>'+esc(p.brand)+'</strong><small>'+esc(p.name)+'</small><p>'+(p.priceBasis==='from'?'A partir de ':'')+money(p.price)+'</p><small>'+esc(p.shop)+' · '+day(p.checkedAt)+'</small><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">Ver na loja ↗</a></div>').join('')+'</div>';
  openLayer('compareModal','modalBackdrop');
 }
 function suggest(){
