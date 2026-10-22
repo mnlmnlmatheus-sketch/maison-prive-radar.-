@@ -48,8 +48,12 @@ const audienceOf = p => {
  if(name.includes('masculin'))return 'Masculino';
  return '';
 };
+const perfumeProduct = p => String(p.category||'').startsWith('Perfumes');
+const categoryMatches = (selected,p) => !selected || (selected==='Perfumes' ? perfumeProduct(p) : selected===p.category);
+const unitPrice = p => p.volumeMl>0 ? p.price/p.volumeMl : null;
+const perfDiscount = p => Math.max(Number(p.drop)||0,p.originalPrice>p.price?Math.round((p.originalPrice-p.price)/p.originalPrice*100):0);
 const store = {
- all:[], visible:[], favorites:new Set(), compare:new Set(), search:'', category:'',brand:'',shop:'',audience:'',color:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,sort:'relevance', pageSize:36, shown:36,list:false, updated:false, started:false, loading:true, synced:null, error:false
+ all:[], visible:[], favorites:new Set(), compare:new Set(), search:'', category:'',brand:'',shop:'',audience:'',color:'',volume:'',concentration:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,sort:'relevance', pageSize:36, shown:36,list:false, updated:false, started:false, loading:true, synced:null, error:false
 };
 const loadSet = key => {try {const a=JSON.parse(localStorage.getItem(key)||'[]');return new Set(Array.isArray(a)?a:[])}catch(e){return new Set()}};
 store.favorites=loadSet('maison-favorites-v9');
@@ -69,10 +73,14 @@ function normalizeProduct(raw,src){
  const originalPrice=Number.isFinite(original)&&original>price?original:null;
  const previous=history.length>1?Number(history.at(-2).price):null;
  const drop=Number.isFinite(previous)&&previous>price?Math.round((previous-price)/previous*100):0;
+ const vol=Number(raw.volumeMl);
+ const volumeMl=Number.isFinite(vol)&&vol>=1&&vol<=1000?vol:(Number((name.match(/\b(\d{1,3})\s*ml\b/i)||[])[1])||null);
+ const concentration=String(raw.concentration||'').slice(0,30);
+ const priceBasis=raw.priceBasis==='from'?'from':'listed';
  const category=raw.category||naturalCategory(raw);
  const audience=audienceOf(raw), color=colorOf(raw);
- return {id:String(raw.id),name,brand,shop,price,url,image,checkedAt,history,originalPrice,drop,category,audience,color,source:raw.source||src,addedAt:raw.addedAt||null,condition:raw.condition||null,
-  searchValue:norm([name,brand,shop,category,audience,color,raw.productType,raw.tags,raw.condition].filter(Boolean).join(' '))};
+ return {id:String(raw.id),name,brand,shop,price,url,image,checkedAt,history,originalPrice,drop,category,audience,color,volumeMl,concentration,priceBasis,source:raw.source||src,addedAt:raw.addedAt||null,condition:raw.condition||null,
+  searchValue:norm([name,brand,shop,category,audience,color,volumeMl?volumeMl+' ml':'',concentration,raw.productType,raw.tags,raw.condition].filter(Boolean).join(' '))};
 }
 function score(p,q) {
  if(!q)return 0;
@@ -142,7 +150,8 @@ function setupCollections(){
  }
  const bag=store.all.find(p=>p.category==='Bolsas'&&p.image);
  const shoe=store.all.find(p=>p.category==='Calçados'&&p.image);
- for(const [id,p] of [['collectionBagImage',bag],['collectionShoeImage',shoe]]){
+ const fragrance=store.all.find(p=>perfumeProduct(p)&&p.image);
+ for(const [id,p] of [['collectionBagImage',bag],['collectionShoeImage',shoe],['collectionPerfumeImage',fragrance]]){
   if(!p)continue; const el=$(id);el.src=p.image;el.alt='Fotografia de '+p.name+' — '+p.shop;el.onload=()=>el.classList.add('loaded');
  }
 }
@@ -159,19 +168,23 @@ function fillFilters(){
  fill('shopSelect',[...new Set(store.all.map(x=>x.shop))]);
  fill('audienceSelect',[...new Set(store.all.map(x=>x.audience))]);
  fill('colorSelect',[...new Set(store.all.map(x=>x.color))]);
+ fill('volumeSelect',[...new Set(store.all.filter(perfumeProduct).map(x=>x.volumeMl).filter(Boolean))].sort((a,b)=>a-b).map(String));
+ fill('concentrationSelect',[...new Set(store.all.map(x=>x.concentration).filter(Boolean))]);
 }
 function filterAll(){
  let list=store.all.filter(p=>{
-  if(store.category&&p.category!==store.category)return false;
+  if(!categoryMatches(store.category,p))return false;
   if(store.brand&&p.brand!==store.brand)return false;
   if(store.shop&&p.shop!==store.shop)return false;
   if(store.audience&&p.audience!==store.audience)return false;
   if(store.color&&p.color!==store.color)return false;
+  if(store.volume&&Number(p.volumeMl)!==Number(store.volume))return false;
+  if(store.concentration&&p.concentration!==store.concentration)return false;
   if(store.min!==''&&p.price<Number(store.min))return false;
   if(store.max!==''&&p.price>Number(store.max))return false;
   if(store.photos&&!p.image)return false;
   if(store.fresh&&ageDays(p.checkedAt)>7)return false;
-  if(store.discount&&!p.drop)return false;
+  if(store.discount&&!perfDiscount(p))return false;
   if(store.favoritesOnly&&!store.favorites.has(p.id))return false;
   return score(p,store.search)>-900;
  });
@@ -179,9 +192,10 @@ function filterAll(){
   switch(store.sort){
    case 'price-asc':return a.price-b.price;
    case 'price-desc':return b.price-a.price;
+   case 'unit-asc':return (unitPrice(a)??Infinity)-(unitPrice(b)??Infinity)||a.price-b.price;
    case 'brand':return a.brand.localeCompare(b.brand,'pt-BR')||a.price-b.price;
    case 'newest':return ageDays(a.checkedAt)-ageDays(b.checkedAt);
-   case 'discount':return (b.drop-a.drop)||a.price-b.price;
+   case 'discount':return (perfDiscount(b)-perfDiscount(a))||a.price-b.price;
    default:return score(b,store.search)-score(a,store.search)||ageDays(a.checkedAt)-ageDays(b.checkedAt)||a.price-b.price;
   }
  });
@@ -190,13 +204,16 @@ function filterAll(){
 const imageHTML=(p,cssclass='')=>p.image?'<img class="'+cssclass+'" src="'+esc(p.image)+'" alt="Fotografia original do anúncio: '+esc(p.brand)+' '+esc(p.name)+' — '+esc(p.shop)+'" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.replaceWith(document.createTextNode(\'Fotografia indisponível\'))">':'<div class="product-placeholder"><span>✳</span><small>FOTOGRAFIA<br>AINDA NÃO DISPONÍVEL</small></div>';
 function productCard(p) {
  const old=ageDays(p.checkedAt)>7;
+ const advertised=p.originalPrice>p.price?Math.round((p.originalPrice-p.price)/p.originalPrice*100):0;
+ const savings=p.drop?'<span class="photo-badge sale-badge">↓ '+p.drop+'% QUEDA DE PREÇO</span>':advertised?'<span class="photo-badge sale-badge">↓ '+advertised+'% DA LOJA</span>':'';
+ const volumeDetails=p.volumeMl?'<div class="product-unit-price">'+(p.concentration?esc(p.concentration)+' · ':'')+p.volumeMl+' ml · '+money(p.price/p.volumeMl)+'/ml</div>':'';
  return '<article class="product-card" data-id="'+esc(p.id)+'">'+
   '<div class="product-picture-wrap"><button class="product-picture" data-action="details" data-id="'+esc(p.id)+'" aria-label="Ver detalhes de '+esc(p.name)+'">'+imageHTML(p)+'</button>'+
-  (p.drop?'<div class="photo-badge">↓ '+p.drop+'% PREÇO VERIFICADO</div>':p.image?'<span class="photo-badge">FOTO ORIGINAL</span>':'')+
+  (savings|| (p.image?'<span class="photo-badge">FOTO ORIGINAL</span>':''))+
   '<button class="heart-btn '+(store.favorites.has(p.id)?'saved':'')+'" data-action="favorite" data-id="'+esc(p.id)+'" title="Favoritar" aria-label="'+(store.favorites.has(p.id)?'Remover dos':'Adicionar aos')+' favoritos"><svg viewBox="0 0 24 24"><path d="M20.8 8.4c0 4.2-8.8 10.5-8.8 10.5S3.2 12.6 3.2 8.4a4.8 4.8 0 0 1 8.8-2.6 4.8 4.8 0 0 1 8.8 2.6Z"/></svg></button></div>'+
   '<div class="product-info"><div class="product-topline"><span>'+esc(p.brand)+'</span><span class="source">'+esc(p.shop)+'</span></div>'+
   '<button class="product-name link-button" data-action="details" data-id="'+esc(p.id)+'">'+esc(p.name)+'</button>'+
-  '<div class="product-price">'+money(p.price)+' <small>/ preço registrado</small></div>'+
+  '<div class="product-price">'+(p.priceBasis==='from'?'<small class="price-from">A PARTIR DE</small>':'')+money(p.price)+(p.originalPrice>p.price?'<span class="product-reference-price">'+money(p.originalPrice)+'</span>':'')+'</div>'+volumeDetails+
   '<div class="product-recorded '+(old?'is-stale':'')+'">'+(p.checkedAt?(old?'Última leitura (antiga): ':'Verificado em ')+day(p.checkedAt):'Data da última leitura indisponível')+'</div>'+
   '<div class="product-actions"><a class="product-link" href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer" aria-label="Ver '+esc(p.name)+' na loja '+esc(p.shop)+'">Ver na loja ↗</a>'+
   '<label class="compare-add"><input type="checkbox" data-action="compare" data-id="'+esc(p.id)+'" '+(store.compare.has(p.id)?'checked':'')+'> Comparar</label></div></div></article>';
@@ -215,7 +232,7 @@ function render(){
  $('clearSearch').hidden=!store.search;
  $('favCount').textContent=store.favorites.size;
  $('favCount').hidden=store.favorites.size===0;
- const filterCount=[store.category,store.brand,store.shop,store.audience,store.color,store.min,store.max,store.photos,store.fresh,store.discount,store.favoritesOnly].filter(x=>x!==''&&x!==false).length;
+ const filterCount=[store.category,store.brand,store.shop,store.audience,store.color,store.volume,store.concentration,store.min,store.max,store.photos,store.fresh,store.discount,store.favoritesOnly].filter(x=>x!==''&&x!==false).length;
  $('filterBadge').hidden=filterCount===0;$('filterBadge').textContent=filterCount;
  renderChips();updateCompareBar();document.title=(store.search?store.search+' — ':'')+'Maison Privé · The Private Edit';
 }
@@ -228,6 +245,8 @@ function renderChips(){
  if(store.shop)add(store.shop,'shop');
  if(store.audience)add(store.audience,'audience');
  if(store.color)add('Cor: '+store.color,'color');
+ if(store.volume)add('Volume: '+store.volume+' ml','volume');
+ if(store.concentration)add(store.concentration,'concentration');
  if(store.min)add('A partir de '+money(store.min),'min');
  if(store.max)add('Até '+money(store.max),'max');
  if(store.photos)add('Fotos reais','photos');
@@ -236,16 +255,17 @@ function renderChips(){
  if(store.favoritesOnly)add('Favoritos','favorites');
  $('activeFilters').hidden=chips.length===0;$('activeFilters').innerHTML=chips.join('');
  const btns=document.querySelectorAll('#quickFilters button');
- for(const b of btns)b.classList.toggle('is-active',b.dataset.quick==='favorites'?store.favoritesOnly:b.dataset.quick==='all'?!store.category&&!store.brand&&!store.favoritesOnly:(b.dataset.quick===store.category||b.dataset.quick===store.brand));
+ for(const b of btns)b.classList.toggle('is-active',b.dataset.quick==='favorites'?store.favoritesOnly:b.dataset.quick==='discounts'?store.discount:b.dataset.quick==='all'?!store.category&&!store.brand&&!store.favoritesOnly&&!store.discount:(b.dataset.quick===store.category||b.dataset.quick===store.brand));
 }
 function reset(){
- Object.assign(store,{search:'',category:'',brand:'',shop:'',audience:'',color:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,shown:36});
+ Object.assign(store,{search:'',category:'',brand:'',shop:'',audience:'',color:'',volume:'',concentration:'',min:'',max:'',photos:false,fresh:false,discount:false,favoritesOnly:false,shown:36});
  $('searchInput').value=''; syncFields();render(); updateUrl();
 }
 function syncFields(){
  $('categorySelect').value=store.category;
  $('brandSelect').value=store.brand;$('shopSelect').value=store.shop;
  $('audienceSelect').value=store.audience;$('colorSelect').value=store.color;
+ $('volumeSelect').value=store.volume;$('concentrationSelect').value=store.concentration;
  $('minPrice').value=store.min;$('maxPrice').value=store.max;
  $('withImage').checked=store.photos;$('onlyFresh').checked=store.fresh;$('onlyDiscount').checked=store.discount;
 }
@@ -257,6 +277,8 @@ function updateUrl(){
  if(store.shop)q.set('shop',store.shop);
  if(store.audience)q.set('audience',store.audience);
  if(store.color)q.set('color',store.color);
+ if(store.volume)q.set('volume',store.volume);
+ if(store.concentration)q.set('conc',store.concentration);
  if(store.min!=='')q.set('min',store.min);
  if(store.max!=='')q.set('max',store.max);
  if(store.sort!=='relevance')q.set('sort',store.sort);
@@ -270,6 +292,8 @@ function restoreQuery(){
  store.shop=q.get('shop')||'';
  store.audience=q.get('audience')||'';
  store.color=q.get('color')||'';
+ store.volume=q.get('volume')||'';
+ store.concentration=q.get('conc')||'';
  store.min=q.get('min')||'';
  store.max=q.get('max')||'';
  const sorts=['relevance','newest','price-asc','price-desc','brand','discount'];
@@ -315,7 +339,10 @@ function showProduct(id){
  const p=store.all.find(x=>x.id===id);if(!p)return;
  $('modalBody').innerHTML='<div class="modal-layout"><div class="modal-photo">'+imageHTML(p)+'</div><div class="modal-description">'+
  '<p class="overline">'+esc(p.brand)+' · '+esc(p.category)+'</p><h2>'+esc(p.name)+'</h2>'+
- '<div class="modal-price">'+money(p.price)+'</div><p>Preço observado pela fonte indicada. Confira valor final, estado, tamanho, frete e disponibilidade na loja.</p>'+
+ '<div class="modal-price">'+(p.priceBasis==='from'?'A partir de ':'')+money(p.price)+'</div>'+
+ (p.volumeMl?'<div class="modal-unit">'+esc(p.concentration)+' · '+p.volumeMl+'ml · '+money(p.price/p.volumeMl)+'/ml</div>':'')+
+ (p.originalPrice>p.price?'<p>Preço de referência informado pela loja: <s>'+money(p.originalPrice)+'</s></p>':'')+
+ '<p>Preço observado pela fonte indicada. Confira valor final, estado, tamanho, frete e disponibilidade na loja.</p>'+
  '<div class="modal-meta"><div><span>Loja</span><b>'+esc(p.shop)+'</b></div><div><span>Última verificação</span><b>'+day(p.checkedAt)+'</b></div><div><span>Fotografia</span><b>'+(p.image?'Original da loja':'Não disponível')+'</b></div><div><span>Queda verificada</span><b>'+(p.drop?p.drop+'%':'Nenhuma registrada')+'</b></div></div>'+
  '<div class="modal-buttons"><a class="btn btn-dark" target="_blank" rel="noopener noreferrer" href="'+esc(p.url)+'">Abrir na loja ↗</a><button class="btn btn-outline" data-action="favorite" data-id="'+esc(p.id)+'">'+(store.favorites.has(p.id)?'♥ Favoritado':'♡ Favoritar')+'</button></div>'+
  '<p class="modal-note">Maison Privé é uma curadoria pessoal independente. Não há venda, estoque próprio ou afiliação com as marcas.</p></div></div>';
@@ -326,7 +353,7 @@ function showCompare(){
  $('compareBody').innerHTML='<p class="overline">ANÁLISE PESSOAL</p><h2>Compare suas escolhas.</h2>'+
  '<div class="compare-table" style="--comparecols:'+items.length+'">'+items.map(p=>
  '<div class="compare-item">'+(p.image?'<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">':'<div class="product-placeholder" style="height:180px">SEM FOTO</div>')+
- '<strong>'+esc(p.brand)+'</strong><small>'+esc(p.name)+'</small><p>'+money(p.price)+'</p><small>'+esc(p.shop)+' · '+day(p.checkedAt)+'</small><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">Ver na loja ↗</a></div>').join('')+'</div>';
+ '<strong>'+esc(p.brand)+'</strong><small>'+esc(p.name)+'</small><p>'+(p.priceBasis==='from'?'A partir de ':'')+money(p.price)+'</p>'<small>'+esc(p.shop)+' · '+day(p.checkedAt)+'</small><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">Ver na loja ↗</a></div>').join('')+'</div>';
  openLayer('compareModal','modalBackdrop');
 }
 function suggest(){
@@ -357,6 +384,8 @@ document.addEventListener('click',e=>{
   if(key==='shop')store.shop='';
   if(key==='audience')store.audience='';
   if(key==='color')store.color='';
+  if(key==='volume')store.volume='';
+  if(key==='concentration')store.concentration='';
   if(key==='min')store.min='';
   if(key==='max')store.max='';
   if(key==='photos')store.photos=false;
@@ -371,7 +400,11 @@ document.addEventListener('click',e=>{
  if(cat){store.category=cat.dataset.cat;store.brand='';store.favoritesOnly=false;store.shown=36;syncFields();render();updateUrl();document.getElementById('catalogo').scrollIntoView({behavior:'smooth'});return}
  const quick=e.target.closest('[data-quick]');
  if(quick){const v=quick.dataset.quick;store.category='';store.brand='';store.favoritesOnly=false;
-  if(v==='favorites')store.favoritesOnly=true;else if(['Bolsas','Calçados','Roupas','Acessórios'].includes(v))store.category=v;else if(v!=='all')store.brand=v;
+  if(v==='favorites')store.favoritesOnly=true;
+  else if(v==='discounts')store.discount=true;
+  else if(['Bolsas','Calçados','Roupas','Acessórios','Perfumes','Perfumes de nicho','Perfumes árabes','Perfumes designer'].includes(v))store.category=v;
+  else if(v!=='all')store.brand=v;
+  if(v!=='discounts')store.discount=false;
   store.shown=36;syncFields();render();updateUrl();return
  }
 });
@@ -380,7 +413,7 @@ $('searchInput').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDef
 $('clearSearch').addEventListener('click',()=>{store.search='';$('searchInput').value='';render();updateUrl()});
 $('filterToggle').addEventListener('click',()=>{const hidden=!$('filters').hidden;$('filters').hidden=hidden;$('filterToggle').setAttribute('aria-expanded',String(!hidden))});
 $('applyFilters').addEventListener('click',()=>{
- Object.assign(store,{category:$('categorySelect').value,brand:$('brandSelect').value,shop:$('shopSelect').value,audience:$('audienceSelect').value,color:$('colorSelect').value,min:$('minPrice').value,max:$('maxPrice').value,photos:$('withImage').checked,fresh:$('onlyFresh').checked,discount:$('onlyDiscount').checked,shown:36});
+ Object.assign(store,{category:$('categorySelect').value,brand:$('brandSelect').value,shop:$('shopSelect').value,audience:$('audienceSelect').value,color:$('colorSelect').value,volume:$('volumeSelect').value,concentration:$('concentrationSelect').value,min:$('minPrice').value,max:$('maxPrice').value,photos:$('withImage').checked,fresh:$('onlyFresh').checked,discount:$('onlyDiscount').checked,shown:36});
  $('filters').hidden=true;$('filterToggle').setAttribute('aria-expanded','false');render();updateUrl();
 });
 $('resetFilters').addEventListener('click',reset);$('emptyReset').addEventListener('click',reset);
