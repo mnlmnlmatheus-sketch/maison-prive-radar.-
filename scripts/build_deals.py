@@ -36,6 +36,7 @@ def build():
             if not (current_price>=5 and original>current_price and original<1_000_000):continue
         except (TypeError,ValueError):continue
         if not p.get("image") or not str(p.get("url","")).startswith("https://"):continue
+        if any(word in str(p.get("image","")).lower() for word in ("imagemgerada","image-generated","generated-by-ai")):continue
         percentage=round((original-current_price)/original*100,1)
         if percentage<5:continue
         deals.append({
