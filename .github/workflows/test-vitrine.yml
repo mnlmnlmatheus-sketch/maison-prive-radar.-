@@ -1,0 +1,22 @@
+name: Maison Prive - Testar Vitrine
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'tests/site-search.test.cjs'
+      - '.github/workflows/test-vitrine.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Baixar projeto
+        uses: actions/checkout@v4
+      - name: Testar JavaScript
+        run: node --check site/app.js
+      - name: Executar pesquisa e validar catálogo
+        run: node tests/site-search.test.cjs
