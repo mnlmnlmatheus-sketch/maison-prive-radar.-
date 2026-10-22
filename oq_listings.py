@@ -44,7 +44,35 @@ def brand_map_from_html(html):
             result[match.group(1)]=brand
     return result
 
-def parse_itemlist(html,category,when):
+def color_from_name(name):
+    """Somente cores explícitas no título, sem estimar pela fotografia."""
+    match=re.search(r"\s[-–—]\s([^–—]+)$",str(name))
+    if not match:return None
+    tail=match.group(1).strip()
+    if not 2<=len(tail)<=55:return None
+    return tail
+
+def audience_from(name, category_url):
+    low=str(name).lower()
+    if "unissex" in low:return "Unissex"
+    if "feminin" in low:return "Feminino"
+    if "masculin" in low:return "Masculino"
+    if "/feminino/" in category_url:return "Feminino"
+    if "/masculino/" in category_url:return "Masculino"
+    return None
+
+def category_from_name(name, base):
+    if base!="Acessórios":return base
+    low=str(name).lower()
+    if any(t in low for t in ("bolsa","tote","bag ","mochila","carteira","pochete","mala ")):
+        return "Bolsas"
+    if any(t in low for t in ("brinco","anel ","colar ","pulseira","joia","bracelete")):
+        return "Joias"
+    if any(t in low for t in ("relógio","relogio","watch")):
+        return "Relógios"
+    return "Acessórios"
+
+def parse_itemlist(html,category,when,category_url=""):
     parser=Parser();parser.feed(html)
     brands=brand_map_from_html(html)
     output=[]
@@ -83,7 +111,8 @@ def parse_itemlist(html,category,when):
             if pid in seen:continue
             seen.add(pid)
             output.append({
-                "id":pid,"name":name,"brand":brands.get(key) or brand_for(item),"shop":"OQVestir","category":category,
+                "id":pid,"name":name,"brand":brands.get(key) or brand_for(item),"shop":"OQVestir","category":category_from_name(name,category),
+                "audience":audience_from(name,category_url),"color":color_from_name(name),
                 "price":amount,"currency":"BRL","url":target,"image":photo,
                 "checkedAt":when,"firstSeenAt":when,"source":"OQVestir category structured data"
             })
@@ -112,7 +141,7 @@ def run():
         try:
             # Uma leitura por categoria; sem automatizar paginação agressiva.
             time.sleep(1.6)
-            found=parse_itemlist(fetch(url),cat,when)
+            found=parse_itemlist(fetch(url),cat,when,category_url=url)
             status.append({"category":cat,"url":url,"status":"ok","verified":len(found)})
             saved+=len(found)
             for item in found:
@@ -125,7 +154,7 @@ def run():
                     item["history"]=hist
                     item["firstSeenAt"]=old.get("firstSeenAt",when)
                     # Preserve original brand attribution from individually verified product pages.
-                    if old.get("brand") and old.get("brand")!="Marca não identificada":
+                    if item["brand"]=="Marca não identificada" and old.get("brand") and old.get("brand")!="Marca não identificada":
                         item["brand"]=old["brand"]
                     if old.get("category") and old["category"]!="Acessórios" and cat=="Acessórios":
                         item["category"]=old["category"]
