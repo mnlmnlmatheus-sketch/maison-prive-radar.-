@@ -1,6 +1,6 @@
 import unittest
 import json
-from oq_listings import parse_itemlist,brand_for,brand_map_from_html
+from oq_listings import parse_itemlist,brand_for,brand_map_from_html,color_from_name,audience_from,category_from_name
 
 class TestOQListing(unittest.TestCase):
  def setUp(self):
@@ -27,6 +27,17 @@ class TestOQListing(unittest.TestCase):
   html=data_layer+self.html([self.items[0]])
   out=parse_itemlist(html,"Roupas","2026-10-21T22:00:00+00:00")
   self.assertEqual(out[0]["brand"],"HERING")
+ def test_color_audience_category_without_guessing_image(self):
+  self.assertEqual(color_from_name("Tênis Samba OG - Off White"),"Off White")
+  self.assertEqual(audience_from("Bolsa Tiracolo", "https://www.oqvestir.com.br/feminino/acessorios"),"Feminino")
+  self.assertEqual(audience_from("Tênis Unissex", "https://www.oqvestir.com.br/feminino/sapatos"),"Unissex")
+  self.assertEqual(category_from_name("Bolsa De Mão Feminina","Acessórios"),"Bolsas")
+  self.assertEqual(category_from_name("Óculos Feminino","Acessórios"),"Acessórios")
+  self.assertIsNone(color_from_name("Vestido Original"))
+ def test_parse_includes_audience_and_color(self):
+  p=parse_itemlist(self.html([self.items[0]]),"Roupas","2026-10-21T22:00:00+00:00","https://www.oqvestir.com.br/feminino/roupas")[0]
+  self.assertEqual(p["audience"],"Feminino")
+  self.assertEqual(p["color"],"Bege")
  def test_reject_non_brl(self):
   item=json.loads(json.dumps(self.items[0]))
   item["offers"]["priceCurrency"]="USD"
