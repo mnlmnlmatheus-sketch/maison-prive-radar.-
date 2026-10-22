@@ -1,0 +1,82 @@
+{
+  "sources": [
+    {
+      "id": "dl-nicho-1",
+      "name": "DL Imports",
+      "url": "https://www.dlimport.com.br/perfumes/perfumes-nicho/",
+      "category": "Perfumes de nicho",
+      "product_hosts": [
+        "dlimport.com.br",
+        "www.dlimport.com.br"
+      ]
+    },
+    {
+      "id": "droper-perfumes",
+      "name": "Droper",
+      "url": "https://droper.app/segmento/perfumes",
+      "category": "Perfumes",
+      "product_hosts": [
+        "droper.app"
+      ]
+    },
+    {
+      "id": "dl-arabes-1",
+      "name": "DL Imports",
+      "url": "https://www.dlimport.com.br/perfumes/arabes/",
+      "category": "Perfumes árabes",
+      "product_hosts": [
+        "dlimport.com.br",
+        "www.dlimport.com.br"
+      ]
+    },
+    {
+      "id": "dl-designer-geral",
+      "name": "DL Imports",
+      "url": "https://www.dlimport.com.br/perfumes/",
+      "category": "Perfumes",
+      "product_hosts": [
+        "dlimport.com.br",
+        "www.dlimport.com.br"
+      ]
+    },
+    {
+      "id": "droper-sneakers",
+      "name": "Droper",
+      "url": "https://droper.app/segmento/sneakers",
+      "category": "Calçados",
+      "product_hosts": [
+        "droper.app"
+      ]
+    },
+    {
+      "id": "dl-nicho-2",
+      "name": "DL Imports",
+      "url": "https://www.dlimport.com.br/perfumes/perfumes-nicho/?page=2",
+      "category": "Perfumes de nicho",
+      "product_hosts": [
+        "dlimport.com.br",
+        "www.dlimport.com.br"
+      ]
+    },
+    {
+      "id": "dl-arabes-2",
+      "name": "DL Imports",
+      "url": "https://www.dlimport.com.br/perfumes/arabes/?page=2",
+      "category": "Perfumes árabes",
+      "product_hosts": [
+        "dlimport.com.br",
+        "www.dlimport.com.br"
+      ]
+    },
+    {
+      "id": "dl-geral-2",
+      "name": "DL Imports",
+      "url": "https://www.dlimport.com.br/perfumes/?page=2",
+      "category": "Perfumes",
+      "product_hosts": [
+        "dlimport.com.br",
+        "www.dlimport.com.br"
+      ]
+    }
+  ]
+}
