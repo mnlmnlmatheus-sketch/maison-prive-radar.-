@@ -1,5 +1,5 @@
 name: Maison Prive - Radar de Precos
-# Execução ampliada: Droper + perfumes de nicho, árabes e designer
+# Teste de integração corrigida: Droper + DL Imports + OQVestir
 on:
   push:
     branches: [main]
