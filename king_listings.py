@@ -60,6 +60,7 @@ def parse_king(markup,category,when):
    photo=v.get("image_url")
    if not isinstance(photo,str):continue
    if photo.startswith("//"):photo="https:"+photo
+   if re.search(r"imagemgerada|image-generated|generated[-_]by[-_]ai",photo,re.I):continue
    try:
     pic=urllib.parse.urlsplit(photo)
     if pic.scheme!="https" or pic.hostname!="acdn-us.mitiendanube.com":continue
