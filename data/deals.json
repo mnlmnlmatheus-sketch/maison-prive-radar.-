@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T10:11:11.178093+00:00",
+  "updatedAt": "2026-10-22T15:17:30.480422+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 30,
+  "totalVerifiedDeals": 38,
   "products": [
     {
       "id": "king-368423199",
@@ -244,6 +244,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1554611874",
+      "name": "Boadicea - Ardent · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2299.0,
+      "discountPercent": 21.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339944174-boadicea-ardent-406e742128894009f117848370903200-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-ardent-fnncl/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1025266718",
       "name": "Xerjoff - Torino 21 · 100 ML",
       "brand": "Xerjoff",
@@ -308,6 +324,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-993374138",
+      "name": "Unique'e Luxury - Mangonifiscent · 100 ML",
+      "brand": "Unique'e Luxury",
+      "shop": "The King of Parfums",
+      "price": 3299.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 17.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/magno1-40b4590dcf5ce2c98f17235564869191-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/uniquee-luxury-mangonifiscent/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-787910067",
       "name": "Nishane - Hundred Silent Ways X · 100 ML",
       "brand": "Nishane",
@@ -356,6 +388,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1329009914",
+      "name": "Gritti - You're So Vain · 100 ML",
+      "brand": "Gritti",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 13.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/ec5d40a5-9f5b-4902-a92d-79755836d6f1-6006200bb59eeb585217594313597449-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gritti-youre-so-vain/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1246635759",
+      "name": "Memo Paris - Irish Leather · 75 ML",
+      "brand": "Memo Paris",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 13.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/irish-leather1-2538c490510400eaa916285534625568-640-0-cb379e8dcd03a6fcd717510742944306-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-irish-leather/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1282202449",
       "name": "Creed - Green Irish Tweed · 100 ML",
       "brand": "Creed",
@@ -401,6 +465,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-451390885",
+      "name": "Montale - Oud Tobacco · 100 ML",
+      "brand": "Montale",
+      "shop": "The King of Parfums",
+      "price": 899.0,
+      "originalPrice": 999.0,
+      "discountPercent": 10.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/117207789-montale-oud-tobacco-b3c72c1c3c5eed8e3417848277569429-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/montale-oud-tobacco/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -468,6 +548,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1362616444",
+      "name": "Jo Milano - Game Of Spades Moon · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 764.0,
+      "originalPrice": 804.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/8dd16434-72e1-4a7a-9a60-a8036797a673-511a5e98443d143a3117628863232102-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-moon-y2ujt/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1362643657",
+      "name": "Jo Milano - Game of Spades Opal · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 664.0,
+      "originalPrice": 699.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-822188397cb137456417628872194736-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-opal-j3rj0/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1610514077",
       "name": "Armaf - Club de Nuit Intenso Fuego · 105 ML",
       "brand": "Armaf",
@@ -481,6 +593,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1218348956",
+      "name": "Fluy - Infinity Intense Men · 100 ML",
+      "brand": "Fluy",
+      "shop": "The King of Parfums",
+      "price": 207.0,
+      "originalPrice": 218.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/272759935-fluy-infinity-intense-men-51a6c844f0dd2accea17848342676546-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/fluy-infinity-intense-men/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
       "basis": "store-listed-reference"
     }
   ]
