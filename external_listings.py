@@ -17,6 +17,8 @@ from monitor import Parser, objects, permitted as old_permitted, price, read, wr
 ROOT=Path(__file__).resolve().parent
 USER_AGENT="MaisonPrive-Radar/2.0 (personal comparison; respects robots.txt)"
 APPROVED={
+ "www.thekingofparfums.com.br":("https://www.thekingofparfums.com.br",),
+ "thekingofparfums.com.br":("https://thekingofparfums.com.br",),
  "droper.app":("https://droper.app",),
  "www.dlimport.com.br":("https://www.dlimport.com.br", "https://dlimport.com.br"),
  "dlimport.com.br":("https://dlimport.com.br", "https://www.dlimport.com.br"),
