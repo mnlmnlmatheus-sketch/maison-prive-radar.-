@@ -1,31 +1,46 @@
-# Maison Privé · Radar pessoal de preços
+# MAISON PRIVÉ — The Private Edit
 
-Este repositório é um monitor gratuito para **uso pessoal**, sem programa de afiliados, cadastro, comissões ou intenção de venda.
+Catálogo pessoal de moda e luxo, com **fotografias de anúncios reais**, pesquisa avançada e um radar de preços em BRL. Sem imagens geradas por inteligência artificial, cadastro de afiliados ou anúncios pagos.
 
-## Situação atual
-- **11 produtos na OQVestir** (Vans, BOSS e Adidas Originals) monitorados por metadados públicos de preço em BRL.
-- **16 produtos na Gringa** (Chanel e Louis Vuitton) consultados por JSON público de coleções Shopify, após checar robots.txt e confirmar a moeda BRL.
-- Total inicial: **27 preços confirmados** na execução de 21/10/2026, armazenados em `data/prices.json`.
-- Horário: **uma execução aproximada por hora**, agendada via `.github/workflows/radar-precos.yml`.
-- Histórico de preço e quedas em `data/prices.json` e `data/events.json`; quedas só são registradas quando uma leitura válida é inferior a outra leitura válida do mesmo item.
-- A vitrine Maison Privé existente permanece online em https://maison-prive-v6-ia-corrigida.vercel.app; o painel Radar grátis já consulta os dados públicos do GitHub.
+**Site:** https://maison-prive-v6-ia-corrigida.vercel.app
 
-## Como ver os preços
-Acesse `data/prices.json` ou o painel Radar grátis na vitrine. Para conferir a última automação: **Actions → Maison Prive - Radar de Precos**.
+## O que já funciona
 
-## O que os números significam
-Os preços da Gringa vêm do catálogo Shopify em BRL; **podem corresponder ao preço de cartão/padrão**, não necessariamente ao Pix nem a cupons ou promoções de checkout. São produtos de luxo de segunda mão, cujo estado e disponibilidade podem mudar rapidamente. Os demais preços são metadados públicos e podem variar com tamanho, CEP, cupom e forma de pagamento. Confira na loja antes de comprar.
+- Vitrine premium responsiva com fotografias fornecidas pelos anúncios de origem; sem imagens geradas por IA. Se uma imagem estiver indisponível, ela não é substituída por uma imagem sintética.
+- Busca tolerante a acentos e com sugestão de produtos, filtros combináveis por categoria, marca, loja, público, cor, faixa de preço, fotografia disponível, atualidade da leitura e quedas reais.
+- Ordenação, lista ou grade, favoritos salvos no navegador, comparação de até quatro produtos e links diretamente para as respectivas lojas.
+- Dois conjuntos de dados: `data/prices.json` (monitor pontual e histórico de 27 produtos, 11 deles OQVestir) e `data/catalog.json` (catálogo extenso, incremental).
+- O radar da OQVestir consulta páginas públicas em que `robots.txt` permite acesso, extrai imagens e preços de JSON-LD e identifica marcas declaradas nas páginas. A importação acontece em **lotes de até oito categorias**, uma execução por hora (sujeita a atrasos do GitHub Actions).
+- Também existem 16 produtos históricos da loja Gringa capturados no passado. O catálogo público dessa loja pode bloquear novas consultas com HTTP 429; registros anteriores nunca recebem uma nova data falsa.
 
-Se houver erro de acesso, o script preserva o último preço com seu horário original, sem fingir que está atualizado. Nenhum preço é obtido burlando bloqueios, CAPTCHA ou robots.txt. O fato de o workflow terminar com sucesso não garante que todos os preços foram capturados; confirme `successfulChecks`, `shopifyVerifiedChecks` e `data/shopify-status.json`.
+**Último marco validado:** 1.714 produtos no catálogo incremental, além dos registros individuais, em 21/10/2026. A quantidade atual pode mudar; confirme em `data/oq-progress.json` e `data/catalog.json`.
 
-## Como adicionar produtos
-- OQVestir: acrescente `id`, `brand`, `name`, `shop`, `url`, `currency=BRL` em `watchlist.json`. Apenas domínios permitidos no código serão acessados.
-- Shopify: adicione coleções de uma loja aprovada na configuração `shopify_sources.json` e, se necessário, ajuste a allowlist de hosts no código; sempre valide primeiro moeda e robots.txt.
+## Como funciona a atualização
 
-O monitoramento via Shopify atualmente utiliza uma amostra de produtos nas primeiras páginas das coleções. Produtos mais antigos podem sair da amostra; não é garantia de cobertura integral. O agendamento do GitHub Actions também pode atrasar.
+O workflow `.github/workflows/radar-precos.yml` executa `monitor.py` (preços individuais) e `oq_listings.py` (categorias da OQVestir). Os dados são versionados automaticamente no GitHub, e a vitrine busca os arquivos públicos da branch `main`.
 
-## Custo
-O workflow utiliza runners padrão de GitHub Actions em um repositório público. Normalmente isso não exige assinatura, sujeito a termos, limites de uso e possíveis alterações de política.
+- `oq_categories.json`: páginas de categorias aprovadas para descoberta gradual. Há 30 categorias cadastradas; não significa que todas estejam disponíveis em cada execução.
+- `watchlist.json`: URLs de produtos específicos a acompanhar, dentro de domínios explicitamente permitidos.
+- `data/catalog.json`: todos os produtos fotografados e verificados em até 30 dias; até 3.500 itens.
+- `data/oq-progress.json`: últimas fontes consultadas, erros e quantidade de produtos incluídos na rodada.
+- `data/events.json`: quedas reais entre duas observações válidas do mesmo produto.
 
-## Segurança
-Não adicione senhas, cookies, tokens ou informações pessoais ao repositório público. O arquivo `import_awin.py` é um protótipo antigo, **não é executado** pelo workflow pessoal e não precisa de credenciais.
+### Limitações importantes
+
+- **Preço registrado não é promessa de estoque ou valor final no checkout.** Frete, tamanho, cupom, Pix, condições de pagamento e disponibilidade podem alterar o valor.
+- Fontes podem limitar acessos, mudar páginas e proibir robôs; o monitor não contorna essas restrições e mantém os preços antigos com seus horários originais.
+- Não há comissão, venda, redirecionamento pago ou controle de estoque. O site serve para pesquisa e comparação pessoal.
+- O horário de GitHub Actions é **aproximado**, não garantia de atualização em tempo real.
+- As fotos permanecem hospedadas pelos sites de origem. Se retirarem uma imagem, a vitrine mostra um espaço neutro.
+
+## Testes e manutenção
+
+Os testes de extratores e fluxo encontram-se em `tests/`, executados a cada rodada junto de `node --check site/app.js`. A vitrine está nos arquivos `site/index.html`, `site/styles.css`, `site/app.js`.
+
+Em caso de erro, consulte a aba **[Actions](https://github.com/mnlmnlmatheus-sketch/maison-prive-radar.-/actions)** e o `data/oq-progress.json`.
+
+As credenciais, caso algum serviço venha a ser usado no futuro, devem ficar em **GitHub Secrets**. Não inserir senhas, tokens ou dados privados nos arquivos deste repositório público.
+
+O protótipo antigo `import_awin.py` não é executado pelo workflow atual e **não é necessário** para o Maison Privé pessoal.
+
+© Maison Privé — projeto pessoal independente, sem afiliação às lojas ou marcas.
