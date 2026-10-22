@@ -3,10 +3,8 @@
 import json,re,urllib.request,urllib.parse,urllib.robotparser,urllib.error,time
 from html.parser import HTMLParser
 SITES=[
- ("The King nicho","https://www.thekingofparfums.com.br/nicho-exclusivo/"),
- ("The King produtos","https://www.thekingofparfums.com.br/produtos/"),
- ("Droper perfume page2","https://droper.app/segmento/perfumes?page=2"),
- ("Droper sneaker page2","https://droper.app/segmento/sneakers?page=2"),
+ ("King nicho","https://www.thekingofparfums.com.br/nicho-exclusivo/"),
+ ("King produtos page2","https://www.thekingofparfums.com.br/produtos/?page=2"),
 ]
 UA="MaisonPrive-Radar/1.2 (personal product research; respects robots.txt)"
 class Inspector(HTMLParser):
@@ -68,6 +66,12 @@ def main():
    print("SRC",name,"STATUS OK","chars",len(html),"links",len(p.links),"structured",json.dumps(found[:4],ensure_ascii=False))
    print("SAMPLE LINKS",name,json.dumps(p.links[:8],ensure_ascii=False))
    print("META",name,json.dumps({k:v[:110] for k,v in p.meta.items() if "image" in k or "title" in k},ensure_ascii=False)[:500])
+   print("PRODUCT LINKS",name,json.dumps([a for a in p.links if '/produtos/' in a][:8],ensure_ascii=False)[:1700])
+   for needle in ('data-product','js-item-product','data-store="product','<a href="/produtos/','price-compare','product-price'):
+    pos=html.find(needle)
+    if pos>=0:
+     print("STRUCTURE",name,needle,"AT",pos,re.sub(r'\s+',' ',html[max(0,pos-140):pos+700])[:800])
+
   except urllib.error.HTTPError as e:print("SRC",name,"HTTP",e.code)
   except Exception as e:print("SRC",name,type(e).__name__,str(e)[:120])
 if __name__=="__main__":main()
