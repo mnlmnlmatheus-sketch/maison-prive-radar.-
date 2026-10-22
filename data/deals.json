@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T19:15:57.172688+00:00",
+  "updatedAt": "2026-10-22T22:22:49.744329+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 45,
+  "totalVerifiedDeals": 52,
   "products": [
     {
       "id": "king-368423199",
@@ -132,6 +132,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1536244927",
+      "name": "Boadicea - Blue Sapphire · 100 ML (S/ CAIXA e COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 3289.0,
+      "originalPrice": 4699.0,
+      "discountPercent": 30.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1556852347",
       "name": "Memo Paris - African Leather · 75 ML (S/ CAIXA S/TAMPA)",
       "brand": "Memo Paris",
@@ -145,6 +161,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1524626741",
+      "name": "Boadicea - Blue Sapphire · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 3549.0,
+      "originalPrice": 4999.0,
+      "discountPercent": 29.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -209,6 +241,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1480633616",
+      "name": "Imperial Parfums - Kashmir · 100 ML",
+      "brand": "Imperial Parfums",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -321,6 +369,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1329005602",
+      "name": "Gritti - Tutù Blanc · 100 ML",
+      "brand": "Gritti",
+      "shop": "The King of Parfums",
+      "price": 1599.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 20.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-78fb0378487a82430e17594311803920-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gritti-tutu-blanc/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -644,6 +708,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-727003914",
+      "name": "Roja Dove - Elysium Pour Homme Eau Intense · 100ml",
+      "brand": "Roja Dove",
+      "shop": "The King of Parfums",
+      "price": 2089.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/185657321-roja-dove-elysium-pour-homme-eau-intense-ed9a59fb445b173ab417848299884967-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/roja-dove-elysium-pour-homme-eau-intense/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1362621464",
+      "name": "Jo Milano - Game of Spades Platinum · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 764.0,
+      "originalPrice": 804.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-548bde9796cdb8980717628865411810-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-platinum-8vzy4/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1362650227",
       "name": "Jo Milano - Game of Spades Jackpot · 100 ML",
       "brand": "Jo Milano",
@@ -705,6 +801,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1218375965",
+      "name": "FLUY - PISTACCHIO INTENSO · 100 ML",
+      "brand": "FLUY",
+      "shop": "The King of Parfums",
+      "price": 207.0,
+      "originalPrice": 218.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/272764248-fluy-pistacchio-intenso-d517aaa06367f4a8b517848342734432-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/fluy-pistacchio-intenso/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
       "basis": "store-listed-reference"
     },
     {
