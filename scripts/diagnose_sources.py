@@ -8,7 +8,7 @@ SITES=[
 UA="MaisonPrive-Radar/1.2 (personal product research; respects robots.txt)"
 class Inspector(HTMLParser):
  def __init__(self):
-  super().__init__();self.scripts=[];self.script=False;self.b=[];self.links=[];self.meta={}
+  super().__init__();self.scripts=[];self.script=False;self.b=[];self.links=[];self.meta={};self.cards=[];self.card=None
  def handle_starttag(self,tag,attrs):
   a=dict(attrs)
   if tag=="script" and "ld+json" in (a.get("type") or "").lower():self.script=True;self.b=[]
@@ -16,8 +16,22 @@ class Inspector(HTMLParser):
   if tag=="meta":
    key=a.get("property") or a.get("name")
    if key and a.get("content"):self.meta[key.lower()]=a["content"]
+  if tag=="div" and "js-item-product" in (a.get("class") or "") and a.get("data-product-id"):
+   self.card={"id":a["data-product-id"],"variants":[],"links":[],"images":[],"names":[]}
+   self.cards.append(self.card)
+  elif self.card and a.get("data-variants"):
+   try:
+    vv=json.loads(a["data-variants"])
+    self.card["variants"]=[{k:v.get(k) for k in ("price_number","compare_at_price_number","promotional_price_number","available","option0","image_url","product_id","id")} for v in vv[:2]]
+   except Exception as e:self.card["error"]=str(e)[:80]
+  if self.card and tag=="a" and "/produtos/" in (a.get("href") or ""):
+   if len(self.card["links"])<4:self.card["links"].append(a["href"])
+  if self.card and tag=="img":
+   if len(self.card["images"])<4:self.card["images"].append({"alt":a.get("alt"),"src":str(a.get("src") or a.get("data-src"))[:120]})
+
  def handle_data(self,x):
   if self.script:self.b.append(x)
+  if self.card and x.strip() and len(self.card["names"])<8:self.card["names"].append(x.strip()[:110])
  def handle_endtag(self,tag):
   if tag=="script" and self.script:
    self.script=False
@@ -64,6 +78,7 @@ def main():
      print("DETAILED",name,json.dumps({k:v for k,v in x.items() if k in ("name","url","brand","offers","image","sku")},ensure_ascii=False)[:1950]);break
    print("SRC",name,"STATUS OK","chars",len(html),"links",len(p.links),"structured",json.dumps(found[:4],ensure_ascii=False))
    print("SAMPLE LINKS",name,json.dumps(p.links[:8],ensure_ascii=False))
+   print("KING CARDS",json.dumps(p.cards[:3],ensure_ascii=False)[:6500])
    print("META",name,json.dumps({k:v[:110] for k,v in p.meta.items() if "image" in k or "title" in k},ensure_ascii=False)[:500])
    print("PRODUCT LINKS",name,json.dumps([a for a in p.links if '/produtos/' in a][:8],ensure_ascii=False)[:1700])
 
