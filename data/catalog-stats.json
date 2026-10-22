@@ -1,10 +1,28 @@
 {
-  "updatedAt": null,
-  "catalogTotal": 0,
-  "verifiedLast14Days": 0,
-  "brandsIdentified": 0,
-  "shops": [],
-  "categories": {},
-  "perfumeCount": 0,
-  "verifiedDeals": 0
+  "updatedAt": "2026-10-22T01:35:24.296007+00:00",
+  "catalogTotal": 2413,
+  "verifiedLast14Days": 2413,
+  "brandsIdentified": 140,
+  "shops": [
+    "DL Imports",
+    "Droper",
+    "Gringa",
+    "OQVestir",
+    "The King of Parfums"
+  ],
+  "categories": {
+    "Perfumes de nicho": 57,
+    "Perfumes árabes": 69,
+    "Perfumes": 22,
+    "Perfumes designer": 5,
+    "Calçados": 524,
+    "Roupas": 1349,
+    "Joias": 10,
+    "Acessórios": 220,
+    "Bolsas": 130,
+    "Outros": 27
+  },
+  "perfumeCount": 153,
+  "verifiedDeals": 13,
+  "limitations": "Catálogo público em crescimento. Produtos podem estar indisponíveis e os preços no checkout podem diferir."
 }
