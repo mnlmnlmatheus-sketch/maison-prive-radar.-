@@ -31,11 +31,13 @@ jobs:
         run: python3 oq_listings.py
       - name: Integrar Droper e perfumarias acessíveis
         run: python3 external_listings.py
+      - name: Importar variantes promocionais The King of Parfums
+        run: python3 king_listings.py
       - name: Salvar historico
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/prices.json data/events.json data/catalog.json data/oq-progress.json data/external-progress.json
+          git add data/prices.json data/events.json data/catalog.json data/oq-progress.json data/external-progress.json data/king-progress.json
           if ! git diff --cached --quiet; then
             git commit -m 'Radar: atualizar historico de precos'
             git fetch origin main
