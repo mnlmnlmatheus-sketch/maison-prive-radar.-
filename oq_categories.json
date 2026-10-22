@@ -75,6 +75,50 @@
     {
       "url": "https://www.oqvestir.com.br/feminino/roupas/macacoes",
       "category": "Roupas"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/feminino/acessorios/oculos",
+      "category": "Acessórios"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/feminino/acessorios/cintos",
+      "category": "Acessórios"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/masculino/acessorios/cintos",
+      "category": "Acessórios"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/masculino/sapatos/sapatos",
+      "category": "Calçados"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/masculino/roupas/bermudas-e-shorts/bermudas",
+      "category": "Roupas"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/feminino/roupas/bermudas-e-shorts/shorts",
+      "category": "Roupas"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/feminino/acessorios",
+      "category": "Acessórios"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/feminino/sapatos",
+      "category": "Calçados"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/masculino/sapatos",
+      "category": "Calçados"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/made-by-oqvestir/feminino/acessorios",
+      "category": "Acessórios"
+    },
+    {
+      "url": "https://www.oqvestir.com.br/masculino/roupas",
+      "category": "Roupas"
     }
   ]
 }
