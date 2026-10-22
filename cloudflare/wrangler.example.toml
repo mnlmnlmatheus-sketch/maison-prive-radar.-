@@ -1,0 +1,8 @@
+name = "maison-prive-catalog-api"
+main = "src/worker.js"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "maison-prive-catalog"
+database_id = "REPLACE_WITH_REAL_D1_DATABASE_ID"
