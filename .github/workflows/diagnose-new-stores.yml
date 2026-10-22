@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/diagnose-new-stores.yml'
+      - 'scripts/diagnose_sources.py'
   workflow_dispatch:
 permissions:
   contents: read
