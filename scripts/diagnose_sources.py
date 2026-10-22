@@ -3,9 +3,10 @@
 import json,re,urllib.request,urllib.parse,urllib.robotparser,urllib.error,time
 from html.parser import HTMLParser
 SITES=[
- ("Droper perfumes","https://droper.app/segmento/perfumes"),
- ("DL Imports nicho","https://www.dlimport.com.br/perfumes/perfumes-nicho/"),
- ("DL Imports page2","https://www.dlimport.com.br/perfumes/perfumes-nicho/?page=2"),
+ ("The King nicho","https://www.thekingofparfums.com.br/nicho-exclusivo/"),
+ ("The King produtos","https://www.thekingofparfums.com.br/produtos/"),
+ ("Droper perfume page2","https://droper.app/segmento/perfumes?page=2"),
+ ("Droper sneaker page2","https://droper.app/segmento/sneakers?page=2"),
 ]
 UA="MaisonPrive-Radar/1.2 (personal product research; respects robots.txt)"
 class Inspector(HTMLParser):
