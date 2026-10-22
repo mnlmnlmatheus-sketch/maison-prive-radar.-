@@ -1,6 +1,9 @@
 name: Maison Prive - Radar de Precos
 # Execução ampliada: lotes de categorias com fotos originais
 on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/radar-precos.yml']
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
