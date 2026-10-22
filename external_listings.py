@@ -8,6 +8,8 @@ import re
 import time
 import urllib.error
 import urllib.parse
+import urllib.request
+import urllib.robotparser
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from monitor import Parser, objects, permitted as old_permitted, price, read, write
@@ -95,7 +97,6 @@ def robot_policy(url):
     p=urllib.parse.urlsplit(url)
     if p.scheme!="https" or p.hostname not in APPROVED or p.username or p.password:return False,"host"
     if p.hostname not in robot_policy.cache:
-        import urllib.robotparser, urllib.request
         rp=urllib.robotparser.RobotFileParser()
         try:
             req=urllib.request.Request("https://"+p.hostname+"/robots.txt",headers={"User-Agent":USER_AGENT})
@@ -114,7 +115,6 @@ class StayOnApprovedHost(__import__("urllib.request",fromlist=["HTTPRedirectHand
         if p.scheme!="https" or p.hostname not in APPROVED:raise ValueError("redirect out of approved hosts")
         return super().redirect_request(req,fp,code,msg,headers,url)
 def download(url):
-    import urllib.request
     p=urllib.parse.urlsplit(url)
     if p.scheme!="https" or p.hostname not in APPROVED:raise ValueError("unapproved store")
     opener=urllib.request.build_opener(StayOnApprovedHost())
