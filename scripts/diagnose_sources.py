@@ -4,12 +4,8 @@ import json,re,urllib.request,urllib.parse,urllib.robotparser,urllib.error,time
 from html.parser import HTMLParser
 SITES=[
  ("Droper perfumes","https://droper.app/segmento/perfumes"),
- ("Rivoli nicho","https://www.rivoliperfumaria.com.br/nicho"),
  ("DL Imports nicho","https://www.dlimport.com.br/perfumes/perfumes-nicho/"),
- ("Lunico nicho","https://lunicoperfumaria.com/perfumes/"),
- ("Les Sens","https://lessensparfum.com.br/"),
- ("Epoca","https://www.epocacosmeticos.com.br/perfumes"),
- ("Beleza na Web","https://www.belezanaweb.com.br/perfumes"),
+ ("DL Imports page2","https://www.dlimport.com.br/perfumes/perfumes-nicho/?page=2"),
 ]
 UA="MaisonPrive-Radar/1.2 (personal product research; respects robots.txt)"
 class Inspector(HTMLParser):
@@ -65,6 +61,9 @@ def main():
      found.append({"type":typ,"count":len(obj.get("itemListElement",[])) if isinstance(obj.get("itemListElement"),list) else None,
                   "name":str(obj.get("name",""))[:55],"price":obj.get("offers",{}).get("price") if isinstance(obj.get("offers"),dict) else None,
                   "images":str(obj.get("image",""))[:90]})
+   for x in objects(p.scripts):
+    if str(x.get("@type","")).lower()=="product":
+     print("DETAILED",name,json.dumps({k:v for k,v in x.items() if k in ("name","url","brand","offers","image","sku")},ensure_ascii=False)[:1950]);break
    print("SRC",name,"STATUS OK","chars",len(html),"links",len(p.links),"structured",json.dumps(found[:4],ensure_ascii=False))
    print("SAMPLE LINKS",name,json.dumps(p.links[:8],ensure_ascii=False))
    print("META",name,json.dumps({k:v[:110] for k,v in p.meta.items() if "image" in k or "title" in k},ensure_ascii=False)[:500])
