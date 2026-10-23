@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-23T18:21:26.757939+00:00",
+  "updatedAt": "2026-10-23T22:11:34.424873+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 83,
+  "totalVerifiedDeals": 96,
   "products": [
+    {
+      "id": "king-1560818176",
+      "name": "Boadicea - Harmonious · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 55.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344160961-boadicea-harmonious-28a3f55c34140c761b17848373310475-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
     {
       "id": "king-1555709781",
       "name": "Boadicea - Azrak · 100 ML (S/CAIXA C/TAMPA)",
@@ -84,6 +100,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-417523690",
+      "name": "Tom Ford - Rose Prick · 100ML",
+      "brand": "Tom Ford",
+      "shop": "The King of Parfums",
+      "price": 2248.0,
+      "originalPrice": 3699.0,
+      "discountPercent": 39.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/109068152-tom-ford-rose-prick-1ac3e53f5ee67257b517848274333456-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/tom-ford-rose-prick/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1276197043",
       "name": "Creed - Love in White · 75ML S/CAIXA S/TAMPA",
       "brand": "Creed",
@@ -116,6 +148,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1524622978",
+      "name": "Boadicea - Harmonious · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2499.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344160961-boadicea-harmonious-28a3f55c34140c761b17848373310475-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1562130146",
       "name": "Thameen - Patiala · 100 ML (S/CAIXA C/TAMPA)",
       "brand": "Thameen",
@@ -129,6 +177,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T18:21:18.242450+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1533615532",
+      "name": "Boadicea - Glorious · 100 ML (S/CAIXA e  COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344161665-boadicea-glorious-dfa51c4cfbd1291ec517848373341536-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-glorious-1bj9q/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -177,6 +241,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1116934079",
+      "name": "Xerjoff - Regio · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1699.0,
+      "originalPrice": 2529.0,
+      "discountPercent": 32.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/regio1-926798dd9c75059c5a16389024542336-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-regio-tester/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -241,6 +321,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1572822944",
+      "name": "Stéphane Humbert Lucas 777 - Venom Incarnat · 50 ML (S/CAIXA C/TAMPA)",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2589.0,
+      "discountPercent": 30.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/venom-027b96bc7170a227f417381804006265-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-venom-incarnat/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -612,6 +708,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1517309591",
+      "name": "Sospiro - Maraschino · 100 ML (S/ CAIXA)",
+      "brand": "Sospiro",
+      "shop": "The King of Parfums",
+      "price": 1599.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 20.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/sem-titulo-1-0dfb8a0b268779f71517292541918901-640-0-53c2014b66c30b953b17555508107045-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-maraschino/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1576082016",
       "name": "Sospiro - Vibranna · 100 ML (S/ CAIXA C/ TAMPA)",
       "brand": "Sospiro",
@@ -753,6 +865,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1524625280",
+      "name": "Boadicea - Glorious · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2499.0,
+      "originalPrice": 2999.0,
+      "discountPercent": 16.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344161665-boadicea-glorious-dfa51c4cfbd1291ec517848373341536-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-glorious-1bj9q/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -964,6 +1092,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1545604558",
+      "name": "The Fragrance - Aquamarine Touch · 75 ML",
+      "brand": "The Fragrance",
+      "shop": "The King of Parfums",
+      "price": 2299.0,
+      "originalPrice": 2549.0,
+      "discountPercent": 9.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351274700-the-fragrance-aquamarine-touch-575af1369061a2a71c17848376559620-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-aquamarine-touch-b7bdr/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-717910587",
+      "name": "Xerjoff - Golden Moka · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 1983.0,
+      "discountPercent": 9.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/moka1-1879518f352019b6bc16952373828841-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-golden-moka/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-993353398",
       "name": "Unique'e Luxury - Crush On Me · 100 ML",
       "brand": "Unique'e Luxury",
@@ -1124,6 +1284,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1116179488",
+      "name": "Stéphane Humbert Lucas 777 - Venom Incarnat · 50 ML",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 2459.0,
+      "originalPrice": 2589.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/venom-027b96bc7170a227f417381804006265-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-venom-incarnat/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1296729505",
       "name": "House of Dastan - Game of Joy · 100 ML",
       "brand": "House of Dastan",
@@ -1156,6 +1332,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-574816230",
+      "name": "BDK Parfums - Rouge Smoking · 100 ML",
+      "brand": "BDK Parfums",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/bdk-rouge-smoking1-be4a4f75788db7087c16357983685247-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bdk-parfums-rouge-smoking/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-892750600",
       "name": "Sospiro - Afgano Puro · 100 ML (S/ CAIXA)",
       "brand": "Sospiro",
@@ -1169,6 +1361,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-892751008",
+      "name": "Sospiro - Opera Grande · 100 ML (S/ CAIXA)",
+      "brand": "Sospiro",
+      "shop": "The King of Parfums",
+      "price": 1614.0,
+      "originalPrice": 1699.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/og-ec34ae270ce693baa317147354651363-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-opera-grande/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
       "basis": "store-listed-reference"
     },
     {
