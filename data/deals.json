@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-10-23T07:32:04.774562+00:00",
+  "updatedAt": "2026-10-23T13:26:24.728506+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 67,
+  "totalVerifiedDeals": 75,
   "products": [
+    {
+      "id": "king-1555709781",
+      "name": "Boadicea - Azrak · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 3799.0,
+      "discountPercent": 47.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1528888648",
+      "name": "Boadicea - Bodacious · 100 ML (S/ CAIXA e COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 3299.0,
+      "discountPercent": 45.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344159150-boadicea-bodacious-98c9cdb4027384132417849130442760-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
     {
       "id": "king-504389811",
       "name": "Xerjoff - Dolce Amalfi · 100 ML",
@@ -260,6 +292,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1524612413",
+      "name": "Boadicea - Bodacious · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2559.0,
+      "originalPrice": 3599.0,
+      "discountPercent": 28.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344159150-boadicea-bodacious-98c9cdb4027384132417849130442760-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1345296317",
       "name": "Creed - Green Irish Tweed · 100 ML (S/ CAIXA S/TAMPA)",
       "brand": "Creed",
@@ -305,6 +353,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1524613707",
+      "name": "Boadicea - Azrak · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2899.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 27.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -401,6 +465,22 @@
       "volumeMl": 120.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1432828687",
+      "name": "Gulf Orchid - Old Fashioned · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323303496-gulf-orchid-old-fashioned-f419badace93627ff917848362191313-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-old-fashioned-1xs57/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -676,6 +756,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1479629492",
+      "name": "Xerjoff - Muse · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2069.0,
+      "discountPercent": 15.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/332588119-xerjoff-muse-ebb0dc49b4e75732fc17848366742482-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-muse-12z7n/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1292254665",
       "name": "Jo Milano - Game of Spades Diamond · 100 ML",
       "brand": "Jo Milano",
@@ -945,6 +1041,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-892750600",
+      "name": "Sospiro - Afgano Puro · 100 ML (S/ CAIXA)",
+      "brand": "Sospiro",
+      "shop": "The King of Parfums",
+      "price": 1747.0,
+      "originalPrice": 1839.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/ap-7b7bbf736d0710601617147353086652-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-afgano-puro/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-668606628",
+      "name": "Gisada - Gisada Uomo · 100ML",
+      "brand": "Gisada",
+      "shop": "The King of Parfums",
+      "price": 1092.0,
+      "originalPrice": 1149.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/gisada-uomo1-f8c3e0adcff29f2ea016885814762533-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gisada-gisada-uomo/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
       "basis": "store-listed-reference"
     },
     {
