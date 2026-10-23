@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-22T22:22:49.744329+00:00",
+  "updatedAt": "2026-10-23T01:31:09.035830+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 52,
+  "totalVerifiedDeals": 60,
   "products": [
+    {
+      "id": "king-504389811",
+      "name": "Xerjoff - Dolce Amalfi · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1699.0,
+      "originalPrice": 2908.0,
+      "discountPercent": 41.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/128920841-xerjoff-dolce-amalfi-fbf7bb77605a009c2617848280590170-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-dolce-amalfi/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "basis": "store-listed-reference"
+    },
     {
       "id": "king-368423199",
       "name": "Xerjoff - Decas · 100 ML",
@@ -49,6 +65,38 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1150081784",
+      "name": "Kajal - Lamar Noir · 100 ML",
+      "brand": "Kajal",
+      "shop": "The King of Parfums",
+      "price": 1299.0,
+      "originalPrice": 2099.0,
+      "discountPercent": 38.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/lamar_noir-shop_1_afcb9289-29cf-4e99-a04d-6b5d086b04e5_2033x-54848a1fe954ce906b17417146456618-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kajal-lamar-noir/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1048984450",
+      "name": "Xerjoff - Tony Iommi Deified Parfum · 50ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2759.0,
+      "discountPercent": 34.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/captura-de-tela-2024-10-25-192556-741a25562763c6200317298951909384-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-tony-iommi-deified-parfum/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": "Parfum",
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -129,6 +177,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1439653316",
+      "name": "Mawwal - Oasis Rayhan · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 239.0,
+      "originalPrice": 344.0,
+      "discountPercent": 30.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/40-43ff0819238beba54917685811658123-1024-1024-a7b0b4d67c51e5a2cf17708371497674-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-oasis-rayhan-1so10/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -308,6 +372,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1178300958",
+      "name": "Kajal - Lamar · 100 ML",
+      "brand": "Kajal",
+      "shop": "The King of Parfums",
+      "price": 1299.0,
+      "originalPrice": 1699.0,
+      "discountPercent": 23.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/105724378-kajal-lamar-b6a6a9441a4b0bb89217848272944649-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kajal-lamar/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-654409930",
       "name": "Orientica - Royal Bleu · 80 ML",
       "brand": "Orientica",
@@ -369,6 +449,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1576082016",
+      "name": "Sospiro - Vibranna · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Sospiro",
+      "shop": "The King of Parfums",
+      "price": 1599.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 20.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354168446-sospiro-vibranna-404f9ae6e8b3554f1e17848379209955-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-vibranna-dsq22/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -452,6 +548,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1061234744",
+      "name": "Initio - Paragon · 90 ML",
+      "brand": "Initio",
+      "shop": "The King of Parfums",
+      "price": 2899.0,
+      "originalPrice": 3499.0,
+      "discountPercent": 17.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/paragon-6115c83855acba9d6b17313288279047-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/initio-paragon/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 90.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-787910067",
       "name": "Nishane - Hundred Silent Ways X · 100 ML",
       "brand": "Nishane",
@@ -529,6 +641,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-363853358",
+      "name": "Memo Paris - Italian Leather · 75 ML",
+      "brand": "Memo Paris",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 13.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/95557391-memo-paris-italian-leather-c3b801c85b81d9c16017848267859147-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-italian-leather/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
       "basis": "store-listed-reference"
     },
     {
