@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-23T13:26:24.728506+00:00",
+  "updatedAt": "2026-10-23T18:21:26.757939+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 75,
+  "totalVerifiedDeals": 83,
   "products": [
     {
       "id": "king-1555709781",
@@ -113,6 +113,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1562130146",
+      "name": "Thameen - Patiala · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Thameen",
+      "shop": "The King of Parfums",
+      "price": 1569.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 37.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/patiala-573c63c84f168ff99717539006108657-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/thameen-patiala/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -644,6 +660,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1424544386",
+      "name": "Xerjoff - Torino24 · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 18.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/torino-24-1e590dfdd067020ac317416310087119-640-0-90387b41b6153cc04117696171346030-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-torino24-15k99/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-518639225",
       "name": "Montale - Intense Cafe · 100 ML",
       "brand": "Montale",
@@ -932,6 +964,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-993353398",
+      "name": "Unique'e Luxury - Crush On Me · 100 ML",
+      "brand": "Unique'e Luxury",
+      "shop": "The King of Parfums",
+      "price": 3299.0,
+      "originalPrice": 3599.0,
+      "discountPercent": 8.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/crush-on-me-cbfd5aa5231dafc68717235557907185-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/uniquee-luxury-crush-on-me/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-993365026",
       "name": "Unique'e Luxury - Akdeniz · 100 ML",
       "brand": "Unique'e Luxury",
@@ -980,6 +1028,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1487208889",
+      "name": "Orientica - Café Arabica · 80 ML",
+      "brand": "Orientica",
+      "shop": "The King of Parfums",
+      "price": 699.0,
+      "originalPrice": 749.0,
+      "discountPercent": 6.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334463472-orientica-cafe-arabica-6f231d252043a4054917848367429678-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/orientica-cafe-arabica-101rw/",
+      "category": "Perfumes árabes",
+      "volumeMl": 80.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1526511739",
       "name": "Boadicea - Consort · 100 ML",
       "brand": "Boadicea",
@@ -993,6 +1057,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1515753165",
+      "name": "Orientica - Imperial Jade · 80 ML",
+      "brand": "Orientica",
+      "shop": "The King of Parfums",
+      "price": 749.0,
+      "originalPrice": 799.0,
+      "discountPercent": 6.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341354748-orientica-imperial-jade-aba350fd22f6d9f8a717848371574607-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/orientica-imperial-jade-1178k/",
+      "category": "Perfumes árabes",
+      "volumeMl": 80.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1025,6 +1105,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-987549559",
+      "name": "Anfas - Dhai · 75 ML",
+      "brand": "Anfas",
+      "shop": "The King of Parfums",
+      "price": 3168.0,
+      "originalPrice": 3335.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-49-81585c6e286e93d9cf17228952168023-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfas-dhai/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1296729505",
+      "name": "House of Dastan - Game of Joy · 100 ML",
+      "brand": "House of Dastan",
+      "shop": "The King of Parfums",
+      "price": 2403.0,
+      "originalPrice": 2529.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-36385d3c2d38fbed6817561587353508-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/house-of-dastan-game-of-joy/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1169,6 +1281,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1476824548",
+      "name": "NU.DE Por Thaís Giraldelli · 50 ML",
+      "brand": "Marca não identificada",
+      "shop": "The King of Parfums",
+      "price": 359.0,
+      "originalPrice": 378.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/331833572-nu-de-por-thais-giraldelli-03-f814696e64c99b941717849130243592-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/ohana-kamela-nu-de-por-thais-giraldelli-1yzr4/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
       "basis": "store-listed-reference"
     },
     {
