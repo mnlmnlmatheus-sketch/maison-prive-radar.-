@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-23T01:31:09.035830+00:00",
+  "updatedAt": "2026-10-23T07:32:04.774562+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 60,
+  "totalVerifiedDeals": 67,
   "products": [
     {
       "id": "king-504389811",
@@ -96,7 +96,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": "Parfum",
-      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -177,6 +177,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1417322414",
+      "name": "Stella Dustin - Capri - comprar online · 100 ML",
+      "brand": "Stella Dustin",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 289.0,
+      "discountPercent": 31.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-8f8f8ef7b4a455366617689935708264-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stella-dustin-capri-1dwex/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -308,6 +324,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-339854874",
+      "name": "Tiziana Terenzi - Orion · 100 ML",
+      "brand": "Tiziana Terenzi",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2399.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/89155165-tiziana-terenzi-orion-9f03cc079ddb6ebe4017848264789376-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/tiziana-terenzi-orion/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1480633616",
       "name": "Imperial Parfums - Kashmir · 100 ML",
       "brand": "Imperial Parfums",
@@ -372,6 +404,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1431784391",
+      "name": "Gulf Orchid - Mangotini · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323059645-gulf-orchid-mangotini-6309f36be0f3c02a6f17848361758629-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-mangotini-84d9c/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1178300958",
       "name": "Kajal - Lamar · 100 ML",
       "brand": "Kajal",
@@ -417,6 +465,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T15:17:23.876108+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-627367069",
+      "name": "Initio - Oud for Happiness · 90 ML",
+      "brand": "Initio",
+      "shop": "The King of Parfums",
+      "price": 2199.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 21.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/blac1-d4624198515a03a7c416807987391482-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/initio-oud-for-happiness/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 90.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -756,6 +820,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1362646818",
+      "name": "Jo Milano - Game of Spades Rouge Extrait · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 729.0,
+      "originalPrice": 809.0,
+      "discountPercent": 9.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-5-99917f715bf6c4703717628873858960-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-rouge-extrait-oedxf/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": "Extrait",
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-993365026",
       "name": "Unique'e Luxury - Akdeniz · 100 ML",
       "brand": "Unique'e Luxury",
@@ -804,6 +884,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1526511739",
+      "name": "Boadicea - Consort · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2899.0,
+      "originalPrice": 3099.0,
+      "discountPercent": 6.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344765332-boadicea-consort-599233c3d76a47e7b517848373522403-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-consort-zcu6b/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-376516805",
       "name": "Nishane - Ani · 100 ML",
       "brand": "Nishane",
@@ -849,6 +945,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1417307067",
+      "name": "Jo Milano - Roll It 1 · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 873.0,
+      "originalPrice": 919.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/319685336-jo-milano-roll-it-1-458c35fefe1d44c84817848360538445-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-roll-it-1-ok0sb/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
       "basis": "store-listed-reference"
     },
     {
