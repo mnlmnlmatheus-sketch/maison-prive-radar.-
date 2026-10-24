@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-24T00:42:08.147523+00:00",
+  "updatedAt": "2026-10-24T05:53:06.030842+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 104,
+  "totalVerifiedDeals": 109,
   "products": [
     {
       "id": "king-1560818176",
@@ -212,6 +212,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1562128404",
+      "name": "Boadicea - Blue Sapphire Supercharged · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 4999.0,
+      "originalPrice": 7499.0,
+      "discountPercent": 33.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351259805-boadicea-blue-sapphire-supercharged-3247950981eb7a165817848376294444-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-supercharged-1t7yz/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1178141512",
       "name": "Xerjoff - Mefisto Gentiluomo · 100 ML",
       "brand": "Xerjoff",
@@ -401,6 +417,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-941569320",
+      "name": "Parfums de Marly - Delina Crème Mains · 30 ML",
+      "brand": "Parfums de Marly",
+      "shop": "The King of Parfums",
+      "price": 349.0,
+      "originalPrice": 493.0,
+      "discountPercent": 29.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/215080939-parfums-de-marly-delina-creme-mains-894ce348a479adedad17848314452775-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/parfums-de-marly-delina-creme-mains/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 30.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -900,6 +932,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1048029892",
+      "name": "Creed - Carmina · 75 ML",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 2499.0,
+      "originalPrice": 2999.0,
+      "discountPercent": 16.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/238752924-creed-carmina-5e8c52b32ae97ad15517848325336338-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-carmina1/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1524625280",
       "name": "Boadicea - Glorious · 100 ML",
       "brand": "Boadicea",
@@ -961,6 +1009,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1196009793",
+      "name": "State of Mind - French Gallantry · 100 ML",
+      "brand": "State of Mind",
+      "shop": "The King of Parfums",
+      "price": 1461.0,
+      "originalPrice": 1719.0,
+      "discountPercent": 15.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/fre-e304cd0d8f24bc264e17454905815698-640-0-b97f4d48fde75052c317467437926056-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/state-of-mind-french-gallantry/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1492,6 +1556,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1339295742",
+      "name": "Gritti - Siracusa · 100 ML",
+      "brand": "Gritti",
+      "shop": "The King of Parfums",
+      "price": 1519.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/b5748b26-566a-4ba3-a111-8dd057aa411c-3f84b8b33141ed02a517605529043571-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gritti-siracusa/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1196008147",
       "name": "State of Mind - Fanfarone Italiano · 100 ML",
       "brand": "State of Mind",
@@ -1521,86 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T13:26:18.522462+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1417307067",
-      "name": "Jo Milano - Roll It 1 · 100 ML",
-      "brand": "Jo Milano",
-      "shop": "The King of Parfums",
-      "price": 873.0,
-      "originalPrice": 919.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/319685336-jo-milano-roll-it-1-458c35fefe1d44c84817848360538445-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-roll-it-1-ok0sb/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1362621464",
-      "name": "Jo Milano - Game of Spades Platinum · 100 ML",
-      "brand": "Jo Milano",
-      "shop": "The King of Parfums",
-      "price": 764.0,
-      "originalPrice": 804.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-548bde9796cdb8980717628865411810-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-platinum-8vzy4/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1362650227",
-      "name": "Jo Milano - Game of Spades Jackpot · 100 ML",
-      "brand": "Jo Milano",
-      "shop": "The King of Parfums",
-      "price": 764.0,
-      "originalPrice": 804.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-6-f76ff67f5c31cfb17b17628876137745-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-jackpot-ebg1t/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1362616444",
-      "name": "Jo Milano - Game Of Spades Moon · 100 ML",
-      "brand": "Jo Milano",
-      "shop": "The King of Parfums",
-      "price": 764.0,
-      "originalPrice": 804.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/8dd16434-72e1-4a7a-9a60-a8036797a673-511a5e98443d143a3117628863232102-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-moon-y2ujt/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1362643657",
-      "name": "Jo Milano - Game of Spades Opal · 100 ML",
-      "brand": "Jo Milano",
-      "shop": "The King of Parfums",
-      "price": 664.0,
-      "originalPrice": 699.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-822188397cb137456417628872194736-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-opal-j3rj0/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
       "basis": "store-listed-reference"
     }
   ]
