@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-23T22:11:34.424873+00:00",
+  "updatedAt": "2026-10-24T00:42:08.147523+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 96,
+  "totalVerifiedDeals": 104,
   "products": [
     {
       "id": "king-1560818176",
@@ -321,6 +321,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1531075240",
+      "name": "Boadicea - Knight of Love · 100 ML (S/CAIXA e  COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2499.0,
+      "originalPrice": 3599.0,
+      "discountPercent": 30.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344765244-boadicea-knight-of-love-f3733a8e1fbb8b85de17848373491561-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-knight-of-love-s9txf/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -804,6 +820,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1580617390",
+      "name": "Memo Paris - French Leather · 75 ML (S/CAIXA S/TAMPA)",
+      "brand": "Memo Paris",
+      "shop": "The King of Parfums",
+      "price": 1399.0,
+      "originalPrice": 1699.0,
+      "discountPercent": 17.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-43-bcc946b5cd17f66f6117225522263589-640-0-7188cad07ca45504e717510738939590-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-french-leather1/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1024145837",
       "name": "Tom Ford - Noir Extreme Parfum · 50 ML",
       "brand": "Tom Ford",
@@ -929,6 +961,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T13:26:18.522462+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1410828451",
+      "name": "Jo Milano - Roll It 5 · 100 ML",
+      "brand": "Jo Milano",
+      "shop": "The King of Parfums",
+      "price": 781.0,
+      "originalPrice": 919.0,
+      "discountPercent": 15.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/318417749-jo-milano-roll-it-5-1bb177f86b716eda6917848360421873-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-roll-it-5-4yd8e/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1156,6 +1204,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1297498371",
+      "name": "By Kilian - Black Phantom · 50 ML",
+      "brand": "By Kilian",
+      "shop": "The King of Parfums",
+      "price": 2599.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 7.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/black-phantom-by-kilian-acquista-online1-4d5ad1c24a5033c27916218916150167-640-0-772174b8e7352d371a17562341565741-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kilian-black-phantom/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-766180870",
       "name": "Parfums de Marly - Althaïr · 125 ML",
       "brand": "Parfums de Marly",
@@ -1220,6 +1284,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1188129931",
+      "name": "Gisada - Titanium · 100 ML",
+      "brand": "Gisada",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 6.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/titanium-268597d3b0dbeb954217459631423449-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gisada-titanium/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1515753165",
       "name": "Orientica - Imperial Jade · 80 ML",
       "brand": "Orientica",
@@ -1268,6 +1348,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-969789149",
+      "name": "Amouage - Interlude 53 Man · 100 ML",
+      "brand": "Amouage",
+      "shop": "The King of Parfums",
+      "price": 3799.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/sem-titulo-1-recuperado-recuperado-recuperado-c66023057af4c46dbe17207895546528-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/amouage-interlude-53-man/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-987549559",
       "name": "Anfas - Dhai · 75 ML",
       "brand": "Anfas",
@@ -1281,6 +1377,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-23T18:21:18.242450+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1331751454",
+      "name": "New Notes - Cocktail Maracuja · 50 ML",
+      "brand": "New Notes",
+      "shop": "The King of Parfums",
+      "price": 2512.0,
+      "originalPrice": 2644.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/mara-ff2f442e3f701f1cab17476870175471-640-0-e3f46197e21cac5d6a17597752106830-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/new-notes-cocktail-maracuja/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1380,6 +1492,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1196008147",
+      "name": "State of Mind - Fanfarone Italiano · 100 ML",
+      "brand": "State of Mind",
+      "shop": "The King of Parfums",
+      "price": 1420.0,
+      "originalPrice": 1495.0,
+      "discountPercent": 5.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-9-73aa96d0ad1644dff517467435768900-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/state-of-mind-fanfarone-italiano/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-668606628",
       "name": "Gisada - Gisada Uomo · 100ML",
       "brand": "Gisada",
@@ -1469,70 +1597,6 @@
       "discountPercent": 5.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-822188397cb137456417628872194736-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/jo-milano-game-of-spades-opal-j3rj0/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1610514077",
-      "name": "Armaf - Club de Nuit Intenso Fuego · 105 ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 569.0,
-      "originalPrice": 599.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1790947649373-26db0249d47526090f17909476564729-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-intenso-fuego-ow821/",
-      "category": "Perfumes árabes",
-      "volumeMl": 105.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1476824548",
-      "name": "NU.DE Por Thaís Giraldelli · 50 ML",
-      "brand": "Marca não identificada",
-      "shop": "The King of Parfums",
-      "price": 359.0,
-      "originalPrice": 378.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/331833572-nu-de-por-thais-giraldelli-03-f814696e64c99b941717849130243592-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/ohana-kamela-nu-de-por-thais-giraldelli-1yzr4/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1218375965",
-      "name": "FLUY - PISTACCHIO INTENSO · 100 ML",
-      "brand": "FLUY",
-      "shop": "The King of Parfums",
-      "price": 207.0,
-      "originalPrice": 218.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/272764248-fluy-pistacchio-intenso-d517aaa06367f4a8b517848342734432-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/fluy-pistacchio-intenso/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1218348956",
-      "name": "Fluy - Infinity Intense Men · 100 ML",
-      "brand": "Fluy",
-      "shop": "The King of Parfums",
-      "price": 207.0,
-      "originalPrice": 218.0,
-      "discountPercent": 5.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/272759935-fluy-infinity-intense-men-51a6c844f0dd2accea17848342676546-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/fluy-infinity-intense-men/",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
