@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T01:10:55.746494+00:00",
+  "updatedAt": "2026-10-25T06:07:56.565416+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 179,
+  "totalVerifiedDeals": 188,
   "products": [
     {
       "id": "king-1526509776",
@@ -289,6 +289,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-25T01:10:47.895638+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1562123765",
+      "name": "Spirit Of Kings - Harmony · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351981784-spirit-of-kings-harmony-a63310bcef6647e6d117848377178241-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-harmony-30e83/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T06:07:50.656924+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -916,6 +932,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1578965016",
+      "name": "Bidaya - Sex on the Rocks · 100 ML",
+      "brand": "Bidaya",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1787076999608-5f55ed2c63e12fb80117870770135943-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bidaya-sex-on-the-rocks-kgbch/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T06:07:50.656924+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1432828687",
       "name": "Gulf Orchid - Old Fashioned · 100 ML",
       "brand": "Gulf Orchid",
@@ -1540,6 +1572,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-576304150",
+      "name": "Xerjoff - Casafutura · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1856.0,
+      "originalPrice": 2184.0,
+      "discountPercent": 15.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/casafutura-xerjoff1-63625764c9398d226516732831419316-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-casafutura/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T06:07:50.656924+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1339124085",
       "name": "Xerjoff - Duran Duran NeoRio Pink · 50 ML",
       "brand": "Xerjoff",
@@ -1553,54 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-10-24T14:32:38.723884+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1479629492",
-      "name": "Xerjoff - Muse · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2069.0,
-      "discountPercent": 15.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/332588119-xerjoff-muse-ebb0dc49b4e75732fc17848366742482-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-muse-12z7n/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T13:26:18.522462+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1490532823",
-      "name": "Fugazzi - Passionfroudh · 100 ML",
-      "brand": "Fugazzi",
-      "shop": "The King of Parfums",
-      "price": 1699.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 15.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/335120355-fugazzi-passionfroudh-2528ca316587ba18b917848368251906-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/fugazzi-passionfroudh-1622b/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1356660970",
-      "name": "Xerjoff - 1888 · 1OO ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1699.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 15.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/1888-9d792f44c146cef8b117114796232215-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-1888/",
-      "category": "Perfumes de nicho",
-      "volumeMl": null,
-      "concentration": null,
-      "checkedAt": "2026-10-24T10:59:05.667155+00:00",
       "basis": "store-listed-reference"
     }
   ]
