@@ -26,7 +26,7 @@
       "url": "https://www.oqvestir.com.br/tenis-unissex-ua-hylane-off-white-238290",
       "currency": "BRL",
       "price": 260.9,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 260.9,
@@ -44,7 +44,7 @@
       "url": "https://www.oqvestir.com.br/tenis-feminino-old-skool-preto-235781",
       "currency": "BRL",
       "price": 180.9,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 180.9,
@@ -62,7 +62,7 @@
       "url": "https://www.oqvestir.com.br/tenis-masculino-old-skool-preto-e-branco-260250",
       "currency": "BRL",
       "price": 449.99,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 449.99,
@@ -80,7 +80,7 @@
       "url": "https://www.oqvestir.com.br/tenis-unissex-samba-og-branco-e-preto-210652",
       "currency": "BRL",
       "price": 799.99,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 799.99,
@@ -98,7 +98,7 @@
       "url": "https://www.oqvestir.com.br/tenis-unissex-samba-og-preto-241956",
       "currency": "BRL",
       "price": 560.9,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 560.9,
@@ -116,7 +116,7 @@
       "url": "https://www.oqvestir.com.br/tenis-masculino-samba-adv-cinza-213677",
       "currency": "BRL",
       "price": 560.9,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 560.9,
@@ -134,7 +134,7 @@
       "url": "https://www.oqvestir.com.br/tenis-unissex-samba-xlg-branco-e-vermelho-217381",
       "currency": "BRL",
       "price": 799.99,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 799.99,
@@ -152,7 +152,7 @@
       "url": "https://www.oqvestir.com.br/calca-masculina-alfaiataria-p-genius-cinza-199944",
       "currency": "BRL",
       "price": 645.9,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 645.9,
@@ -170,7 +170,7 @@
       "url": "https://www.oqvestir.com.br/calca-masculina-hover-striped-c-preto-225264",
       "currency": "BRL",
       "price": 672.9,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 672.9,
@@ -188,7 +188,7 @@
       "url": "https://www.oqvestir.com.br/calca-masculina-alfaiataria-p-genius-bege-218752",
       "currency": "BRL",
       "price": 805.9,
-      "checkedAt": "2026-10-25T19:05:36.873654+00:00",
+      "checkedAt": "2026-10-25T21:46:51.986853+00:00",
       "history": [
         {
           "price": 805.9,
@@ -503,8 +503,8 @@
       ]
     }
   },
-  "lastRunAt": "2026-10-25T19:05:36.873654+00:00",
-  "successfulChecks": 11,
+  "lastRunAt": "2026-10-25T21:46:51.986853+00:00",
+  "successfulChecks": 10,
   "dropsDetected": 0,
   "shopifyLastRunAt": "2026-10-21T22:50:22.826868+00:00",
   "shopifyVerifiedChecks": 0,

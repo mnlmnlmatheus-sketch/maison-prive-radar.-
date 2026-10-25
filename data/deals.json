@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T19:06:50.579028+00:00",
+  "updatedAt": "2026-10-25T21:47:57.508756+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 208,
+  "totalVerifiedDeals": 215,
   "products": [
     {
       "id": "king-1526509776",
@@ -97,6 +97,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-25T11:26:46.461868+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1554740333",
+      "name": "Al Haramain - Green Dubai · 100 ML",
+      "brand": "Al Haramain",
+      "shop": "The King of Parfums",
+      "price": 259.0,
+      "originalPrice": 459.0,
+      "discountPercent": 43.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354216929-al-haramain-green-dubai-ac9eae66ab52e8b63417848379353042-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/al-haramain-green-dubai-j93ua/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -257,6 +273,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T22:11:26.277742+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1560817162",
+      "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 999.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/352535117-spirit-of-kings-sagira-67b06bd1aad541fc0417848377335556-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-sagira-1h3a6/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -433,6 +465,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1562136703",
+      "name": "The Fragrance - Emerald Shine · 75 ML (SEM CAIXA)",
+      "brand": "The Fragrance",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 2849.0,
+      "discountPercent": 33.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351272514-the-fragrance-emerald-shine-8b516bcb78eaef994517848376501247-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-emerald-shine-6c4ra/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1300,6 +1348,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1576082016",
+      "name": "Sospiro - Vibranna · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Sospiro",
+      "shop": "The King of Parfums",
+      "price": 1599.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 20.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354168446-sospiro-vibranna-404f9ae6e8b3554f1e17848379209955-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-vibranna-dsq22/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1601757013",
       "name": "Sospiro - Deep Ocean Amber · 100 ML",
       "brand": "Sospiro",
@@ -1348,22 +1412,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1576082016",
-      "name": "Sospiro - Vibranna · 100 ML (S/ CAIXA C/ TAMPA)",
-      "brand": "Sospiro",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354168446-sospiro-vibranna-404f9ae6e8b3554f1e17848379209955-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-vibranna-dsq22/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1329005602",
       "name": "Gritti - Tutù Blanc · 100 ML",
       "brand": "Gritti",
@@ -1377,6 +1425,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1547906340",
+      "name": "Spirit Of Kings - Matar · 100 ML",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 1299.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 18.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351982545-spirit-of-kings-matar-0cbd891064e83f1cfa17848377237370-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-matar-6nhs3/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1537,70 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T10:11:05.249335+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1547377263",
-      "name": "Boadicea - Valiant · 100 ML",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 7499.0,
-      "originalPrice": 8999.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351799332-boadicea-valiant-8561296ab59f29309817848376800012-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-valiant-195h4/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1487279356",
-      "name": "Xerjoff - Louis XV 1722 · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 2499.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334479590-xerjoff-louis-xv-1722-0cdfd87a9afe2bf17f17848367830168-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-louis-xv-1722-q15ff/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1524609196",
-      "name": "Boadicea - Envious · 100 ML",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 2499.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344157916-boadicea-envious-728684b968d87d7eed17848373280317-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-envious-e47bj/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T20:48:59.580406+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1048029892",
-      "name": "Creed - Carmina · 75 ML",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 2499.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/238752924-creed-carmina-5e8c52b32ae97ad15517848325336338-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-carmina1/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 75.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
       "basis": "store-listed-reference"
     }
   ]
