@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T16:17:33.106530+00:00",
+  "updatedAt": "2026-10-25T19:06:50.579028+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 201,
+  "totalVerifiedDeals": 208,
   "products": [
     {
       "id": "king-1526509776",
@@ -836,6 +836,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1339126484",
+      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T19:06:42.004395+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1339121730",
       "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
       "brand": "Xerjoff",
@@ -1121,6 +1137,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-25T11:26:46.461868+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-371436497",
+      "name": "Xerjoff - K’bridge Club · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1699.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 22.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/97237104-xerjoff-kbridge-club-fe66cebb837814ab3517848269023013-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-kbridge-club/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T19:06:42.004395+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-24T05:52:58.105954+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1524625280",
-      "name": "Boadicea - Glorious · 100 ML",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 2499.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344161665-boadicea-glorious-dfa51c4cfbd1291ec517848373341536-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-glorious-1bj9q/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1179319610",
-      "name": "Creed - Silver Mountain Water · 100 ML",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 2499.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141526603-creed-silver-mountain-water-b7ac0c605903e053ca17848283570667-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-silver-mountain-water1/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T01:35:19.179446+00:00",
       "basis": "store-listed-reference"
     }
   ]
