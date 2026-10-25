@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T11:26:52.536535+00:00",
+  "updatedAt": "2026-10-25T16:17:33.106530+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 197,
+  "totalVerifiedDeals": 201,
   "products": [
     {
       "id": "king-1526509776",
@@ -868,6 +868,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1572821180",
+      "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/253058494-stephane-humbert-lucas-777-lady-white-snake-0fc3bde6a6118209c917848334218877-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-lady-white-snake/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T16:17:26.949344+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-505311307",
       "name": "Xerjoff - Amabile · 100ml",
       "brand": "Xerjoff",
@@ -1108,6 +1124,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1547274899",
+      "name": "BDK - Villa Néroli · 100 ML",
+      "brand": "BDK",
+      "shop": "The King of Parfums",
+      "price": 1699.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 22.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351766009-bdk-villa-neroli-3258c933738029637e17848376709914-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bdk-villa-neroli-1jdnz/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T16:17:26.949344+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-654409930",
       "name": "Orientica - Royal Bleu · 80 ML",
       "brand": "Orientica",
@@ -1217,6 +1249,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1116934921",
+      "name": "Xerjoff - Fiore d'Ulivo · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 20.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/fiore1-2aa8d2b5faa51c949616451309870806-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-fiore-dulivo/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-25T16:17:26.949344+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1553,54 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:35:19.179446+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1539667857",
-      "name": "BDK Parfums - Vanille Leather · 100 ML",
-      "brand": "BDK Parfums",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2399.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/349209427-bdk-parfums-vanille-leather-7b9b1a0cbc271c10f117848374633768-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/bdk-vanille-leather-18hx3/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T18:09:22.974183+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1576338306",
-      "name": "Imperial Parfums - Sweet Serenade · 100 ML",
-      "brand": "Imperial Parfums",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1799.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739052854-3070e436edd1ed8e5e17897390644850-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-sweet-serenade-xjocl/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1572813297",
-      "name": "Imperial Parfums - Rubis Imperial · 100 ML",
-      "brand": "Imperial Parfums",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1799.0,
-      "discountPercent": 16.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739278897-900c235d8a391a514817897392860920-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-rubis-imperial-79nxl/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T01:10:47.895638+00:00",
       "basis": "store-listed-reference"
     }
   ]
