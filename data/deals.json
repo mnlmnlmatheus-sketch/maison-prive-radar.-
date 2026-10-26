@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26T13:01:01.616088+00:00",
+  "updatedAt": "2026-10-26T19:19:10.651692+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 236,
+  "totalVerifiedDeals": 249,
   "products": [
     {
       "id": "king-1526509776",
@@ -317,10 +317,10 @@
       "discountPercent": 37.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/352535117-spirit-of-kings-sagira-67b06bd1aad541fc0417848377335556-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-sagira-1h3a6/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
+      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -397,10 +397,10 @@
       "discountPercent": 35.7,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351981784-spirit-of-kings-harmony-a63310bcef6647e6d117848377178241-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-harmony-30e83/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T06:07:50.656924+00:00",
+      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -900,6 +900,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1586337017",
+      "name": "Birkholz - Paris Mon Amour · 100 ML (S/CAIXA)",
+      "brand": "Birkholz",
+      "shop": "The King of Parfums",
+      "price": 1599.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 27.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351980196-birkholz-paris-mon-amour-3d43e2ea509143e68217848377032373-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/birkholz-paris-mon-amour-pkt6f/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1601766744",
       "name": "Kajal - Almaz · 100 ML",
       "brand": "Kajal",
@@ -993,6 +1009,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1549520527",
+      "name": "Rasasi - Hawas London · 100 ML",
+      "brand": "Rasasi",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/352532984-rasasi-hawas-london-52703928e26554251317848377307584-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rasasi-hawas-london-5qxi6/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1396,6 +1428,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1584756002",
+      "name": "Boadicea - Oud Sapphire · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 3999.0,
+      "originalPrice": 4999.0,
+      "discountPercent": 20.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351261294-boadicea-oud-sapphire-cf91756202e0b8acc417848376351880-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-oud-sapphire-1h62b/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1518671351",
       "name": "Electimuss - Black Caviar · 100 ML",
       "brand": "Electimuss",
@@ -1533,10 +1581,10 @@
       "discountPercent": 18.8,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351982545-spirit-of-kings-matar-0cbd891064e83f1cfa17848377237370-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-matar-6nhs3/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
+      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1553,54 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-25T11:26:46.461868+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1116202657",
-      "name": "By Kilian - Angels' Share · 100 ML",
-      "brand": "By Kilian",
-      "shop": "The King of Parfums",
-      "price": 3499.0,
-      "originalPrice": 4299.0,
-      "discountPercent": 18.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/angels-share1-2d17e278d2fd86631116355424518887-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/by-kilian-angels-share/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1586335155",
-      "name": "Birkholz - Bordeaux Plaisir de la Nuit · 100 ML (S/CAIXA)",
-      "brand": "Birkholz",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 1959.0,
-      "discountPercent": 18.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354146981-birkholz-bordeaux-plaisir-de-la-nuit-be6531aceba388fcab17848379088187-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/birkholz-bordeaux-plaisir-de-la-nuit-1nhgt/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1571505043",
-      "name": "Stéphane Humbert Lucas 777 - The Queen and the Viper · 50 ML (SEM CAIXA)",
-      "brand": "Stéphane Humbert Lucas 777",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 18.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/48e64740-1fbe-482c-88c1-a275c37fd7d3-1515a1464071682efd17647595987057-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-the-queen-and-the-viper-8ow71/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T14:32:38.723884+00:00",
       "basis": "store-listed-reference"
     }
   ]
