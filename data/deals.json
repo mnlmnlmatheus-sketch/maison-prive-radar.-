@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T21:47:57.508756+00:00",
+  "updatedAt": "2026-10-26T00:24:01.680277+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 215,
+  "totalVerifiedDeals": 224,
   "products": [
     {
       "id": "king-1526509776",
@@ -193,6 +193,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-24T23:13:55.146433+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1553758581",
+      "name": "Armaf - Artistic Perfumery FK · 100 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 179.0,
+      "originalPrice": 299.0,
+      "discountPercent": 40.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353873391-armaf-artistic-perfumery-fk-8956744ff86577477f17848378914509-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-artistic-perfumery-fk-18498/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1553754420",
+      "name": "Armaf - Artistic Perfumery PM-01 · 100 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 179.0,
+      "originalPrice": 299.0,
+      "discountPercent": 40.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353872149-armaf-artistic-perfumery-pm-01-7ddffccdc9b449cbb817848378857919-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-artistic-perfumery-pm-01-1mxhg/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1156,6 +1188,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1518677314",
+      "name": "Electimuss - Moroccan Medjool · 100 ML",
+      "brand": "Electimuss",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2599.0,
+      "discountPercent": 23.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342267232-electimuss-moroccan-medjool-4bff3fa421fe12d76e17848372313480-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/electimuss-moroccan-medjool-sfpq1/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1510771906",
       "name": "Boadicea - Heroine · 100 ML (S/CAIXA e  COM TAMPA)",
       "brand": "Boadicea",
@@ -1261,10 +1309,10 @@
       "discountPercent": 21.4,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353791750-the-fragrance-pearl-harmony-932c9712b7eef4b56117848378678743-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-pearl-harmony-39ck4/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T10:59:05.667155+00:00",
+      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1313,6 +1361,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-24T23:13:55.146433+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1518671351",
+      "name": "Electimuss - Black Caviar · 100 ML",
+      "brand": "Electimuss",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 20.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342265549-electimuss-black-caviar-04c8a86c87d71c93a617848372254477-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/electimuss-black-caviar-efdud/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1476,6 +1540,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1586335155",
+      "name": "Birkholz - Bordeaux Plaisir de la Nuit · 100 ML (S/CAIXA)",
+      "brand": "Birkholz",
+      "shop": "The King of Parfums",
+      "price": 1599.0,
+      "originalPrice": 1959.0,
+      "discountPercent": 18.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354146981-birkholz-bordeaux-plaisir-de-la-nuit-be6531aceba388fcab17848379088187-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/birkholz-bordeaux-plaisir-de-la-nuit-1nhgt/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1571505043",
       "name": "Stéphane Humbert Lucas 777 - The Queen and the Viper · 50 ML (SEM CAIXA)",
       "brand": "Stéphane Humbert Lucas 777",
@@ -1521,86 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1580617390",
-      "name": "Memo Paris - French Leather · 75 ML (S/CAIXA S/TAMPA)",
-      "brand": "Memo Paris",
-      "shop": "The King of Parfums",
-      "price": 1399.0,
-      "originalPrice": 1699.0,
-      "discountPercent": 17.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-43-bcc946b5cd17f66f6117225522263589-640-0-7188cad07ca45504e717510738939590-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-french-leather1/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 75.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T00:42:02.075269+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1024145837",
-      "name": "Tom Ford - Noir Extreme Parfum · 50 ML",
-      "brand": "Tom Ford",
-      "shop": "The King of Parfums",
-      "price": 1399.0,
-      "originalPrice": 1699.0,
-      "discountPercent": 17.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/233011354-tom-ford-noir-extreme-parfum-b4d37c24942f61b7b217848322952493-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/tom-ford-noir-extreme-parfum/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": "Parfum",
-      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-993374138",
-      "name": "Unique'e Luxury - Mangonifiscent · 100 ML",
-      "brand": "Unique'e Luxury",
-      "shop": "The King of Parfums",
-      "price": 3299.0,
-      "originalPrice": 3999.0,
-      "discountPercent": 17.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/magno1-40b4590dcf5ce2c98f17235564869191-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/uniquee-luxury-mangonifiscent/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T15:17:23.876108+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1061234744",
-      "name": "Initio - Paragon · 90 ML",
-      "brand": "Initio",
-      "shop": "The King of Parfums",
-      "price": 2899.0,
-      "originalPrice": 3499.0,
-      "discountPercent": 17.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/paragon-6115c83855acba9d6b17313288279047-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/initio-paragon/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 90.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-787910067",
-      "name": "Nishane - Hundred Silent Ways X · 100 ML",
-      "brand": "Nishane",
-      "shop": "The King of Parfums",
-      "price": 1869.0,
-      "originalPrice": 2248.0,
-      "discountPercent": 16.9,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/x-3c625574c16939e63217031062562814-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nishane-hundred-silent-ways-x/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
       "basis": "store-listed-reference"
     }
   ]
