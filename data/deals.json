@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26T19:19:10.651692+00:00",
+  "updatedAt": "2026-10-26T23:53:18.046372+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 249,
+  "totalVerifiedDeals": 251,
   "products": [
     {
       "id": "king-1526509776",
@@ -308,6 +308,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1556851550",
+      "name": "Spirit of Kings - Arrakis · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Spirit of Kings",
+      "shop": "The King of Parfums",
+      "price": 999.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1560817162",
       "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
       "brand": "Spirit Of Kings",
@@ -321,22 +337,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-26T19:19:02.290150+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1556851550",
-      "name": "Spirit of Kings - Arrakis · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Spirit of Kings",
-      "shop": "The King of Parfums",
-      "price": 999.0,
-      "originalPrice": 1599.0,
-      "discountPercent": 37.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -381,10 +381,10 @@
       "discountPercent": 36.7,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351270735-the-fragrance-saphirre-passion-b25c8bc91d5e6fb2a317848376472715-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-saphire-passion-osw8n/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T01:10:47.895638+00:00",
+      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -509,10 +509,10 @@
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351272514-the-fragrance-emerald-shine-8b516bcb78eaef994517848376501247-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-emerald-shine-6c4ra/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
+      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1300,6 +1300,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1547274899",
+      "name": "BDK - Villa Néroli · 100 ML",
+      "brand": "BDK",
+      "shop": "The King of Parfums",
+      "price": 1699.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 22.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351766009-bdk-villa-neroli-3258c933738029637e17848376709914-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bdk-villa-neroli-1jdnz/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-371436497",
       "name": "Xerjoff - K’bridge Club · 50 ML",
       "brand": "Xerjoff",
@@ -1313,22 +1329,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-10-25T19:06:42.004395+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1547274899",
-      "name": "BDK - Villa Néroli · 100 ML",
-      "brand": "BDK",
-      "shop": "The King of Parfums",
-      "price": 1699.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 22.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351766009-bdk-villa-neroli-3258c933738029637e17848376709914-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/bdk-villa-neroli-1jdnz/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T16:17:26.949344+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1572,6 +1572,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1547278608",
+      "name": "Spirit of Kings - Arrakis · 100 ML",
+      "brand": "Spirit of Kings",
+      "shop": "The King of Parfums",
+      "price": 1299.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 18.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1547906340",
       "name": "Spirit Of Kings - Matar · 100 ML",
       "brand": "Spirit Of Kings",
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-26T19:19:02.290150+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1547278608",
-      "name": "Spirit of Kings - Arrakis · 100 ML",
-      "brand": "Spirit of Kings",
-      "shop": "The King of Parfums",
-      "price": 1299.0,
-      "originalPrice": 1599.0,
-      "discountPercent": 18.8,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
       "basis": "store-listed-reference"
     }
   ]
