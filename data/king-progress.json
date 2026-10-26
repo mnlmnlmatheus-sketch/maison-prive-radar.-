@@ -1,25 +1,25 @@
 {
   "cursor": 0,
   "pages": {
-    "king-niche": 28,
-    "king-all": 28
+    "king-niche": 29,
+    "king-all": 29
   },
-  "lastRunAt": "2026-10-26T06:12:56.931327+00:00",
-  "verifiedThisRun": 32,
-  "addedThisRun": 27,
-  "catalogSize": 3127,
+  "lastRunAt": "2026-10-26T13:00:54.742972+00:00",
+  "verifiedThisRun": 26,
+  "addedThisRun": 10,
+  "catalogSize": 3138,
   "status": [
     {
       "source": "king-niche",
-      "page": 27,
+      "page": 28,
       "status": "ok",
-      "variants": 15
+      "variants": 12
     },
     {
       "source": "king-all",
-      "page": 27,
+      "page": 28,
       "status": "ok",
-      "variants": 17
+      "variants": 14
     }
   ]
 }

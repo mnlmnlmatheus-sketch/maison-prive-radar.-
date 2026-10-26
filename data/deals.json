@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26T06:13:05.118019+00:00",
+  "updatedAt": "2026-10-26T13:01:01.616088+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 233,
+  "totalVerifiedDeals": 236,
   "products": [
     {
       "id": "king-1526509776",
@@ -1092,6 +1092,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-685093418",
+      "name": "Xerjoff - Golden Green · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 24.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/golden-green1-778be6002268bc2e7e16908979364458-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-golden-green/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T13:00:54.742972+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1550987642",
+      "name": "Rayhaan - Pacific Aloha · 100 ML",
+      "brand": "Rayhaan",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353015784-rayhaan-pacific-aloha-35eaa432380792b62c17848377543543-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rayhaan-pacific-aloha-1trxn/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-26T13:00:54.742972+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1578965016",
       "name": "Bidaya - Sex on the Rocks · 100 ML",
       "brand": "Bidaya",
@@ -1569,38 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-10-24T14:32:38.723884+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1424544386",
-      "name": "Xerjoff - Torino24 · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 18.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/torino-24-1e590dfdd067020ac317416310087119-640-0-90387b41b6153cc04117696171346030-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-torino24-15k99/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T18:21:18.242450+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-518639225",
-      "name": "Montale - Intense Cafe · 100 ML",
-      "brand": "Montale",
-      "shop": "The King of Parfums",
-      "price": 899.0,
-      "originalPrice": 1099.0,
-      "discountPercent": 18.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/132345539-montale-intense-cafe-efb0734804906a36e817848281592576-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/montale-intense-cafe/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T04:43:18.125171+00:00",
       "basis": "store-listed-reference"
     }
   ]
