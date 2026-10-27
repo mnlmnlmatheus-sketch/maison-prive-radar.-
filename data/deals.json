@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T10:33:55.278874+00:00",
+  "updatedAt": "2026-10-27T16:38:29.435779+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 268,
+  "totalVerifiedDeals": 272,
   "products": [
     {
       "id": "king-1526509776",
@@ -257,6 +257,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1543630324",
+      "name": "Emporio Armani - Stronger With You Powerfully · 100 ML",
+      "brand": "Emporio Armani",
+      "shop": "The King of Parfums",
+      "price": 799.0,
+      "originalPrice": 1299.0,
+      "discountPercent": 38.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350628804-emporio-armani-stronger-with-you-powerfully-898b544b75eb1a61d117848375276431-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/emporio-armani-stronger-with-you-powerfully-fz82q/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -852,6 +868,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1543673764",
+      "name": "Rasasi - Hawas Atlantis · 100 ML",
+      "brand": "Rasasi",
+      "shop": "The King of Parfums",
+      "price": 329.0,
+      "originalPrice": 459.0,
+      "discountPercent": 28.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350646234-rasasi-hawas-atlantis-6b25ff5ba409b77bf917848375363661-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rasasi-hawas-atlantis-26jpi/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1483090469",
       "name": "Gritti - Neroli Extreme · 100 ML",
       "brand": "Gritti",
@@ -881,6 +913,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-10-24T20:48:59.580406+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1543767975",
+      "name": "Emporio Armani - Stronger With You Powerfully · 50 ML",
+      "brand": "Emporio Armani",
+      "shop": "The King of Parfums",
+      "price": 649.0,
+      "originalPrice": 899.0,
+      "discountPercent": 27.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350628804-emporio-armani-stronger-with-you-powerfully-898b544b75eb1a61d117848375276431-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/emporio-armani-stronger-with-you-powerfully-fz82q/",
+      "category": "Perfumes",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1460,6 +1508,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1543672131",
+      "name": "Rasasi - Hawas Tropical · 100 ML",
+      "brand": "Rasasi",
+      "shop": "The King of Parfums",
+      "price": 319.0,
+      "originalPrice": 399.0,
+      "discountPercent": 20.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350645682-rasasi-hawas-tropical-b967833240fcf1859417848375335073-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rasasi-hawas-tropical-18nqj/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1587423979",
       "name": "Lattafa - Creative Art · 100 ML",
       "brand": "Lattafa",
@@ -1537,70 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-25T16:17:26.949344+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1576082016",
-      "name": "Sospiro - Vibranna · 100 ML (S/ CAIXA C/ TAMPA)",
-      "brand": "Sospiro",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354168446-sospiro-vibranna-404f9ae6e8b3554f1e17848379209955-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-vibranna-dsq22/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1601757013",
-      "name": "Sospiro - Deep Ocean Amber · 100 ML",
-      "brand": "Sospiro",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1790012880422-1c820ea7913d48d27d17900128856617-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-deep-ocean-amber-zgg1u/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T18:09:22.974183+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1517309421",
-      "name": "Sospiro - Traviata · 100 ML (S/ CAIXA)",
-      "brand": "Sospiro",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-2a2f9f572dda82466a17555526263017-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-traviata/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T10:59:05.667155+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1517309591",
-      "name": "Sospiro - Maraschino · 100 ML (S/ CAIXA)",
-      "brand": "Sospiro",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/sem-titulo-1-0dfb8a0b268779f71517292541918901-640-0-53c2014b66c30b953b17555508107045-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-maraschino/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T22:11:26.277742+00:00",
       "basis": "store-listed-reference"
     }
   ]
