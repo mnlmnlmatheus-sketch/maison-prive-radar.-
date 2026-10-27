@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T16:38:29.435779+00:00",
+  "updatedAt": "2026-10-27T21:19:59.062873+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 272,
+  "totalVerifiedDeals": 279,
   "products": [
     {
       "id": "king-1526509776",
@@ -1508,6 +1508,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1539970023",
+      "name": "Rabanne - 1 Million Golden Oud · 100 ML",
+      "brand": "Rabanne",
+      "shop": "The King of Parfums",
+      "price": 629.0,
+      "originalPrice": 799.0,
+      "discountPercent": 21.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/349321277-rabanne-1-million-golden-oud-acb9ff69f7b76f602c17848374750368-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rabanne-1-million-golden-oud-1tcy2/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T21:19:50.610098+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1543672131",
       "name": "Rasasi - Hawas Tropical · 100 ML",
       "brand": "Rasasi",
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:22:32.865164+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1116934921",
-      "name": "Xerjoff - Fiore d'Ulivo · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/fiore1-2aa8d2b5faa51c949616451309870806-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-fiore-dulivo/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T16:17:26.949344+00:00",
       "basis": "store-listed-reference"
     }
   ]
