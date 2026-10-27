@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26T23:53:18.046372+00:00",
+  "updatedAt": "2026-10-27T05:03:05.872251+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 251,
+  "totalVerifiedDeals": 262,
   "products": [
     {
       "id": "king-1526509776",
@@ -477,10 +477,10 @@
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351259805-boadicea-blue-sapphire-supercharged-3247950981eb7a165817848376294444-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-supercharged-1t7yz/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
+      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1252,6 +1252,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1487273738",
+      "name": "Byredo - Gypsy Water · 100 ML",
+      "brand": "Byredo",
+      "shop": "The King of Parfums",
+      "price": 2299.0,
+      "originalPrice": 2999.0,
+      "discountPercent": 23.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334478254-byredo-gypsy-water-cb1dd5fa12ce22baa617848367773844-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/byredo-gypsy-water-16egs/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1518677314",
       "name": "Electimuss - Moroccan Medjool · 100 ML",
       "brand": "Electimuss",
@@ -1332,6 +1348,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1466790025",
+      "name": "Le Labo - Fleur d'Oranger 27 · 100 ML",
+      "brand": "Le Labo",
+      "shop": "The King of Parfums",
+      "price": 2399.0,
+      "originalPrice": 3099.0,
+      "discountPercent": 22.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/329623026-le-labo-fleur-d-oranger-27-5100a3c1bc4ffc9bc517848364228146-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/le-labo-fleur-doranger-27-gnmdj/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-654409930",
       "name": "Orientica - Royal Bleu · 80 ML",
       "brand": "Orientica",
@@ -1396,6 +1428,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1584768952",
+      "name": "State of Mind - Natural Elegance · 100 ML (S/CAIXA)",
+      "brand": "State of Mind",
+      "shop": "The King of Parfums",
+      "price": 1099.0,
+      "originalPrice": 1399.0,
+      "discountPercent": 21.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/natutal-8540c7c438fdd35e0d17454898607330-640-0-69e1aa2c39e5bf27c717467442184400-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/state-of-mind-natural-elegance/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-697049429",
       "name": "Xerjoff - More Than Words · 100 ML",
       "brand": "Xerjoff",
@@ -1437,10 +1485,10 @@
       "discountPercent": 20.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351261294-boadicea-oud-sapphire-cf91756202e0b8acc417848376351880-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-oud-sapphire-1h62b/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
+      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1553,54 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T22:11:26.277742+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1329005602",
-      "name": "Gritti - Tutù Blanc · 100 ML",
-      "brand": "Gritti",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-78fb0378487a82430e17594311803920-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gritti-tutu-blanc/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1547278608",
-      "name": "Spirit of Kings - Arrakis · 100 ML",
-      "brand": "Spirit of Kings",
-      "shop": "The King of Parfums",
-      "price": 1299.0,
-      "originalPrice": 1599.0,
-      "discountPercent": 18.8,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1547906340",
-      "name": "Spirit Of Kings - Matar · 100 ML",
-      "brand": "Spirit Of Kings",
-      "shop": "The King of Parfums",
-      "price": 1299.0,
-      "originalPrice": 1599.0,
-      "discountPercent": 18.8,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351982545-spirit-of-kings-matar-0cbd891064e83f1cfa17848377237370-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-matar-6nhs3/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
       "basis": "store-listed-reference"
     }
   ]
