@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-28T16:01:27.940504+00:00",
+  "updatedAt": "2026-10-28T21:04:30.106056+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 290,
+  "totalVerifiedDeals": 304,
   "products": [
     {
       "id": "king-1526509776",
@@ -449,6 +449,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-26T19:19:02.290150+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1487252774",
+      "name": "Marc-Antoine Barrois - B683 · 100 ML",
+      "brand": "Marc-Antoine Barrois",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 3104.0,
+      "discountPercent": 35.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334474439-marc-antoine-barrois-b683-c8531d8673e26bb2a017848367717659-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-b683-1k2c7/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-28T21:04:21.803255+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-24T23:13:55.146433+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1584756002",
-      "name": "Boadicea - Oud Sapphire · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 3999.0,
-      "originalPrice": 4999.0,
-      "discountPercent": 20.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351261294-boadicea-oud-sapphire-cf91756202e0b8acc417848376351880-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-oud-sapphire-1h62b/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
       "basis": "store-listed-reference"
     }
   ]
