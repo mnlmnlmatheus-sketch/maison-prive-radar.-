@@ -1,55 +1,55 @@
 {
-  "lastRunAt": "2026-10-27T21:19:13.255151+00:00",
-  "cursor": 1,
-  "verifiedThisRun": 704,
-  "addedThisRun": 19,
-  "catalogSize": 3278,
+  "lastRunAt": "2026-10-28T01:20:48.516944+00:00",
+  "cursor": 9,
+  "verifiedThisRun": 528,
+  "addedThisRun": 1,
+  "catalogSize": 3296,
   "status": [
     {
-      "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas/bermudas-e-shorts/bermudas",
+      "category": "Calçados",
+      "url": "https://www.oqvestir.com.br/feminino/sapatos/tenis",
+      "status": "ok",
+      "verified": 0
+    },
+    {
+      "category": "Bolsas",
+      "url": "https://www.oqvestir.com.br/feminino/acessorios/bolsas",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/bermudas-e-shorts/shorts",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/camisetas",
       "status": "ok",
       "verified": 88
     },
     {
-      "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/feminino/acessorios",
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/vestidos",
+      "status": "ok",
+      "verified": 0
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/blusas",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/feminino/sapatos",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/masculino/sapatos",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/made-by-oqvestir/feminino/acessorios",
+      "url": "https://www.oqvestir.com.br/mercadoria/tenis",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/casacos-e-jaquetas/jaquetas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas/casaco-e-jaqueta",
       "status": "ok",
       "verified": 88
     }
