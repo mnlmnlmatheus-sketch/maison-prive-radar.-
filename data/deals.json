@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-28T21:04:30.106056+00:00",
+  "updatedAt": "2026-10-29T00:57:37.969367+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 304,
+  "totalVerifiedDeals": 313,
   "products": [
     {
       "id": "king-1526509776",
@@ -116,6 +116,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1048032090",
+      "name": "Creed - Delphinus · 100 ML",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 2999.0,
+      "originalPrice": 5289.0,
+      "discountPercent": 43.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/238753503-creed-delphinus-4a4a864303988f6e0b17848325369871-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-delphinus/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T00:57:28.750557+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1589812312",
       "name": "Khadlaj - Titan · 100 ML",
       "brand": "Khadlaj",
@@ -161,6 +177,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1302892091",
+      "name": "Kajal - Masa · 100 ML",
+      "brand": "Kajal",
+      "shop": "The King of Parfums",
+      "price": 1299.0,
+      "originalPrice": 2199.0,
+      "discountPercent": 40.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/msa-6d36a5cc6d878d174a17468044847838-640-0-5399c2dbdc77af6ff517567354393791-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kajal-masa/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T00:57:28.750557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1373,10 +1405,10 @@
       "discountPercent": 23.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342267232-electimuss-moroccan-medjool-4bff3fa421fe12d76e17848372313480-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/electimuss-moroccan-medjool-sfpq1/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
+      "checkedAt": "2026-10-29T00:57:28.750557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-27T21:19:50.610098+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1543672131",
-      "name": "Rasasi - Hawas Tropical · 100 ML",
-      "brand": "Rasasi",
-      "shop": "The King of Parfums",
-      "price": 319.0,
-      "originalPrice": 399.0,
-      "discountPercent": 20.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350645682-rasasi-hawas-tropical-b967833240fcf1859417848375335073-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/rasasi-hawas-tropical-18nqj/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1587423979",
-      "name": "Lattafa - Creative Art · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 279.0,
-      "originalPrice": 349.0,
-      "discountPercent": 20.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788180108936-b642e49e6b32e5b52e17881801179301-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-creative-art-vslow/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
       "basis": "store-listed-reference"
     }
   ]

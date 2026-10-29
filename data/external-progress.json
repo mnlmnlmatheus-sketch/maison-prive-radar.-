@@ -1,27 +1,27 @@
 {
-  "cursor": 4,
-  "lastRunAt": "2026-10-28T21:04:10.073430+00:00",
+  "cursor": 0,
+  "lastRunAt": "2026-10-29T00:57:15.316052+00:00",
   "verifiedThisRun": 66,
-  "addedThisRun": 0,
-  "catalogSize": 3347,
+  "addedThisRun": 3,
+  "catalogSize": 3390,
   "status": [
     {
-      "source": "dl-nicho-1",
-      "status": "ok",
-      "verified": 12
-    },
-    {
-      "source": "droper-perfumes",
+      "source": "droper-sneakers",
       "status": "ok",
       "verified": 30
     },
     {
-      "source": "dl-arabes-1",
+      "source": "dl-nicho-2",
       "status": "ok",
       "verified": 12
     },
     {
-      "source": "dl-designer-geral",
+      "source": "dl-arabes-2",
+      "status": "ok",
+      "verified": 12
+    },
+    {
+      "source": "dl-geral-2",
       "status": "ok",
       "verified": 12
     }
