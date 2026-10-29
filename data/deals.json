@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-29T14:17:57.936025+00:00",
+  "updatedAt": "2026-10-29T19:42:51.680179+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 317,
+  "totalVerifiedDeals": 319,
   "products": [
     {
       "id": "king-1526509776",
@@ -724,6 +724,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1513415837",
+      "name": "Maison Alhambra - Jean Lowe Azure · 100 ML",
+      "brand": "Maison Alhambra",
+      "shop": "The King of Parfums",
+      "price": 179.0,
+      "originalPrice": 259.0,
+      "discountPercent": 30.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340590191-maison-alhambra-jean-lowe-azure-5cfed6027630d7e12e17848371141502-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/maison-alhambra-jean-lowe-azure-1t47p/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1531075240",
       "name": "Boadicea - Knight of Love · 100 ML (S/CAIXA e  COM TAMPA)",
       "brand": "Boadicea",
@@ -800,7 +816,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
+      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -864,7 +880,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
+      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -881,6 +897,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-28T16:01:18.527753+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1276228683",
+      "name": "Creed - Silver Mountain Water · 100ML S/CAIXA S/TAMPA",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 28.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141526603-creed-silver-mountain-water-b7ac0c605903e053ca17848283570667-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-silver-mountain-water1/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -913,22 +945,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T04:43:18.125171+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1276228683",
-      "name": "Creed - Silver Mountain Water · 100ML S/CAIXA S/TAMPA",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 28.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141526603-creed-silver-mountain-water-b7ac0c605903e053ca17848283570667-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-silver-mountain-water1/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T01:35:19.179446+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1520,7 +1536,7 @@
       "category": "Perfumes árabes",
       "volumeMl": 80.0,
       "concentration": null,
-      "checkedAt": "2026-10-22T01:35:19.179446+00:00",
+      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-27T05:02:59.281626+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-697049429",
-      "name": "Xerjoff - More Than Words · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1899.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 21.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/more-than1-d79bc164fb49ee741116926536217663-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-more-than-words/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
       "basis": "store-listed-reference"
     }
   ]
