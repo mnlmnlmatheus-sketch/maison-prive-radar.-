@@ -1,54 +1,55 @@
 {
-  "lastRunAt": "2026-10-29T00:55:10.791719+00:00",
-  "cursor": 11,
+  "lastRunAt": "2026-10-29T07:04:04.169697+00:00",
+  "cursor": 19,
   "verifiedThisRun": 616,
-  "addedThisRun": 18,
-  "catalogSize": 3387,
+  "addedThisRun": 5,
+  "catalogSize": 3412,
   "status": [
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas/camisetas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/saias",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/vestidos",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/blusas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/camisas",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/mercadoria/tenis",
+      "url": "https://www.oqvestir.com.br/feminino/sapatos/sandalias",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Calçados",
+      "url": "https://www.oqvestir.com.br/masculino/sapatos/tenis",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas/casaco-e-jaqueta",
-      "status": "TimeoutError"
-    },
-    {
-      "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/made-by-oqvestir/feminino/roupas/calcas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/jeans",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/made-by-oqvestir/masculino/roupas/camisetas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/calcas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/bermudas-e-shorts",
+      "status": "ok",
+      "verified": 0
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/macacoes",
       "status": "ok",
       "verified": 88
     }

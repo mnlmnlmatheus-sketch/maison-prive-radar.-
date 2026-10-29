@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-29T00:57:37.969367+00:00",
+  "updatedAt": "2026-10-29T07:04:38.912655+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 313,
+  "totalVerifiedDeals": 315,
   "products": [
     {
       "id": "king-1526509776",
@@ -13,10 +13,10 @@
       "discountPercent": 62.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342263117-boadicea-rebellious-4373233866693b212d17848372196718-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-rebellious-1f0lr/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T20:48:59.580406+00:00",
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -45,10 +45,10 @@
       "discountPercent": 47.4,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T01:10:47.895638+00:00",
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -669,10 +669,10 @@
       "discountPercent": 32.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342266241-electimuss-aurora-7acf5f0d8600af978117848372284104-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/electimuss-aurora-12rkf/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-28T16:01:18.527753+00:00",
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -813,10 +813,10 @@
       "discountPercent": 30.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T01:10:47.895638+00:00",
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1380,6 +1380,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1515858017",
+      "name": "Lattafa - Mishlah · 100 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 229.0,
+      "originalPrice": 299.0,
+      "discountPercent": 23.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1487273738",
       "name": "Byredo - Gypsy Water · 100 ML",
       "brand": "Byredo",
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T19:15:50.932637+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1539970023",
-      "name": "Rabanne - 1 Million Golden Oud · 100 ML",
-      "brand": "Rabanne",
-      "shop": "The King of Parfums",
-      "price": 629.0,
-      "originalPrice": 799.0,
-      "discountPercent": 21.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/349321277-rabanne-1-million-golden-oud-acb9ff69f7b76f602c17848374750368-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/rabanne-1-million-golden-oud-1tcy2/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T21:19:50.610098+00:00",
       "basis": "store-listed-reference"
     }
   ]
