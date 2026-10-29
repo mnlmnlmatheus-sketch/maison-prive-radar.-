@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-29T07:04:38.912655+00:00",
+  "updatedAt": "2026-10-29T14:17:57.936025+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 315,
+  "totalVerifiedDeals": 317,
   "products": [
     {
       "id": "king-1526509776",
@@ -208,7 +208,7 @@
       "category": "Perfumes árabes",
       "volumeMl": 105.0,
       "concentration": null,
-      "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -592,7 +592,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-22T01:22:32.865164+00:00",
+      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -797,10 +797,10 @@
       "discountPercent": 30.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -861,10 +861,10 @@
       "discountPercent": 29.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
+      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -881,6 +881,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-28T16:01:18.527753+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1281214107",
+      "name": "Creed - Aventus · 100 ML - S/CAIXA S/TAMPA",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 28.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/aventus1-b4c94ab44d9d36dfaf16680247366766-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-aventus1/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -913,22 +929,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T01:35:19.179446+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1281214107",
-      "name": "Creed - Aventus · 100 ML - S/CAIXA S/TAMPA",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 28.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/aventus1-b4c94ab44d9d36dfaf16680247366766-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-aventus1/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T01:22:32.865164+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1188,6 +1188,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1179283148",
+      "name": "Xerjoff - Erba Pura · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/134978667-xerjoff-erba-pura-45596f8d74a3b20e3817848281940380-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-erba-pura/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1480633616",
       "name": "Imperial Parfums - Kashmir · 100 ML",
       "brand": "Imperial Parfums",
@@ -1217,22 +1233,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T10:11:05.249335+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1179283148",
-      "name": "Xerjoff - Erba Pura · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/134978667-xerjoff-erba-pura-45596f8d74a3b20e3817848281940380-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-erba-pura/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T01:22:32.865164+00:00",
       "basis": "store-listed-reference"
     },
     {
