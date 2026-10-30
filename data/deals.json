@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T18:38:03.038310+00:00",
+  "updatedAt": "2026-10-30T22:58:50.117267+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
   "totalVerifiedDeals": 324,
   "products": [
@@ -288,7 +288,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
+      "checkedAt": "2026-10-30T22:58:44.111635+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1124,6 +1124,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-505311307",
+      "name": "Xerjoff - Amabile · 100ml",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-30T22:58:44.111635+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1572821180",
       "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
       "brand": "Stéphane Humbert Lucas 777",
@@ -1137,22 +1153,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-10-25T16:17:26.949344+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-505311307",
-      "name": "Xerjoff - Amabile · 100ml",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T19:15:50.932637+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1204,6 +1204,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1480633616",
+      "name": "Imperial Parfums - Kashmir · 100 ML",
+      "brand": "Imperial Parfums",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-30T22:58:44.111635+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1375467695",
       "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
       "brand": "Nishane",
@@ -1233,22 +1249,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T14:17:52.418181+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1480633616",
-      "name": "Imperial Parfums - Kashmir · 100 ML",
-      "brand": "Imperial Parfums",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T22:22:44.330871+00:00",
       "basis": "store-listed-reference"
     },
     {
