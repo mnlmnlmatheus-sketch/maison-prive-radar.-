@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-29T23:57:45.682574+00:00",
+  "updatedAt": "2026-10-30T05:47:03.834910+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 321,
+  "totalVerifiedDeals": 323,
   "products": [
     {
       "id": "king-1526509776",
@@ -560,7 +560,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
+      "checkedAt": "2026-10-30T05:46:57.491559+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1204,6 +1204,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1375467695",
+      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
+      "brand": "Nishane",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-30T05:46:57.491559+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1179283148",
       "name": "Xerjoff - Erba Pura · 100 ML",
       "brand": "Xerjoff",
@@ -1233,22 +1249,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-22T22:22:44.330871+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1375467695",
-      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
-      "brand": "Nishane",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T10:11:05.249335+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1428,6 +1428,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1510771906",
+      "name": "Boadicea - Heroine · 100 ML (S/CAIXA e  COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2599.0,
+      "discountPercent": 23.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339941995-boadicea-heroine-740321608e53495e9e17848370842968-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-heroine-1eoa9/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-30T05:46:57.491559+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1518677314",
       "name": "Electimuss - Moroccan Medjool · 100 ML",
       "brand": "Electimuss",
@@ -1441,22 +1457,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T00:57:28.750557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1510771906",
-      "name": "Boadicea - Heroine · 100 ML (S/CAIXA e  COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2599.0,
-      "discountPercent": 23.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339941995-boadicea-heroine-740321608e53495e9e17848370842968-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-heroine-1eoa9/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T10:59:05.667155+00:00",
       "basis": "store-listed-reference"
     },
     {
