@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T05:47:03.834910+00:00",
+  "updatedAt": "2026-10-30T12:54:42.967492+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 323,
+  "totalVerifiedDeals": 324,
   "products": [
     {
       "id": "king-1526509776",
@@ -1549,10 +1549,10 @@
       "discountPercent": 21.7,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339944174-boadicea-ardent-406e742128894009f117848370903200-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-ardent-fnncl/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T23:57:39.284539+00:00",
+      "checkedAt": "2026-10-30T12:54:36.976391+00:00",
       "basis": "store-listed-reference"
     },
     {
