@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-31T09:38:29.651101+00:00",
+  "updatedAt": "2026-10-31T15:44:48.895858+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 329,
+  "totalVerifiedDeals": 328,
   "products": [
     {
       "id": "king-1526509776",
@@ -45,10 +45,10 @@
       "discountPercent": 47.4,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T23:57:39.284539+00:00",
+      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -612,54 +612,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1613183291",
-      "name": "Risala Elite - Fragaby II · 100 ML",
-      "brand": "Risala Elite",
-      "shop": "The King of Parfums",
-      "price": 169.0,
-      "originalPrice": 249.0,
-      "discountPercent": 32.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1791310610895-9201772211ea48758117913106166218-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/risala-elite-fragaby-ii-1cm96/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T04:43:18.125171+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1613181303",
-      "name": "Risala Elite - Bubbliz Melodrop · 100 ML",
-      "brand": "Risala Elite",
-      "shop": "The King of Parfums",
-      "price": 169.0,
-      "originalPrice": 249.0,
-      "discountPercent": 32.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1791310628214-a1b64aea9dd460c52617913106411430-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/risala-elite-bubbliz-melodrop-1o9po/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T04:43:18.125171+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1613179370",
-      "name": "Risala Elite - Bubbliz Aloha · 100 ML",
-      "brand": "Risala Elite",
-      "shop": "The King of Parfums",
-      "price": 169.0,
-      "originalPrice": 249.0,
-      "discountPercent": 32.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1791310659023-be513bb3c8617798c217913106689001-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/risala-elite-bubbliz-aloha-1wpvm/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T04:43:18.125171+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1518673646",
       "name": "Electimuss - Aurora · 100 ML",
       "brand": "Electimuss",
@@ -720,7 +672,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1021,10 +973,10 @@
       "discountPercent": 27.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T23:57:39.284539+00:00",
+      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1200,7 +1152,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1252,22 +1204,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-984923395",
-      "name": "Mancera - Red Tobacco Intense · 120 ML",
-      "brand": "Mancera",
-      "shop": "The King of Parfums",
-      "price": 1099.0,
-      "originalPrice": 1455.0,
-      "discountPercent": 24.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-34-fc5812ba780ef5bd4e17225415516942-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mancera-red-tobacco-intense/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 120.0,
-      "concentration": null,
-      "checkedAt": "2026-10-22T04:43:18.125171+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-685093418",
       "name": "Xerjoff - Golden Green · 50 ML",
       "brand": "Xerjoff",
@@ -1297,6 +1233,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T09:38:23.342309+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1431784391",
+      "name": "Gulf Orchid - Mangotini · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323059645-gulf-orchid-mangotini-6309f36be0f3c02a6f17848361758629-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-mangotini-84d9c/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1345,22 +1297,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-23T13:26:18.522462+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1431784391",
-      "name": "Gulf Orchid - Mangotini · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323059645-gulf-orchid-mangotini-6309f36be0f3c02a6f17848361758629-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-mangotini-84d9c/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1572,6 +1508,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-627367069",
+      "name": "Initio - Oud for Happiness · 90 ML",
+      "brand": "Initio",
+      "shop": "The King of Parfums",
+      "price": 2199.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 21.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/blac1-d4624198515a03a7c416807987391482-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/initio-oud-for-happiness/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 90.0,
+      "concentration": null,
+      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1553508690",
       "name": "The Fragrance - Pearl Harmony · 75 ML",
       "brand": "The Fragrance",
@@ -1588,19 +1540,67 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-627367069",
-      "name": "Initio - Oud for Happiness · 90 ML",
-      "brand": "Initio",
+      "id": "king-1328968519",
+      "name": "Gritti - Gossip Night · 100 ML",
+      "brand": "Gritti",
       "shop": "The King of Parfums",
-      "price": 2199.0,
-      "originalPrice": 2799.0,
+      "price": 1099.0,
+      "originalPrice": 1399.0,
       "discountPercent": 21.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/blac1-d4624198515a03a7c416807987391482-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/initio-oud-for-happiness/",
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2-98b10c2d127e6dc7a017594290703866-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gritti-gossip-night/",
       "category": "Perfumes de nicho",
-      "volumeMl": 90.0,
+      "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1584768952",
+      "name": "State of Mind - Natural Elegance · 100 ML (S/CAIXA)",
+      "brand": "State of Mind",
+      "shop": "The King of Parfums",
+      "price": 1099.0,
+      "originalPrice": 1399.0,
+      "discountPercent": 21.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/natutal-8540c7c438fdd35e0d17454898607330-640-0-69e1aa2c39e5bf27c717467442184400-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/state-of-mind-natural-elegance/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-697049429",
+      "name": "Xerjoff - More Than Words · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 21.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/more-than1-d79bc164fb49ee741116926536217663-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-more-than-words/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-30T22:58:44.111635+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1539970023",
+      "name": "Rabanne - 1 Million Golden Oud · 100 ML",
+      "brand": "Rabanne",
+      "shop": "The King of Parfums",
+      "price": 629.0,
+      "originalPrice": 799.0,
+      "discountPercent": 21.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/349321277-rabanne-1-million-golden-oud-acb9ff69f7b76f602c17848374750368-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rabanne-1-million-golden-oud-1tcy2/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T21:19:50.610098+00:00",
       "basis": "store-listed-reference"
     }
   ]
