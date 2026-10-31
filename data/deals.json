@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T22:58:50.117267+00:00",
+  "updatedAt": "2026-10-31T02:22:12.197385+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 324,
+  "totalVerifiedDeals": 325,
   "products": [
     {
       "id": "king-1526509776",
@@ -336,7 +336,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -813,10 +813,10 @@
       "discountPercent": 30.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
+      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -877,10 +877,10 @@
       "discountPercent": 29.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
+      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1392,7 +1392,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
       "basis": "store-listed-reference"
     },
     {
