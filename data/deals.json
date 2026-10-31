@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-31T02:22:12.197385+00:00",
+  "updatedAt": "2026-10-31T09:38:29.651101+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 325,
+  "totalVerifiedDeals": 329,
   "products": [
     {
       "id": "king-1526509776",
@@ -160,7 +160,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -512,7 +512,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": "Parfum",
-      "checkedAt": "2026-10-23T07:31:58.549945+00:00",
+      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -800,7 +800,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-23T01:31:02.781701+00:00",
+      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1284,6 +1284,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1495880610",
+      "name": "Scent.br - Midnight Desire · 100 ML",
+      "brand": "Scent.br",
+      "shop": "The King of Parfums",
+      "price": 189.0,
+      "originalPrice": 249.9,
+      "discountPercent": 24.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/336372420-scent-br-midnight-desire-0100b1ca5c4ffc7dcb17848368977226-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/scent-br-midnight-desire-otwzd/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1550987642",
       "name": "Rayhaan - Pacific Aloha · 100 ML",
       "brand": "Rayhaan",
@@ -1585,22 +1601,6 @@
       "volumeMl": 90.0,
       "concentration": null,
       "checkedAt": "2026-10-23T07:31:58.549945+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1584768952",
-      "name": "State of Mind - Natural Elegance · 100 ML (S/CAIXA)",
-      "brand": "State of Mind",
-      "shop": "The King of Parfums",
-      "price": 1099.0,
-      "originalPrice": 1399.0,
-      "discountPercent": 21.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/natutal-8540c7c438fdd35e0d17454898607330-640-0-69e1aa2c39e5bf27c717467442184400-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/state-of-mind-natural-elegance/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
       "basis": "store-listed-reference"
     }
   ]
