@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-31T19:59:25.498292+00:00",
+  "updatedAt": "2026-10-31T23:24:01.198984+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 329,
+  "totalVerifiedDeals": 334,
   "products": [
     {
       "id": "king-1526509776",
@@ -493,10 +493,10 @@
       "discountPercent": 35.6,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334474439-marc-antoine-barrois-b683-c8531d8673e26bb2a017848367717659-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-b683-1k2c7/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-28T21:04:21.803255+00:00",
+      "checkedAt": "2026-10-31T23:23:55.042311+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -737,6 +737,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-24T23:13:55.146433+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1487226500",
+      "name": "Lattafa - Eternal Vanille · 100 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 319.0,
+      "originalPrice": 459.0,
+      "discountPercent": 30.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334467005-lattafa-eternal-vanille-987116fb1cc080ced917848367572552-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-eternal-vanille-35egw/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-31T23:23:55.042311+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-30T22:58:44.111635+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1539970023",
-      "name": "Rabanne - 1 Million Golden Oud · 100 ML",
-      "brand": "Rabanne",
-      "shop": "The King of Parfums",
-      "price": 629.0,
-      "originalPrice": 799.0,
-      "discountPercent": 21.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/349321277-rabanne-1-million-golden-oud-acb9ff69f7b76f602c17848374750368-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/rabanne-1-million-golden-oud-1tcy2/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T21:19:50.610098+00:00",
       "basis": "store-listed-reference"
     }
   ]
