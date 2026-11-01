@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T18:56:26.706793+00:00",
+  "updatedAt": "2026-11-01T22:49:47.316001+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 346,
+  "totalVerifiedDeals": 353,
   "products": [
     {
       "id": "king-1526509776",
@@ -1028,6 +1028,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1468101076",
+      "name": "Carolina Herrera - Good Girl Blush Polka Paradise · 80 ML",
+      "brand": "Carolina Herrera",
+      "shop": "The King of Parfums",
+      "price": 729.0,
+      "originalPrice": 999.0,
+      "discountPercent": 27.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/329914588-carolina-herrera-good-girl-blush-polka-paradise-df26db306e02b6d2d117848365004689-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/carolina-herrera-good-girl-blush-polka-paradise-lii1h/",
+      "category": "Perfumes designer",
+      "volumeMl": 80.0,
+      "concentration": null,
+      "checkedAt": "2026-11-01T22:49:41.431439+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1601766744",
       "name": "Kajal - Almaz · 100 ML",
       "brand": "Kajal",
@@ -1105,6 +1121,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T19:59:19.109948+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1467614942",
+      "name": "Medicube - Collagen Lifting Mask · 27 Gr",
+      "brand": "Medicube",
+      "shop": "The King of Parfums",
+      "price": 29.0,
+      "originalPrice": 39.0,
+      "discountPercent": 25.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-47-f415a3f2461d867c2517733491912298-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/medicube-collagen-lifting-mask-6pg2t/",
+      "category": "Perfumes",
+      "volumeMl": null,
+      "concentration": null,
+      "checkedAt": "2026-11-01T22:49:41.431439+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1421,10 +1453,10 @@
       "discountPercent": 23.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339941995-boadicea-heroine-740321608e53495e9e17848370842968-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-heroine-1eoa9/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-30T05:46:57.491559+00:00",
+      "checkedAt": "2026-11-01T22:49:41.431439+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 90.0,
       "concentration": null,
       "checkedAt": "2026-10-31T15:44:42.873166+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1328968519",
-      "name": "Gritti - Gossip Night · 100 ML",
-      "brand": "Gritti",
-      "shop": "The King of Parfums",
-      "price": 1099.0,
-      "originalPrice": 1399.0,
-      "discountPercent": 21.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2-98b10c2d127e6dc7a017594290703866-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gritti-gossip-night/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1584768952",
-      "name": "State of Mind - Natural Elegance · 100 ML (S/CAIXA)",
-      "brand": "State of Mind",
-      "shop": "The King of Parfums",
-      "price": 1099.0,
-      "originalPrice": 1399.0,
-      "discountPercent": 21.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/natutal-8540c7c438fdd35e0d17454898607330-640-0-69e1aa2c39e5bf27c717467442184400-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/state-of-mind-natural-elegance/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
       "basis": "store-listed-reference"
     }
   ]
