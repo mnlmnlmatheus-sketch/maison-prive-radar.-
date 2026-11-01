@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T06:01:26.833317+00:00",
+  "updatedAt": "2026-11-01T13:22:38.446915+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 334,
+  "totalVerifiedDeals": 339,
   "products": [
     {
       "id": "king-1526509776",
@@ -625,6 +625,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T07:04:32.900961+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1479462362",
+      "name": "Riiffs - Wonder of You Women · 100 ML",
+      "brand": "Riiffs",
+      "shop": "The King of Parfums",
+      "price": 149.0,
+      "originalPrice": 219.0,
+      "discountPercent": 32.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/332548286-riiffs-wonder-of-you-women-20156d61cca54f669e17848366570548-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-wonder-of-you-women-117ca/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-01T13:22:32.263136+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-27T05:02:59.281626+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-697049429",
-      "name": "Xerjoff - More Than Words · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1899.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 21.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/more-than1-d79bc164fb49ee741116926536217663-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-more-than-words/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-30T22:58:44.111635+00:00",
       "basis": "store-listed-reference"
     }
   ]
