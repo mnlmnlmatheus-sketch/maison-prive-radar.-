@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T13:22:38.446915+00:00",
+  "updatedAt": "2026-11-01T18:56:26.706793+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 339,
+  "totalVerifiedDeals": 346,
   "products": [
     {
       "id": "king-1526509776",
@@ -541,10 +541,10 @@
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351259805-boadicea-blue-sapphire-supercharged-3247950981eb7a165817848376294444-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-supercharged-1t7yz/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
+      "checkedAt": "2026-11-01T18:56:20.675496+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -848,7 +848,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 30.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T05:52:58.105954+00:00",
+      "checkedAt": "2026-11-01T18:56:20.675496+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1540,6 +1540,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1553508690",
+      "name": "The Fragrance - Pearl Harmony · 75 ML",
+      "brand": "The Fragrance",
+      "shop": "The King of Parfums",
+      "price": 2199.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 21.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353791750-the-fragrance-pearl-harmony-932c9712b7eef4b56117848378678743-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-pearl-harmony-39ck4/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-11-01T18:56:20.675496+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-627367069",
       "name": "Initio - Oud for Happiness · 90 ML",
       "brand": "Initio",
@@ -1553,22 +1569,6 @@
       "volumeMl": 90.0,
       "concentration": null,
       "checkedAt": "2026-10-31T15:44:42.873166+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1553508690",
-      "name": "The Fragrance - Pearl Harmony · 75 ML",
-      "brand": "The Fragrance",
-      "shop": "The King of Parfums",
-      "price": 2199.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 21.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353791750-the-fragrance-pearl-harmony-932c9712b7eef4b56117848378678743-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-pearl-harmony-39ck4/",
-      "category": "Perfumes",
-      "volumeMl": 75.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
       "basis": "store-listed-reference"
     },
     {
