@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T11:03:34.801524+00:00",
+  "updatedAt": "2026-11-02T20:47:05.608335+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 363,
+  "totalVerifiedDeals": 368,
   "products": [
     {
       "id": "king-1526509776",
@@ -781,10 +781,10 @@
       "discountPercent": 30.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/40-43ff0819238beba54917685811658123-1024-1024-a7b0b4d67c51e5a2cf17708371497674-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/mawwal-oasis-rayhan-1so10/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
+      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -976,7 +976,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T20:48:59.580406+00:00",
+      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1200,7 +1200,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-02T11:03:28.642252+00:00",
+      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1488,7 +1488,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
+      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
       "basis": "store-listed-reference"
     },
     {
