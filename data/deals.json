@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T02:30:30.076260+00:00",
+  "updatedAt": "2026-11-02T11:03:34.801524+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 359,
+  "totalVerifiedDeals": 363,
   "products": [
     {
       "id": "king-1526509776",
@@ -1200,7 +1200,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T18:09:22.974183+00:00",
+      "checkedAt": "2026-11-02T11:03:28.642252+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1533,10 +1533,10 @@
       "discountPercent": 22.6,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/329623026-le-labo-fleur-d-oranger-27-5100a3c1bc4ffc9bc517848364228146-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/le-labo-fleur-doranger-27-gnmdj/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
+      "checkedAt": "2026-11-02T11:03:28.642252+00:00",
       "basis": "store-listed-reference"
     },
     {
