@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T20:47:05.608335+00:00",
+  "updatedAt": "2026-11-03T02:55:49.395037+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 368,
+  "totalVerifiedDeals": 378,
   "products": [
     {
       "id": "king-1526509776",
@@ -13,10 +13,10 @@
       "discountPercent": 62.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342263117-boadicea-rebellious-4373233866693b212d17848372196718-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-rebellious-1f0lr/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -145,6 +145,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-24T20:48:59.580406+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1437731478",
+      "name": "Mawwal - Energy Fada Gold · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 344.0,
+      "discountPercent": 42.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/324320378-mawwal-energy-fada-gold-b110d081def9d7dc0717848362968311-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-energy-fada-gold-kbde4/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1437728845",
+      "name": "Mawwal - Oasis Athar · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 344.0,
+      "discountPercent": 42.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/324319383-mawwal-oasis-athar-91e221214615979b8817848362940233-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-oasis-athar-ltj7j/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -436,6 +468,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1526509648",
+      "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344157916-boadicea-envious-728684b968d87d7eed17848373280317-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-envious-e47bj/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1533615532",
       "name": "Boadicea - Glorious · 100 ML (S/CAIXA e  COM TAMPA)",
       "brand": "Boadicea",
@@ -449,22 +497,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-01T06:01:20.515489+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1526509648",
-      "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 35.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344157916-boadicea-envious-728684b968d87d7eed17848373280317-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-envious-e47bj/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-28T16:01:18.527753+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -529,6 +561,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-24T20:48:59.580406+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1437733308",
+      "name": "Mawwal - Zuhoor Red · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 299.0,
+      "discountPercent": 33.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/324321143-mawwal-zuhoor-red-365a23a1361f55e7d817848362997043-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-zuhoor-red-2xeph/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -752,7 +800,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -960,7 +1008,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1300,6 +1348,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1434386547",
+      "name": "Gulf Orchid - Dark Chocolate · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323659954-gulf-orchid-dark-chocolate-30c197b0e16a4a75b917848362790343-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-dark-chocolate-7oy0v/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1432828687",
       "name": "Gulf Orchid - Old Fashioned · 100 ML",
       "brand": "Gulf Orchid",
@@ -1537,70 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-02T11:03:28.642252+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-654409930",
-      "name": "Orientica - Royal Bleu · 80 ML",
-      "brand": "Orientica",
-      "shop": "The King of Parfums",
-      "price": 699.0,
-      "originalPrice": 899.0,
-      "discountPercent": 22.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/royal1-0e0b9a58bfd39dcca216863417009994-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/orientica-royal-bleu/",
-      "category": "Perfumes árabes",
-      "volumeMl": 80.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1554611874",
-      "name": "Boadicea - Ardent · 100 ML (S/ CAIXA C/ TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2299.0,
-      "discountPercent": 21.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339944174-boadicea-ardent-406e742128894009f117848370903200-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-ardent-fnncl/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-30T12:54:36.976391+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1553508690",
-      "name": "The Fragrance - Pearl Harmony · 75 ML",
-      "brand": "The Fragrance",
-      "shop": "The King of Parfums",
-      "price": 2199.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 21.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353791750-the-fragrance-pearl-harmony-932c9712b7eef4b56117848378678743-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-pearl-harmony-39ck4/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 75.0,
-      "concentration": null,
-      "checkedAt": "2026-11-01T18:56:20.675496+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-627367069",
-      "name": "Initio - Oud for Happiness · 90 ML",
-      "brand": "Initio",
-      "shop": "The King of Parfums",
-      "price": 2199.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 21.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/blac1-d4624198515a03a7c416807987391482-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/initio-oud-for-happiness/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 90.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     }
   ]

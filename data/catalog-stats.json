@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:47:05.608335+00:00",
+  "updatedAt": "2026-11-03T02:55:49.395037+00:00",
   "catalogTotal": 3539,
   "verifiedLast14Days": 3539,
   "brandsIdentified": 252,
@@ -11,18 +11,18 @@
     "The King of Parfums"
   ],
   "categories": {
-    "Perfumes de nicho": 445,
-    "Perfumes árabes": 180,
-    "Perfumes": 314,
+    "Perfumes de nicho": 452,
     "Perfumes designer": 67,
-    "Calçados": 603,
+    "Perfumes": 313,
+    "Perfumes árabes": 180,
     "Acessórios": 263,
-    "Roupas": 1457,
     "Bolsas": 137,
+    "Calçados": 599,
+    "Roupas": 1455,
     "Joias": 46,
     "Outros": 27
   },
-  "perfumeCount": 1006,
-  "verifiedDeals": 368,
+  "perfumeCount": 1012,
+  "verifiedDeals": 378,
   "limitations": "Catálogo público em crescimento. Produtos podem estar indisponíveis e os preços no checkout podem diferir."
 }
