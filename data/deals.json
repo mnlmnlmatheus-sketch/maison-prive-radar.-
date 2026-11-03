@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-03T10:51:37.721880+00:00",
+  "updatedAt": "2026-11-03T18:27:51.712881+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 384,
+  "totalVerifiedDeals": 389,
   "products": [
     {
       "id": "king-1526509776",
@@ -48,7 +48,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -65,6 +65,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T15:44:42.873166+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1353110336",
+      "name": "Xerjoff - Torino 22 · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1599.0,
+      "originalPrice": 2999.0,
+      "discountPercent": 46.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/torino221-2202e8d763d0343d9e16891145911598-640-0-fe4b3b211c9c2762ed17618355248275-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-torino22/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -864,7 +880,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -881,6 +897,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-29T23:57:39.284539+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1431995461",
+      "name": "KUF - Drop Rose Diamond Edition · 100 ML",
+      "brand": "KUF",
+      "shop": "The King of Parfums",
+      "price": 129.0,
+      "originalPrice": 183.0,
+      "discountPercent": 29.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/1-perfumedroprose-ff2a0a36d2f8e67bdc17702331311380-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kuf-drop-rose-diamond-edition-1vdnc/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1220,6 +1252,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1432004854",
+      "name": "KUF - Body Cream MoneyGold · 250 ML",
+      "brand": "KUF",
+      "shop": "The King of Parfums",
+      "price": 59.0,
+      "originalPrice": 79.0,
+      "discountPercent": 25.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/1-_bodycream_moneygold-49c2de5a836579fe2517702333710524-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kuf-body-cream-moneygold-16nbq/",
+      "category": "Perfumes",
+      "volumeMl": 250.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1549520527",
       "name": "Rasasi - Hawas London · 100 ML",
       "brand": "Rasasi",
@@ -1360,7 +1408,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1553,54 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-02T20:46:59.144818+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1547274899",
-      "name": "BDK - Villa Néroli · 100 ML",
-      "brand": "BDK",
-      "shop": "The King of Parfums",
-      "price": 1699.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 22.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351766009-bdk-villa-neroli-3258c933738029637e17848376709914-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/bdk-villa-neroli-1jdnz/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-371436497",
-      "name": "Xerjoff - K’bridge Club · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1699.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 22.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/97237104-xerjoff-kbridge-club-fe66cebb837814ab3517848269023013-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-kbridge-club/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T19:06:42.004395+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1466790025",
-      "name": "Le Labo - Fleur d'Oranger 27 · 100 ML",
-      "brand": "Le Labo",
-      "shop": "The King of Parfums",
-      "price": 2399.0,
-      "originalPrice": 3099.0,
-      "discountPercent": 22.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/329623026-le-labo-fleur-d-oranger-27-5100a3c1bc4ffc9bc517848364228146-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/le-labo-fleur-doranger-27-gnmdj/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-02T11:03:28.642252+00:00",
       "basis": "store-listed-reference"
     }
   ]
