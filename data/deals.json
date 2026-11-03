@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-03T18:27:51.712881+00:00",
+  "updatedAt": "2026-11-03T23:59:55.059972+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 389,
+  "totalVerifiedDeals": 393,
   "products": [
     {
       "id": "king-1526509776",
@@ -413,10 +413,10 @@
       "discountPercent": 37.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
+      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -484,6 +484,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1562123765",
+      "name": "Spirit Of Kings - Harmony · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351981784-spirit-of-kings-harmony-a63310bcef6647e6d117848377178241-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-harmony-30e83/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1526509648",
       "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
       "brand": "Boadicea",
@@ -513,22 +529,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-01T06:01:20.515489+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1562123765",
-      "name": "Spirit Of Kings - Harmony · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Spirit Of Kings",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 35.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351981784-spirit-of-kings-harmony-a63310bcef6647e6d117848377178241-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-harmony-30e83/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1396,6 +1396,54 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1431784391",
+      "name": "Gulf Orchid - Mangotini · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323059645-gulf-orchid-mangotini-6309f36be0f3c02a6f17848361758629-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-mangotini-84d9c/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1431777678",
+      "name": "Gulf Orchid - Vanilla on the Beach · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323058163-gulf-orchid-vanilla-on-the-beach-d52f9643b2c1acf96417848361729800-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-vanilla-on-the-beach-1m2il/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1431773730",
+      "name": "Gulf Orchid - Ruby Fizz · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323057100-gulf-orchid-ruby-fizz-002618c484a1c9d68117848361699840-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-ruby-fizz-p6xj0/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1432828687",
       "name": "Gulf Orchid - Old Fashioned · 100 ML",
       "brand": "Gulf Orchid",
@@ -1425,22 +1473,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T02:55:43.062081+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1431784391",
-      "name": "Gulf Orchid - Mangotini · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323059645-gulf-orchid-mangotini-6309f36be0f3c02a6f17848361758629-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-mangotini-84d9c/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-01T22:49:41.431439+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1518677314",
-      "name": "Electimuss - Moroccan Medjool · 100 ML",
-      "brand": "Electimuss",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2599.0,
-      "discountPercent": 23.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342267232-electimuss-moroccan-medjool-4bff3fa421fe12d76e17848372313480-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/electimuss-moroccan-medjool-sfpq1/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T00:57:28.750557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1439205918",
-      "name": "Gritti - Tangerina · 100 ML",
-      "brand": "Gritti",
-      "shop": "The King of Parfums",
-      "price": 1539.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 23.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-5-2c3d9bfdcf6e5dc54117708119173412-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gritti-tangerina-42218/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
       "basis": "store-listed-reference"
     }
   ]
