@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-03T02:55:49.395037+00:00",
+  "updatedAt": "2026-11-03T10:51:37.721880+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 378,
+  "totalVerifiedDeals": 384,
   "products": [
     {
       "id": "king-1526509776",
@@ -36,6 +36,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1531075495",
+      "name": "Boadicea - Empire · 100 ML (S/CAIXA e  COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 3799.0,
+      "discountPercent": 47.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1555709781",
       "name": "Boadicea - Azrak · 100 ML (S/CAIXA C/TAMPA)",
       "brand": "Boadicea",
@@ -49,22 +65,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T15:44:42.873166+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1531075495",
-      "name": "Boadicea - Empire · 100 ML (S/CAIXA e  COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 3799.0,
-      "discountPercent": 47.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -461,10 +461,10 @@
       "discountPercent": 36.7,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351270735-the-fragrance-saphirre-passion-b25c8bc91d5e6fb2a317848376472715-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-saphire-passion-osw8n/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
+      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -861,10 +861,10 @@
       "discountPercent": 30.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
+      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1348,6 +1348,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1432828687",
+      "name": "Gulf Orchid - Old Fashioned · 100 ML",
+      "brand": "Gulf Orchid",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323303496-gulf-orchid-old-fashioned-f419badace93627ff917848362191313-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-old-fashioned-1xs57/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1434386547",
       "name": "Gulf Orchid - Dark Chocolate · 100 ML",
       "brand": "Gulf Orchid",
@@ -1361,22 +1377,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T02:55:43.062081+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1432828687",
-      "name": "Gulf Orchid - Old Fashioned · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323303496-gulf-orchid-old-fashioned-f419badace93627ff917848362191313-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-old-fashioned-1xs57/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T19:59:19.109948+00:00",
       "basis": "store-listed-reference"
     },
     {
