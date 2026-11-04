@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:26:02.119983+00:00",
+  "updatedAt": "2026-11-04T21:52:57.833642+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
   "totalVerifiedDeals": 396,
   "products": [
@@ -388,6 +388,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1560817162",
+      "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 999.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/352535117-spirit-of-kings-sagira-67b06bd1aad541fc0417848377335556-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-sagira-1h3a6/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1556851550",
       "name": "Spirit of Kings - Arrakis · 100 ML (S/CAIXA C/TAMPA)",
       "brand": "Spirit of Kings",
@@ -401,22 +417,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T23:59:48.446158+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1560817162",
-      "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
-      "brand": "Spirit Of Kings",
-      "shop": "The King of Parfums",
-      "price": 999.0,
-      "originalPrice": 1599.0,
-      "discountPercent": 37.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/352535117-spirit-of-kings-sagira-67b06bd1aad541fc0417848377335556-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-sagira-1h3a6/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -669,22 +669,6 @@
       "discountPercent": 32.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788354887909-084d7b99e7018818f717883549003898-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/nusuk-vision-pour-femme-1y61j/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1588925051",
-      "name": "Nusuk - Vision Pour Homme · 100 ML",
-      "brand": "Nusuk",
-      "shop": "The King of Parfums",
-      "price": 149.0,
-      "originalPrice": 219.0,
-      "discountPercent": 32.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788354929462-8326f94a7649cd72c017883549384760-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nusuk-vision-pour-homme-1wycr/",
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
@@ -1136,7 +1120,23 @@
       "category": "Perfumes árabes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-04T15:25:56.110363+00:00",
+      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1339126484",
+      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1169,22 +1169,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-02T02:30:23.970380+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339126484",
-      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T19:06:42.004395+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1377,6 +1361,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T14:17:52.418181+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1403372685",
+      "name": "Mawwal - Kaman · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 396.0,
+      "discountPercent": 24.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/316714482-mawwal-kaman-9075eb18dcac2f0a3417848359590512-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-kaman-xve2v/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1403371326",
+      "name": "Mawwal - Watar · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 396.0,
+      "discountPercent": 24.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/316714067-mawwal-watar-10c1ef97914cf2813a17848359562392-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-watar-t2qa5/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T02:22:05.782996+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1515858017",
-      "name": "Lattafa - Mishlah · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 229.0,
-      "originalPrice": 299.0,
-      "discountPercent": 23.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     }
   ]
