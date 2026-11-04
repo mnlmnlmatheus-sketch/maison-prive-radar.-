@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-03T23:59:55.059972+00:00",
+  "updatedAt": "2026-11-04T06:18:59.144897+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 393,
+  "totalVerifiedDeals": 400,
   "products": [
     {
       "id": "king-1526509776",
@@ -68,6 +68,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1418615287",
+      "name": "Mawwal - Basir Dreams · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 378.0,
+      "discountPercent": 47.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/320026050-mawwal-basir-dreams-0107954405164bf3a517848360826304-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-basir-dreams-1xtdf/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1353110336",
       "name": "Xerjoff - Torino 22 · 50 ML",
       "brand": "Xerjoff",
@@ -112,7 +128,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1044,6 +1060,54 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-969798946",
+      "name": "Xerjoff - Lira · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dsfsfsdf-3949fb31b97c2f474e17207903101917-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-lira/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-405036495",
+      "name": "Xerjoff - Dama Bianca · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/106021694-xerjoff-dama-bianca-f470add4498b08d95417848273357239-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-dama-bianca/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1126164589",
+      "name": "Xerjoff - JTC 400 · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/400-527dc0fc4e16e87c5d17316154656642-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-jtc-400/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1571504101",
       "name": "Stéphane Humbert Lucas 777 - Pink Boa · 50 ML (S/CAIXA C/TAMPA)",
       "brand": "Stéphane Humbert Lucas 777",
@@ -1140,6 +1204,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1339121730",
+      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1339122868",
       "name": "Xerjoff - Duran Duran NeoRio Green · 50 ML",
       "brand": "Xerjoff",
@@ -1169,22 +1249,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-10-25T19:06:42.004395+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339121730",
-      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T11:26:46.461868+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1220,6 +1284,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1572821180",
+      "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/253058494-stephane-humbert-lucas-777-lady-white-snake-0fc3bde6a6118209c917848334218877-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-lady-white-snake/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-505311307",
       "name": "Xerjoff - Amabile · 100ml",
       "brand": "Xerjoff",
@@ -1236,22 +1316,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1572821180",
-      "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
-      "brand": "Stéphane Humbert Lucas 777",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/253058494-stephane-humbert-lucas-777-lady-white-snake-0fc3bde6a6118209c917848334218877-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-lady-white-snake/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T16:17:26.949344+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1432004854",
       "name": "KUF - Body Cream MoneyGold · 250 ML",
       "brand": "KUF",
@@ -1265,6 +1329,22 @@
       "volumeMl": 250.0,
       "concentration": null,
       "checkedAt": "2026-11-03T18:27:45.208557+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1425481440",
+      "name": "Armaf - Club de Nuit Bling · 75 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/321622204-armaf-club-de-nuit-bling-e3ce08bfba077d74e117848361240399-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-bling-118op/",
+      "category": "Perfumes árabes",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1377,6 +1457,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-10-26T13:00:54.742972+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1424725510",
+      "name": "Afnan - Kiaana Angel · 100 ML",
+      "brand": "Afnan",
+      "shop": "The King of Parfums",
+      "price": 329.0,
+      "originalPrice": 435.0,
+      "discountPercent": 24.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/321419323-afnan-kiaana-angel-b42b7cd4095bcc0a1317848361040268-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/afnan-kiaana-angel-n7fz9/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1505,102 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-25T06:07:50.656924+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1588940069",
-      "name": "Riiffs - Sillage Oros · 100 ML",
-      "brand": "Riiffs",
-      "shop": "The King of Parfums",
-      "price": 189.0,
-      "originalPrice": 249.0,
-      "discountPercent": 24.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788355144753-38e2413e5d7e74fa5717883551551781-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-sillage-oros-1ybgl/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1588935278",
-      "name": "Riiffs - La Femme Bloom · 100 ML",
-      "brand": "Riiffs",
-      "shop": "The King of Parfums",
-      "price": 189.0,
-      "originalPrice": 249.0,
-      "discountPercent": 24.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788355021996-d69f37445b1cd19ccc17883550304279-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-la-femme-bloom-ye2tn/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1178300958",
-      "name": "Kajal - Lamar · 100 ML",
-      "brand": "Kajal",
-      "shop": "The King of Parfums",
-      "price": 1299.0,
-      "originalPrice": 1699.0,
-      "discountPercent": 23.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/105724378-kajal-lamar-b6a6a9441a4b0bb89217848272944649-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/kajal-lamar/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1515858017",
-      "name": "Lattafa - Mishlah · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 229.0,
-      "originalPrice": 299.0,
-      "discountPercent": 23.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1487273738",
-      "name": "Byredo - Gypsy Water · 100 ML",
-      "brand": "Byredo",
-      "shop": "The King of Parfums",
-      "price": 2299.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 23.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334478254-byredo-gypsy-water-cb1dd5fa12ce22baa617848367773844-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/byredo-gypsy-water-16egs/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1510771906",
-      "name": "Boadicea - Heroine · 100 ML (S/CAIXA e  COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2599.0,
-      "discountPercent": 23.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339941995-boadicea-heroine-740321608e53495e9e17848370842968-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-heroine-1eoa9/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-01T22:49:41.431439+00:00",
       "basis": "store-listed-reference"
     }
   ]
