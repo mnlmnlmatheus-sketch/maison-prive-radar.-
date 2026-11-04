@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-04T06:18:59.144897+00:00",
+  "updatedAt": "2026-11-04T15:26:02.119983+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 400,
+  "totalVerifiedDeals": 396,
   "products": [
     {
       "id": "king-1526509776",
@@ -161,22 +161,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T00:57:28.750557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1589812312",
-      "name": "Khadlaj - Titan · 100 ML",
-      "brand": "Khadlaj",
-      "shop": "The King of Parfums",
-      "price": 219.0,
-      "originalPrice": 379.0,
-      "discountPercent": 42.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788437628718-479695844f90d4205717884376348381-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/khadlaj-titan-1echw/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T20:48:59.580406+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -372,22 +356,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1572823408",
-      "name": "Stéphane Humbert Lucas 777 - Sand Dance · 50 ML (S/CAIXA C/TAMPA)",
-      "brand": "Stéphane Humbert Lucas 777",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2908.0,
-      "discountPercent": 38.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dance-14d67e80ba5126930b17404235187861-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-sand-dance/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T14:32:38.723884+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1150081784",
       "name": "Kajal - Lamar Noir · 100 ML",
       "brand": "Kajal",
@@ -465,22 +433,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T19:59:19.109948+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1589812887",
-      "name": "Khadlaj - 25 Experience · 100 ML",
-      "brand": "Khadlaj",
-      "shop": "The King of Parfums",
-      "price": 219.0,
-      "originalPrice": 349.0,
-      "discountPercent": 37.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788437607058-ade21f29e230d1ac0d17884376197056-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/khadlaj-25-experience-ezqoa/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T20:48:59.580406+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -577,22 +529,6 @@
       "volumeMl": 50.0,
       "concentration": "Parfum",
       "checkedAt": "2026-10-31T09:38:23.342309+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1589813409",
-      "name": "Khadlaj - Onyx Silver · 100 ML",
-      "brand": "Khadlaj",
-      "shop": "The King of Parfums",
-      "price": 229.0,
-      "originalPrice": 349.0,
-      "discountPercent": 34.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788437591456-817174c670c40df25b17884376013602-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/khadlaj-onyx-silver-ugx9j/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T20:48:59.580406+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -765,10 +701,10 @@
       "discountPercent": 31.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-8f8f8ef7b4a455366617689935708264-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/stella-dustin-capri-1dwex/",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
+      "checkedAt": "2026-11-04T15:25:56.110363+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1188,19 +1124,19 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1601766744",
-      "name": "Kajal - Almaz · 100 ML",
-      "brand": "Kajal",
+      "id": "king-1409195748",
+      "name": "Lattafa - Sherif · 100 ML",
+      "brand": "Lattafa",
       "shop": "The King of Parfums",
-      "price": 1099.0,
-      "originalPrice": 1499.0,
-      "discountPercent": 26.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1790013139755-0f155aed762bb0616d17900131470061-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/kajal-almaz-8c72i/",
-      "category": "Perfumes",
+      "price": 219.0,
+      "originalPrice": 299.0,
+      "discountPercent": 26.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/318120624-lattafa-sherif-9a03966587832cc32f17848360238161-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-sherif-kmw0p/",
+      "category": "Perfumes árabes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-24T18:09:22.974183+00:00",
+      "checkedAt": "2026-11-04T15:25:56.110363+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1537,70 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-25T06:07:50.656924+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1588940069",
+      "name": "Riiffs - Sillage Oros · 100 ML",
+      "brand": "Riiffs",
+      "shop": "The King of Parfums",
+      "price": 189.0,
+      "originalPrice": 249.0,
+      "discountPercent": 24.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788355144753-38e2413e5d7e74fa5717883551551781-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-sillage-oros-1ybgl/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1588935278",
+      "name": "Riiffs - La Femme Bloom · 100 ML",
+      "brand": "Riiffs",
+      "shop": "The King of Parfums",
+      "price": 189.0,
+      "originalPrice": 249.0,
+      "discountPercent": 24.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788355021996-d69f37445b1cd19ccc17883550304279-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-la-femme-bloom-ye2tn/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1178300958",
+      "name": "Kajal - Lamar · 100 ML",
+      "brand": "Kajal",
+      "shop": "The King of Parfums",
+      "price": 1299.0,
+      "originalPrice": 1699.0,
+      "discountPercent": 23.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/105724378-kajal-lamar-b6a6a9441a4b0bb89217848272944649-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kajal-lamar/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1515858017",
+      "name": "Lattafa - Mishlah · 100 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 229.0,
+      "originalPrice": 299.0,
+      "discountPercent": 23.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     }
   ]
