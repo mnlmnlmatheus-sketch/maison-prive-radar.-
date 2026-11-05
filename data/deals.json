@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T10:54:11.983927+00:00",
+  "updatedAt": "2026-11-05T18:45:38.095658+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 402,
+  "totalVerifiedDeals": 404,
   "products": [
     {
       "id": "king-1526509776",
@@ -129,22 +129,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-04T06:18:53.024012+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1554740333",
-      "name": "Al Haramain - Green Dubai · 100 ML",
-      "brand": "Al Haramain",
-      "shop": "The King of Parfums",
-      "price": 259.0,
-      "originalPrice": 459.0,
-      "discountPercent": 43.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/354216929-al-haramain-green-dubai-ac9eae66ab52e8b63417848379353042-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/al-haramain-green-dubai-j93ua/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T21:47:49.603876+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -544,7 +528,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-05T10:54:05.597046+00:00",
+      "checkedAt": "2026-11-05T18:45:31.119636+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1436,11 +1420,11 @@
       "originalPrice": 2379.0,
       "discountPercent": 24.4,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/golden-green1-778be6002268bc2e7e16908979364458-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-golden-green/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-golden-green/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-10-26T13:00:54.742972+00:00",
+      "checkedAt": "2026-11-05T18:45:31.119636+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1585,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T02:22:05.782996+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1515858017",
+      "name": "Lattafa - Mishlah · 100 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 229.0,
+      "originalPrice": 299.0,
+      "discountPercent": 23.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     }
   ]
