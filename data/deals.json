@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T21:52:57.833642+00:00",
+  "updatedAt": "2026-11-05T02:28:27.472702+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
   "totalVerifiedDeals": 396,
   "products": [
@@ -257,22 +257,6 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-10-29T14:17:52.418181+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1588949141",
-      "name": "Riiffs - Ambre Rouge · 100 ML",
-      "brand": "Riiffs",
-      "shop": "The King of Parfums",
-      "price": 149.0,
-      "originalPrice": 249.0,
-      "discountPercent": 40.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788354973710-64cfb3f3d85685bbe417883549826872-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-ambre-rouge-5ah50/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -589,10 +573,10 @@
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351272514-the-fragrance-emerald-shine-8b516bcb78eaef994517848376501247-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-emerald-shine-6c4ra/",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-26T23:53:11.745833+00:00",
+      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -657,22 +641,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-01T13:22:32.263136+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1588925753",
-      "name": "Nusuk - Vision Pour Femme · 100 ML",
-      "brand": "Nusuk",
-      "shop": "The King of Parfums",
-      "price": 149.0,
-      "originalPrice": 219.0,
-      "discountPercent": 32.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788354887909-084d7b99e7018818f717883549003898-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nusuk-vision-pour-femme-1y61j/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1252,6 +1220,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1396993704",
+      "name": "Aurora Scents - Habanera White · 80 ML",
+      "brand": "Aurora Scents",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-6-26a3b4afb990b6e1e917669720205244-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/aurora-scents-habanera-white-ea6eu/",
+      "category": "Perfumes",
+      "volumeMl": 80.0,
+      "concentration": null,
+      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1396988110",
+      "name": "Aurora Scents - Olibanum · 100 ML",
+      "brand": "Aurora Scents",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-3-dae918ba8cdd848fd617669705083573-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/aurora-scents-olibanum-lmz3t/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1425481440",
       "name": "Armaf - Club de Nuit Bling · 75 ML",
       "brand": "Armaf",
@@ -1444,6 +1444,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1390452429",
+      "name": "Rayhaan - Valhalla · 100 ML",
+      "brand": "Rayhaan",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/313888846-rayhaan-valhalla-45767463f9058b17f517848358999833-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rayhaan-valhalla-n8nt3/",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1431784391",
       "name": "Gulf Orchid - Mangotini · 100 ML",
       "brand": "Gulf Orchid",
@@ -1540,54 +1556,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1578965016",
-      "name": "Bidaya - Sex on the Rocks · 100 ML",
-      "brand": "Bidaya",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1787076999608-5f55ed2c63e12fb80117870770135943-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/bidaya-sex-on-the-rocks-kgbch/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-25T06:07:50.656924+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1588940069",
-      "name": "Riiffs - Sillage Oros · 100 ML",
-      "brand": "Riiffs",
-      "shop": "The King of Parfums",
-      "price": 189.0,
-      "originalPrice": 249.0,
-      "discountPercent": 24.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788355144753-38e2413e5d7e74fa5717883551551781-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-sillage-oros-1ybgl/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1588935278",
-      "name": "Riiffs - La Femme Bloom · 100 ML",
-      "brand": "Riiffs",
-      "shop": "The King of Parfums",
-      "price": 189.0,
-      "originalPrice": 249.0,
-      "discountPercent": 24.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1788355021996-d69f37445b1cd19ccc17883550304279-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-la-femme-bloom-ye2tn/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-24T23:13:55.146433+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1178300958",
       "name": "Kajal - Lamar · 100 ML",
       "brand": "Kajal",
@@ -1601,6 +1569,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T02:22:05.782996+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1515858017",
+      "name": "Lattafa - Mishlah · 100 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 229.0,
+      "originalPrice": 299.0,
+      "discountPercent": 23.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1487273738",
+      "name": "Byredo - Gypsy Water · 100 ML",
+      "brand": "Byredo",
+      "shop": "The King of Parfums",
+      "price": 2299.0,
+      "originalPrice": 2999.0,
+      "discountPercent": 23.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334478254-byredo-gypsy-water-cb1dd5fa12ce22baa617848367773844-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/byredo-gypsy-water-16egs/",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
       "basis": "store-listed-reference"
     }
   ]
