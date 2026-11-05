@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T02:28:27.472702+00:00",
+  "updatedAt": "2026-11-05T10:54:11.983927+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 396,
+  "totalVerifiedDeals": 402,
   "products": [
     {
       "id": "king-1526509776",
@@ -161,6 +161,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T00:57:28.750557+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1390036714",
+      "name": "Mawwal - Ra'if · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 344.0,
+      "discountPercent": 42.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/313790082-mawwal-ra-if-0c39b5d2e9f9f4ece217848358972033-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-raif-aex7r/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-05T10:54:05.597046+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -513,6 +529,22 @@
       "volumeMl": 50.0,
       "concentration": "Parfum",
       "checkedAt": "2026-10-31T09:38:23.342309+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1386007137",
+      "name": "MAISON ASRAR - Leo · 100 ML",
+      "brand": "MAISON ASRAR",
+      "shop": "The King of Parfums",
+      "price": 279.0,
+      "originalPrice": 419.0,
+      "discountPercent": 33.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-f6ef0d5e1d143ce30117655372446071-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/maison-asrar-leo-fez83/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-05T10:54:05.597046+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T02:22:05.782996+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1515858017",
-      "name": "Lattafa - Mishlah · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 229.0,
-      "originalPrice": 299.0,
-      "discountPercent": 23.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1487273738",
-      "name": "Byredo - Gypsy Water · 100 ML",
-      "brand": "Byredo",
-      "shop": "The King of Parfums",
-      "price": 2299.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 23.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334478254-byredo-gypsy-water-cb1dd5fa12ce22baa617848367773844-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/byredo-gypsy-water-16egs/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T05:02:59.281626+00:00",
       "basis": "store-listed-reference"
     }
   ]
