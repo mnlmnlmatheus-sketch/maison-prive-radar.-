@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T18:45:38.095658+00:00",
+  "updatedAt": "2026-11-06T00:16:48.301345+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 404,
+  "totalVerifiedDeals": 409,
   "products": [
     {
       "id": "king-1526509776",
@@ -148,6 +148,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1369678901",
+      "name": "Mawwal - Sense Nawa · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 349.0,
+      "discountPercent": 43.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/nawa-367247f5eb040721d417635797855912-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-sense-nawa-i2i0o/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1390036714",
       "name": "Mawwal - Ra'if · 100 ML",
       "brand": "Mawwal",
@@ -257,38 +273,6 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-10-29T14:17:52.418181+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1553758581",
-      "name": "Armaf - Artistic Perfumery FK · 100 ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 179.0,
-      "originalPrice": 299.0,
-      "discountPercent": 40.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353873391-armaf-artistic-perfumery-fk-8956744ff86577477f17848378914509-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-artistic-perfumery-fk-18498/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1553754420",
-      "name": "Armaf - Artistic Perfumery PM-01 · 100 ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 179.0,
-      "originalPrice": 299.0,
-      "discountPercent": 40.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/353872149-armaf-artistic-perfumery-pm-01-7ddffccdc9b449cbb817848378857919-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-artistic-perfumery-pm-01-1mxhg/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-26T00:23:55.412364+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -740,6 +724,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1569856202",
+      "name": "Givenchy - Irresistible Nude Velvet · 50 ML",
+      "brand": "Givenchy",
+      "shop": "The King of Parfums",
+      "price": 479.0,
+      "originalPrice": 689.0,
+      "discountPercent": 30.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/309304063-givenchy-irresistible-nude-velvet-56e4f97e78717cc75217848357694375-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/givenchy-irresistible-nude-velvet-83h89/?entry_path=category",
+      "category": "Perfumes designer",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1487226500",
       "name": "Lattafa - Eternal Vanille · 100 ML",
       "brand": "Lattafa",
@@ -1068,11 +1068,11 @@
       "originalPrice": 2199.0,
       "discountPercent": 27.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351980196-birkholz-paris-mon-amour-3d43e2ea509143e68217848377032373-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/birkholz-paris-mon-amour-pkt6f/",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/birkholz-paris-mon-amour-pkt6f/?entry_path=category",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-26T19:19:02.290150+00:00",
+      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1444,6 +1444,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1375789141",
+      "name": "Hugo Boss - Boss Bottled Tonic · 50 ML",
+      "brand": "Hugo Boss",
+      "shop": "The King of Parfums",
+      "price": 279.0,
+      "originalPrice": 369.0,
+      "discountPercent": 24.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/boss-bottled-tonic-eau-de-toilette-hugo-boss-perfume-masculino-50ml-2-0c95ccd6b4bf65f17317642762321423-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/hugo-boss-boss-bottled-tonic-9lxav/?entry_path=category",
+      "category": "Perfumes designer",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1495880610",
       "name": "Scent.br - Midnight Desire · 100 ML",
       "brand": "Scent.br",
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T02:22:05.782996+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1515858017",
-      "name": "Lattafa - Mishlah · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 229.0,
-      "originalPrice": 299.0,
-      "discountPercent": 23.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/341387102-lattafa-mishlah-e9c7ee57b2054de38417848371690643-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-mishlah-fgyzj/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
       "basis": "store-listed-reference"
     }
   ]
