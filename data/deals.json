@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T15:03:02.444599+00:00",
+  "updatedAt": "2026-11-06T20:54:51.264386+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 421,
+  "totalVerifiedDeals": 424,
   "products": [
     {
       "id": "king-1526509776",
@@ -33,6 +33,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1342639075",
+      "name": "Al Wataniah - Sabah Al Ward Sugar · 100 ML",
+      "brand": "Al Wataniah",
+      "shop": "The King of Parfums",
+      "price": 179.0,
+      "originalPrice": 378.0,
+      "discountPercent": 52.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/301320430-al-wataniah-sabah-al-ward-sugar-74211ca9a068674ac117848355731102-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/al-wataniah-sabah-al-ward-sugar/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -92,11 +108,11 @@
       "originalPrice": 2999.0,
       "discountPercent": 46.7,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/torino221-2202e8d763d0343d9e16891145911598-640-0-fe4b3b211c9c2762ed17618355248275-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-torino22/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-torino22/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
+      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -716,11 +732,11 @@
       "originalPrice": 1954.0,
       "discountPercent": 30.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-1641aa1d896a0691db17618239152422-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-lalibela/",
+      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-lalibela/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
+      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1137,6 +1153,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-04T21:52:50.916896+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1345406642",
+      "name": "Nadia Ferreira - DAMA · 100 ML",
+      "brand": "Nadia Ferreira",
+      "shop": "The King of Parfums",
+      "price": 279.0,
+      "originalPrice": 379.0,
+      "discountPercent": 26.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-5b042666b5bf4aa48a17611600748308-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/nadia-ferreira-dama/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T18:27:45.208557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1434386547",
-      "name": "Gulf Orchid - Dark Chocolate · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323659954-gulf-orchid-dark-chocolate-30c197b0e16a4a75b917848362790343-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-dark-chocolate-7oy0v/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1178300958",
-      "name": "Kajal - Lamar · 100 ML",
-      "brand": "Kajal",
-      "shop": "The King of Parfums",
-      "price": 1299.0,
-      "originalPrice": 1699.0,
-      "discountPercent": 23.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/105724378-kajal-lamar-b6a6a9441a4b0bb89217848272944649-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/kajal-lamar/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
       "basis": "store-listed-reference"
     }
   ]
