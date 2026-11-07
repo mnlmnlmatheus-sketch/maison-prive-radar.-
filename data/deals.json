@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T07:09:39.840047+00:00",
+  "updatedAt": "2026-11-07T14:01:10.098981+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 431,
+  "totalVerifiedDeals": 435,
   "products": [
     {
       "id": "king-1526509776",
@@ -17,6 +17,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T02:55:43.062081+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1337433807",
+      "name": "PARIS CORNER - Taskeen Marina · 100 ML",
+      "brand": "PARIS CORNER",
+      "shop": "The King of Parfums",
+      "price": 150.0,
+      "originalPrice": 355.0,
+      "discountPercent": 57.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-16-e60b3247440346f5cb17603842432270-640-0-0557a9dcdcf40dc0a717603843256010-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/paris-corner-taskeen-marina/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-07T14:01:03.831924+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -260,6 +276,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1334834506",
+      "name": "Orientica - Desert Dusk · 80 ML",
+      "brand": "Orientica",
+      "shop": "The King of Parfums",
+      "price": 699.0,
+      "originalPrice": 1189.0,
+      "discountPercent": 41.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-00f2d96d69af4ccda817600351050738-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/orientica-desert-dusk/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 80.0,
+      "concentration": null,
+      "checkedAt": "2026-11-07T14:01:03.831924+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1302892091",
       "name": "Kajal - Masa · 100 ML",
       "brand": "Kajal",
@@ -292,6 +324,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1337412659",
+      "name": "Anfar - The Jewel of Ocean · 100 ML",
+      "brand": "Anfar",
+      "shop": "The King of Parfums",
+      "price": 279.0,
+      "originalPrice": 461.0,
+      "discountPercent": 39.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-13-85fbd7af89b57f3e1917603833969331-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfar-the-jewel-of-ocean/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-07T14:01:03.831924+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-417523690",
       "name": "Tom Ford - Rose Prick · 100ML",
       "brand": "Tom Ford",
@@ -321,22 +369,6 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-10-30T22:58:44.111635+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1543630324",
-      "name": "Emporio Armani - Stronger With You Powerfully · 100 ML",
-      "brand": "Emporio Armani",
-      "shop": "The King of Parfums",
-      "price": 799.0,
-      "originalPrice": 1299.0,
-      "discountPercent": 38.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350628804-emporio-armani-stronger-with-you-powerfully-898b544b75eb1a61d117848375276431-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/emporio-armani-stronger-with-you-powerfully-fz82q/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -964,22 +996,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1543673764",
-      "name": "Rasasi - Hawas Atlantis · 100 ML",
-      "brand": "Rasasi",
-      "shop": "The King of Parfums",
-      "price": 329.0,
-      "originalPrice": 459.0,
-      "discountPercent": 28.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350646234-rasasi-hawas-atlantis-6b25ff5ba409b77bf917848375363661-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/rasasi-hawas-atlantis-26jpi/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1483090469",
       "name": "Gritti - Neroli Extreme · 100 ML",
       "brand": "Gritti",
@@ -1057,22 +1073,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-02T20:46:59.144818+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1543767975",
-      "name": "Emporio Armani - Stronger With You Powerfully · 50 ML",
-      "brand": "Emporio Armani",
-      "shop": "The King of Parfums",
-      "price": 649.0,
-      "originalPrice": 899.0,
-      "discountPercent": 27.8,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/350628804-emporio-armani-stronger-with-you-powerfully-898b544b75eb1a61d117848375276431-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/emporio-armani-stronger-with-you-powerfully-fz82q/",
-      "category": "Perfumes",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-10-27T16:38:21.372377+00:00",
       "basis": "store-listed-reference"
     },
     {
