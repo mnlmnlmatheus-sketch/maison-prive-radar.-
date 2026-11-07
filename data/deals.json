@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T20:54:51.264386+00:00",
+  "updatedAt": "2026-11-07T00:57:17.344306+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 424,
+  "totalVerifiedDeals": 428,
   "products": [
     {
       "id": "king-1526509776",
@@ -48,7 +48,7 @@
       "category": "Perfumes árabes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
+      "checkedAt": "2026-11-07T00:57:11.231680+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1168,7 +1168,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
+      "checkedAt": "2026-11-07T00:57:11.231680+00:00",
       "basis": "store-listed-reference"
     },
     {

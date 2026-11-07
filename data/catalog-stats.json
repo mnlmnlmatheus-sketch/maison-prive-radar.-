@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T20:54:51.264386+00:00",
-  "catalogTotal": 3539,
-  "verifiedLast14Days": 3523,
+  "updatedAt": "2026-11-07T00:57:17.344306+00:00",
+  "catalogTotal": 3532,
+  "verifiedLast14Days": 3516,
   "brandsIdentified": 261,
   "shops": [
     "DL Imports",
@@ -12,17 +12,17 @@
   ],
   "categories": {
     "Perfumes de nicho": 476,
-    "Perfumes": 263,
-    "Perfumes árabes": 169,
+    "Perfumes": 266,
+    "Perfumes árabes": 171,
     "Perfumes designer": 58,
-    "Calçados": 610,
-    "Roupas": 1469,
-    "Bolsas": 162,
+    "Roupas": 1457,
     "Acessórios": 269,
+    "Calçados": 610,
+    "Bolsas": 162,
     "Joias": 36,
     "Outros": 27
   },
-  "perfumeCount": 966,
-  "verifiedDeals": 424,
+  "perfumeCount": 971,
+  "verifiedDeals": 428,
   "limitations": "Catálogo público em crescimento. Produtos podem estar indisponíveis e os preços no checkout podem diferir."
 }
