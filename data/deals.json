@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T14:01:10.098981+00:00",
+  "updatedAt": "2026-11-07T18:48:16.747716+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 435,
+  "totalVerifiedDeals": 439,
   "products": [
     {
       "id": "king-1526509776",
@@ -668,11 +668,11 @@
       "originalPrice": 2499.0,
       "discountPercent": 32.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342266241-electimuss-aurora-7acf5f0d8600af978117848372284104-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/electimuss-aurora-12rkf/",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/electimuss-aurora-12rkf/?entry_path=category",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T07:04:32.900961+00:00",
+      "checkedAt": "2026-11-07T18:48:10.701721+00:00",
       "basis": "store-listed-reference"
     },
     {
