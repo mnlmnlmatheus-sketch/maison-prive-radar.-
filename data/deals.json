@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T00:57:17.344306+00:00",
+  "updatedAt": "2026-11-07T07:09:39.840047+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 428,
+  "totalVerifiedDeals": 431,
   "products": [
     {
       "id": "king-1526509776",
@@ -1092,6 +1092,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1337455470",
+      "name": "PARIS CORNER - Zodiac Lunaris · 100 ML",
+      "brand": "PARIS CORNER",
+      "shop": "The King of Parfums",
+      "price": 239.0,
+      "originalPrice": 329.0,
+      "discountPercent": 27.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-19-b4899663731124eba017603850052032-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/paris-corner-zodiac-lunaris/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1586337017",
       "name": "Birkholz - Paris Mon Amour · 100 ML (S/CAIXA)",
       "brand": "Birkholz",
@@ -1180,27 +1196,11 @@
       "originalPrice": 2379.0,
       "discountPercent": 26.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339121730",
-      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1212,11 +1212,27 @@
       "originalPrice": 2379.0,
       "discountPercent": 26.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192021-661-8c73e985dc3870066d17540004324299-640-0-f60d09869ae635074b17605438509674-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-green/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-green/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-02T02:30:23.970380+00:00",
+      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1339121730",
+      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1524,6 +1540,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1548181070",
+      "name": "Rayhaan - Pacific Aura · 100 ML",
+      "brand": "Rayhaan",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 329.0,
+      "discountPercent": 24.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/299927509-rayhaan-pacific-aura-b95d2e95bd696d5d5b17848355190908-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rayhaan-pacific-aura/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1390452429",
       "name": "Rayhaan - Valhalla · 100 ML",
       "brand": "Rayhaan",
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T23:59:48.446158+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1431773730",
-      "name": "Gulf Orchid - Ruby Fizz · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323057100-gulf-orchid-ruby-fizz-002618c484a1c9d68117848361699840-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-ruby-fizz-p6xj0/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1432828687",
-      "name": "Gulf Orchid - Old Fashioned · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323303496-gulf-orchid-old-fashioned-f419badace93627ff917848362191313-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-old-fashioned-1xs57/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     }
   ]
