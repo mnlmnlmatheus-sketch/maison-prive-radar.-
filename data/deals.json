@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T18:48:16.747716+00:00",
+  "updatedAt": "2026-11-07T22:45:42.782770+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
   "totalVerifiedDeals": 439,
   "products": [
@@ -524,11 +524,11 @@
       "originalPrice": 3104.0,
       "discountPercent": 35.6,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334474439-marc-antoine-barrois-b683-c8531d8673e26bb2a017848367717659-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-b683-1k2c7/",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-b683-1k2c7/?entry_path=category",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T23:23:55.042311+00:00",
+      "checkedAt": "2026-11-07T22:45:36.782649+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1244,11 +1244,11 @@
       "originalPrice": 2699.0,
       "discountPercent": 25.9,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334927280-marc-antoine-barrois-aldebaran-aef18d36e23960bc4917848368137058-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-aldebaran-1bwke/",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-aldebaran-1bwke/?entry_path=category",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T19:59:19.109948+00:00",
+      "checkedAt": "2026-11-07T22:45:36.782649+00:00",
       "basis": "store-listed-reference"
     },
     {
