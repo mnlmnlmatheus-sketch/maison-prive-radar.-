@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T17:03:59.295021+00:00",
+  "updatedAt": "2026-11-08T21:10:54.062769+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 460,
+  "totalVerifiedDeals": 471,
   "products": [
     {
       "id": "king-1526509776",
@@ -1012,6 +1012,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1276228683",
+      "name": "Creed - Silver Mountain Water · 100ML S/CAIXA S/TAMPA",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 28.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141526603-creed-silver-mountain-water-b7ac0c605903e053ca17848283570667-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-silver-mountain-water1/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T21:10:47.676427+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1281214107",
       "name": "Creed - Aventus · 100 ML - S/CAIXA S/TAMPA",
       "brand": "Creed",
@@ -1041,22 +1057,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T23:57:39.284539+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1276228683",
-      "name": "Creed - Silver Mountain Water · 100ML S/CAIXA S/TAMPA",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 28.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141526603-creed-silver-mountain-water-b7ac0c605903e053ca17848283570667-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-silver-mountain-water1/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T19:42:37.404474+00:00",
       "basis": "store-listed-reference"
     },
     {
