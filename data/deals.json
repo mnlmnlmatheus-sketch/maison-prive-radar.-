@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T02:29:33.806850+00:00",
+  "updatedAt": "2026-11-08T10:19:31.269770+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 450,
+  "totalVerifiedDeals": 455,
   "products": [
     {
       "id": "king-1526509776",
@@ -301,10 +301,10 @@
       "discountPercent": 40.9,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/msa-6d36a5cc6d878d174a17468044847838-640-0-5399c2dbdc77af6ff517567354393791-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/kajal-masa/?entry_path=category",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-08T02:29:27.599624+00:00",
+      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -385,6 +385,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T02:22:05.782996+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1308088769",
+      "name": "Paris Corner - Lueur d'Espoir Memories of Summer · 100 ML",
+      "brand": "Paris Corner",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 399.0,
+      "discountPercent": 37.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-81-2a84aa98ea9172e34717572501759378-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/paris-corner-lueur-despoir-memories-of-summer/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -529,6 +545,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-07T22:45:36.782649+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1311213469",
+      "name": "Anfar - Odyssee IV · 100 ML",
+      "brand": "Anfar",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 459.0,
+      "discountPercent": 34.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/293372153-anfar-odyssee-iv-cc9a1dd2eeddb1b18617848352088472-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfar-odyssee-iv/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1332,6 +1364,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1308097271",
+      "name": "Anfar - Azule Elite · 100 ML",
+      "brand": "Anfar",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-85-de038c07b6e689643d17572522353591-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfar-azule-elite/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1396993704",
       "name": "Aurora Scents - Habanera White · 80 ML",
       "brand": "Aurora Scents",
@@ -1553,54 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-31T09:38:23.342309+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1548181070",
-      "name": "Rayhaan - Pacific Aura · 100 ML",
-      "brand": "Rayhaan",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/299927509-rayhaan-pacific-aura-b95d2e95bd696d5d5b17848355190908-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/rayhaan-pacific-aura/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1390452429",
-      "name": "Rayhaan - Valhalla · 100 ML",
-      "brand": "Rayhaan",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/313888846-rayhaan-valhalla-45767463f9058b17f517848358999833-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/rayhaan-valhalla-n8nt3/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1431784391",
-      "name": "Gulf Orchid - Mangotini · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323059645-gulf-orchid-mangotini-6309f36be0f3c02a6f17848361758629-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-mangotini-84d9c/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
       "basis": "store-listed-reference"
     }
   ]
