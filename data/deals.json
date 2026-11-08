@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T10:19:31.269770+00:00",
+  "updatedAt": "2026-11-08T17:03:59.295021+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 455,
+  "totalVerifiedDeals": 460,
   "products": [
     {
       "id": "king-1526509776",
@@ -308,6 +308,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1359259513",
+      "name": "Xerjoff - Naxos · 100 ML (S/ CAIXA)",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1249.0,
+      "originalPrice": 2099.0,
+      "discountPercent": 40.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/89150927-xerjoff-naxos-41b7e721bd5ebcdca217848264667248-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-naxos/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T17:03:53.310341+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-950554732",
       "name": "Armaf - Club De Nuit Oud · 105 ML",
       "brand": "Armaf",
@@ -316,11 +332,11 @@
       "originalPrice": 769.0,
       "discountPercent": 40.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/o-j3dcftxzbax-54b41198095e44abc617185563458042-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-oud/",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-oud/?entry_path=category",
       "category": "Perfumes árabes",
       "volumeMl": 105.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
+      "checkedAt": "2026-11-08T17:03:53.310341+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -353,6 +369,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1565531246",
+      "name": "Xerjoff - Erba Pura · 100 ML (S/CAIXA)",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1159.0,
+      "originalPrice": 1899.0,
+      "discountPercent": 39.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/134978667-xerjoff-erba-pura-45596f8d74a3b20e3817848281940380-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-erba-pura/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T17:03:53.310341+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -668,11 +700,11 @@
       "originalPrice": 2699.0,
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/renaa1-c2531c28a9312ae70116221361767510-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-renaissance/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-renaissance/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
+      "checkedAt": "2026-11-08T17:03:53.310341+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -980,6 +1012,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1281214107",
+      "name": "Creed - Aventus · 100 ML - S/CAIXA S/TAMPA",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 28.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/aventus1-b4c94ab44d9d36dfaf16680247366766-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-aventus1/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T17:03:53.310341+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1345296317",
       "name": "Creed - Green Irish Tweed · 100 ML (S/ CAIXA S/TAMPA)",
       "brand": "Creed",
@@ -1009,22 +1057,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T19:42:37.404474+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1281214107",
-      "name": "Creed - Aventus · 100 ML - S/CAIXA S/TAMPA",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 28.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/aventus1-b4c94ab44d9d36dfaf16680247366766-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-aventus1/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1172,6 +1204,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1299146148",
+      "name": "Rabanne - Kit Invictus Victory · 100 ML x 150 ML x 10 ML",
+      "brand": "Rabanne",
+      "shop": "The King of Parfums",
+      "price": 799.0,
+      "originalPrice": 1099.0,
+      "discountPercent": 27.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/290520016-rabanne-kit-invictus-victory-5fbfb2c2822abd720517848351400146-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rabanne-kit-invictus-victory/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T17:03:53.310341+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1358642938",
       "name": "Aurora Scents - Pharaoh · 100 ML",
       "brand": "Aurora Scents",
@@ -1185,6 +1233,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-06T15:02:56.141775+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1565531592",
+      "name": "Xerjoff - Torino 21 · 100 ML (S/CAIXA)",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1459.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 27.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/xerjoff-torino1-eec238c30cec1332f216510904159861-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-torino-21/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T17:03:53.310341+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1537,70 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-04T21:52:50.916896+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-685093418",
-      "name": "Xerjoff - Golden Green · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 24.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/golden-green1-778be6002268bc2e7e16908979364458-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-golden-green/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-05T18:45:31.119636+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1424725510",
-      "name": "Afnan - Kiaana Angel · 100 ML",
-      "brand": "Afnan",
-      "shop": "The King of Parfums",
-      "price": 329.0,
-      "originalPrice": 435.0,
-      "discountPercent": 24.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/321419323-afnan-kiaana-angel-b42b7cd4095bcc0a1317848361040268-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/afnan-kiaana-angel-n7fz9/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1375789141",
-      "name": "Hugo Boss - Boss Bottled Tonic · 50 ML",
-      "brand": "Hugo Boss",
-      "shop": "The King of Parfums",
-      "price": 279.0,
-      "originalPrice": 369.0,
-      "discountPercent": 24.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/boss-bottled-tonic-eau-de-toilette-hugo-boss-perfume-masculino-50ml-2-0c95ccd6b4bf65f17317642762321423-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/hugo-boss-boss-bottled-tonic-9lxav/?entry_path=category",
-      "category": "Perfumes designer",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1495880610",
-      "name": "Scent.br - Midnight Desire · 100 ML",
-      "brand": "Scent.br",
-      "shop": "The King of Parfums",
-      "price": 189.0,
-      "originalPrice": 249.9,
-      "discountPercent": 24.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/336372420-scent-br-midnight-desire-0100b1ca5c4ffc7dcb17848368977226-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/scent-br-midnight-desire-otwzd/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
       "basis": "store-listed-reference"
     }
   ]
