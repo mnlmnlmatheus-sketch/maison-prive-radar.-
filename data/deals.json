@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T22:45:42.782770+00:00",
+  "updatedAt": "2026-11-08T02:29:33.806850+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 439,
+  "totalVerifiedDeals": 450,
   "products": [
     {
       "id": "king-1526509776",
@@ -172,11 +172,11 @@
       "originalPrice": 5289.0,
       "discountPercent": 43.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/238753503-creed-delphinus-4a4a864303988f6e0b17848325369871-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-delphinus/",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-delphinus/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T00:57:28.750557+00:00",
+      "checkedAt": "2026-11-08T02:29:27.599624+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -300,11 +300,11 @@
       "originalPrice": 2199.0,
       "discountPercent": 40.9,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/msa-6d36a5cc6d878d174a17468044847838-640-0-5399c2dbdc77af6ff517567354393791-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/kajal-masa/",
+      "url": "https://www.thekingofparfums.com.br/produtos/kajal-masa/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T00:57:28.750557+00:00",
+      "checkedAt": "2026-11-08T02:29:27.599624+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1012,6 +1012,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-405032573",
+      "name": "Xerjoff - La Tosca · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/la-tosca1-cfff460ac41043524f16389028645803-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-la-tosca/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T02:29:27.599624+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-969798946",
       "name": "Xerjoff - Lira · 100 ML",
       "brand": "Xerjoff",
@@ -1581,22 +1597,6 @@
       "discountPercent": 24.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323059645-gulf-orchid-mangotini-6309f36be0f3c02a6f17848361758629-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-mangotini-84d9c/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1431777678",
-      "name": "Gulf Orchid - Vanilla on the Beach · 100 ML",
-      "brand": "Gulf Orchid",
-      "shop": "The King of Parfums",
-      "price": 249.0,
-      "originalPrice": 329.0,
-      "discountPercent": 24.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/323058163-gulf-orchid-vanilla-on-the-beach-d52f9643b2c1acf96417848361729800-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gulf-orchid-vanilla-on-the-beach-1m2il/",
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
