@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T21:10:54.062769+00:00",
+  "updatedAt": "2026-11-09T00:54:47.379342+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 471,
+  "totalVerifiedDeals": 478,
   "products": [
     {
       "id": "king-1526509776",
@@ -268,11 +268,11 @@
       "originalPrice": 2999.0,
       "discountPercent": 41.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/xerjoff-decas1-26f76367a9639be0f116293134383543-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-decas/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-decas/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T23:57:39.284539+00:00",
+      "checkedAt": "2026-11-09T00:54:41.154361+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -668,11 +668,11 @@
       "originalPrice": 2999.0,
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/375x500-524321-f10d9faa728d81d37416269862782610-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-mefisto-gentiluomo/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-mefisto-gentiluomo/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-30T05:46:57.491559+00:00",
+      "checkedAt": "2026-11-09T00:54:41.154361+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -940,11 +940,11 @@
       "originalPrice": 1999.0,
       "discountPercent": 30.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/95557414-memo-paris-african-leather-3790338ce4163bd82f17848267889596-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-african-leather/",
+      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-african-leather/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-29T23:57:39.284539+00:00",
+      "checkedAt": "2026-11-09T00:54:41.154361+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1012,6 +1012,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1345296317",
+      "name": "Creed - Green Irish Tweed · 100 ML (S/ CAIXA S/TAMPA)",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 28.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/creed-green-irish-tweed1-efcfb704c469e772d416624620786335-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-green-irish-tweed/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-09T00:54:41.154361+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1276228683",
       "name": "Creed - Silver Mountain Water · 100ML S/CAIXA S/TAMPA",
       "brand": "Creed",
@@ -1041,22 +1057,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-08T17:03:53.310341+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1345296317",
-      "name": "Creed - Green Irish Tweed · 100 ML (S/ CAIXA S/TAMPA)",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 28.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/creed-green-irish-tweed1-efcfb704c469e772d416624620786335-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-green-irish-tweed/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T23:57:39.284539+00:00",
       "basis": "store-listed-reference"
     },
     {
