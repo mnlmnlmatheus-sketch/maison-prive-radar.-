@@ -1,55 +1,55 @@
 {
-  "lastRunAt": "2026-11-09T00:54:07.748246+00:00",
-  "cursor": 3,
+  "lastRunAt": "2026-11-09T07:57:47.085874+00:00",
+  "cursor": 11,
   "verifiedThisRun": 704,
-  "addedThisRun": 0,
+  "addedThisRun": 1,
   "catalogSize": 3500,
   "status": [
     {
-      "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/feminino/acessorios",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/feminino/sapatos",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/masculino/sapatos",
-      "status": "ok",
-      "verified": 88
-    },
-    {
-      "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/made-by-oqvestir/feminino/acessorios",
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/camisetas",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/vestidos",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/casacos-e-jaquetas/jaquetas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/blusas",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/feminino/sapatos/tenis",
+      "url": "https://www.oqvestir.com.br/mercadoria/tenis",
       "status": "ok",
       "verified": 88
     },
     {
-      "category": "Bolsas",
-      "url": "https://www.oqvestir.com.br/feminino/acessorios/bolsas",
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/casacos-e-jaquetas/casaco-e-jaqueta",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/made-by-oqvestir/feminino/roupas/calcas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/made-by-oqvestir/masculino/roupas/camisetas",
       "status": "ok",
       "verified": 88
     }

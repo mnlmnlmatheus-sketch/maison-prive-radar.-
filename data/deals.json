@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T00:54:47.379342+00:00",
+  "updatedAt": "2026-11-09T07:58:25.232608+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 478,
+  "totalVerifiedDeals": 484,
   "products": [
     {
       "id": "king-1526509776",
@@ -65,6 +65,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-07T00:57:11.231680+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1513596350",
+      "name": "Sospiro - Cavatina · 75 ML (SEM CAIXA)",
+      "brand": "Sospiro",
+      "shop": "The King of Parfums",
+      "price": 1199.0,
+      "originalPrice": 2299.0,
+      "discountPercent": 47.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-9703e6506cddf9d88b17555515178018-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-cavatina/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -156,11 +172,11 @@
       "originalPrice": 2499.0,
       "discountPercent": 44.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/bouquet-idealeeau-de-parfum-100ml1-b21efa941b3ec4a7bc16337232250530-640-0-8b5d32c92275d832a117545883451519-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-bouquet-ideale/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-bouquet-ideale/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1060,6 +1076,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1284938979",
+      "name": "Narciso Rodriguez - Narciso Rodriguez For Her Intense · 30 ML",
+      "brand": "Narciso Rodriguez",
+      "shop": "The King of Parfums",
+      "price": 499.0,
+      "originalPrice": 699.0,
+      "discountPercent": 28.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-08-11t205335-869-a9f72ca8b76b7e745c17549565169455-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/narciso-rodriguez-narciso-rodriguez-for-her-intense/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 30.0,
+      "concentration": null,
+      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1483090469",
       "name": "Gritti - Neroli Extreme · 100 ML",
       "brand": "Gritti",
@@ -1524,6 +1556,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1375467695",
+      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
+      "brand": "Nishane",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1480633616",
       "name": "Imperial Parfums - Kashmir · 100 ML",
       "brand": "Imperial Parfums",
@@ -1540,22 +1588,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1375467695",
-      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
-      "brand": "Nishane",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-30T05:46:57.491559+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1179283148",
       "name": "Xerjoff - Erba Pura · 100 ML",
       "brand": "Xerjoff",
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-10-29T14:17:52.418181+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1403372685",
-      "name": "Mawwal - Kaman · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 396.0,
-      "discountPercent": 24.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/316714482-mawwal-kaman-9075eb18dcac2f0a3417848359590512-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-kaman-xve2v/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1403371326",
-      "name": "Mawwal - Watar · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 396.0,
-      "discountPercent": 24.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/316714067-mawwal-watar-10c1ef97914cf2813a17848359562392-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-watar-t2qa5/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
       "basis": "store-listed-reference"
     }
   ]
