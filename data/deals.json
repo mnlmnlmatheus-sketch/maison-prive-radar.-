@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T07:58:25.232608+00:00",
+  "updatedAt": "2026-11-09T18:48:44.483737+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 484,
+  "totalVerifiedDeals": 492,
   "products": [
     {
       "id": "king-1526509776",
@@ -176,7 +176,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
+      "checkedAt": "2026-11-09T18:48:37.763931+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -412,11 +412,11 @@
       "originalPrice": 1954.0,
       "discountPercent": 38.6,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141525212-creed-love-in-white-e5679b8c62daa78e0217848283419909-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-love-in-white/",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-love-in-white/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-10-30T22:58:44.111635+00:00",
+      "checkedAt": "2026-11-09T18:48:37.763931+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -961,6 +961,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-11-09T00:54:41.154361+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1275105824",
+      "name": "Anfar - Alba · 100 ML",
+      "brand": "Anfar",
+      "shop": "The King of Parfums",
+      "price": 279.0,
+      "originalPrice": 396.0,
+      "discountPercent": 29.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/68677312-bd99-44b3-963e-1b1f78b06df5-e7f6dd45edb88a5a6417539039315917-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfar-alba/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-09T18:48:37.763931+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-01T06:01:20.515489+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1179283148",
-      "name": "Xerjoff - Erba Pura · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/134978667-xerjoff-erba-pura-45596f8d74a3b20e3817848281940380-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-erba-pura/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T14:17:52.418181+00:00",
       "basis": "store-listed-reference"
     }
   ]
