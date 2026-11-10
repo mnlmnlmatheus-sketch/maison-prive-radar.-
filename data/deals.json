@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T09:49:14.710162+00:00",
+  "updatedAt": "2026-11-10T17:50:06.714012+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 496,
+  "totalVerifiedDeals": 495,
   "products": [
     {
       "id": "king-1526509776",
@@ -80,7 +80,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
+      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -268,11 +268,11 @@
       "originalPrice": 2908.0,
       "discountPercent": 41.6,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/128920841-xerjoff-dolce-amalfi-fbf7bb77605a009c2617848280590170-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-dolce-amalfi/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-dolce-amalfi/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
+      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -620,11 +620,11 @@
       "originalPrice": 2759.0,
       "discountPercent": 34.8,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/captura-de-tela-2024-10-25-192556-741a25562763c6200317298951909384-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-tony-iommi-deified-parfum/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-tony-iommi-deified-parfum/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": "Parfum",
-      "checkedAt": "2026-10-31T09:38:23.342309+00:00",
+      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1520,7 +1520,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
+      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
       "basis": "store-listed-reference"
     },
     {
