@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T17:50:06.714012+00:00",
+  "updatedAt": "2026-11-10T23:19:41.441049+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 495,
+  "totalVerifiedDeals": 501,
   "products": [
     {
       "id": "king-1526509776",
@@ -68,6 +68,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1248796739",
+      "name": "Paris Corner - Emir Voux Zingy · 100 ML",
+      "brand": "Paris Corner",
+      "shop": "The King of Parfums",
+      "price": 189.0,
+      "originalPrice": 379.0,
+      "discountPercent": 50.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/zinqy-3b7ca37af8330f784817513777304081-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/paris-corner-emir-voux-zingy/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1513596350",
       "name": "Sospiro - Cavatina · 75 ML (SEM CAIXA)",
       "brand": "Sospiro",
@@ -84,6 +100,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1555709781",
+      "name": "Boadicea - Azrak · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 3799.0,
+      "discountPercent": 47.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1531075495",
       "name": "Boadicea - Empire · 100 ML (S/CAIXA e  COM TAMPA)",
       "brand": "Boadicea",
@@ -97,22 +129,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T18:27:45.208557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1555709781",
-      "name": "Boadicea - Azrak · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 3799.0,
-      "discountPercent": 47.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -740,6 +756,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1631590283",
+      "name": "Initio - Oud for Happiness · 90 ML S/CAIXA",
+      "brand": "Initio",
+      "shop": "The King of Parfums",
+      "price": 1899.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 32.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/blac1-d4624198515a03a7c416807987391482-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/initio-oud-for-happiness/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 90.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1518673646",
       "name": "Electimuss - Aurora · 100 ML",
       "brand": "Electimuss",
@@ -796,11 +828,11 @@
       "originalPrice": 289.0,
       "discountPercent": 31.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-8f8f8ef7b4a455366617689935708264-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stella-dustin-capri-1dwex/",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/stella-dustin-capri-1dwex/?entry_path=category",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-04T15:25:56.110363+00:00",
+      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -908,11 +940,11 @@
       "originalPrice": 344.0,
       "discountPercent": 30.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/40-43ff0819238beba54917685811658123-1024-1024-a7b0b4d67c51e5a2cf17708371497674-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-oasis-rayhan-1so10/",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-oasis-rayhan-1so10/?entry_path=category",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
+      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1244,11 +1276,11 @@
       "originalPrice": 3999.0,
       "discountPercent": 27.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
+      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-05T02:28:21.427260+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1425481440",
-      "name": "Armaf - Club de Nuit Bling · 75 ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/321622204-armaf-club-de-nuit-bling-e3ce08bfba077d74e117848361240399-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-bling-118op/",
-      "category": "Perfumes árabes",
-      "volumeMl": 75.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1466828638",
-      "name": "Xerjoff - Alexandria II Anniversary · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 2999.0,
-      "originalPrice": 3999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/captura-de-tela-2026-03-05-145437-b6b147a98e5768437817727332846410-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-alexandria-ii-anniversary-uvxkg/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
       "basis": "store-listed-reference"
     }
   ]
