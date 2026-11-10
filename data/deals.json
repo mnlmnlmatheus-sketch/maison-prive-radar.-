@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T02:08:02.752147+00:00",
+  "updatedAt": "2026-11-10T09:49:14.710162+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 490,
+  "totalVerifiedDeals": 496,
   "products": [
     {
       "id": "king-1526509776",
@@ -772,6 +772,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1266778853",
+      "name": "Lattafa - Qaed Al Fursan Untamed · 100 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 179.0,
+      "originalPrice": 263.0,
+      "discountPercent": 31.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/qaed-667ad3c878f3f17ced17531913943499-640-0-9dac6cacf8f4ae996217531915106373-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-qaed-al-fursan-untamed/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1417322414",
       "name": "Stella Dustin - Capri - comprar online · 100 ML",
       "brand": "Stella Dustin",
@@ -940,11 +956,11 @@
       "originalPrice": 4699.0,
       "discountPercent": 30.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
+      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1036,11 +1052,11 @@
       "originalPrice": 4999.0,
       "discountPercent": 29.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T02:22:05.782996+00:00",
+      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1492,6 +1508,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1263678072",
+      "name": "Mawwal - Symphony Saz · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/570bc582-400e-42a7-96ec-c790b0f4c98a-aed54640d0d424096217528647114846-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-symphony-saz/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1308097271",
       "name": "Anfar - Azule Elite · 100 ML",
       "brand": "Anfar",
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-02T20:46:59.144818+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-339854874",
-      "name": "Tiziana Terenzi - Orion · 100 ML",
-      "brand": "Tiziana Terenzi",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2399.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/89155165-tiziana-terenzi-orion-9f03cc079ddb6ebe4017848264789376-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/tiziana-terenzi-orion/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T15:44:42.873166+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1480633616",
-      "name": "Imperial Parfums - Kashmir · 100 ML",
-      "brand": "Imperial Parfums",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T02:07:56.069735+00:00",
       "basis": "store-listed-reference"
     }
   ]
