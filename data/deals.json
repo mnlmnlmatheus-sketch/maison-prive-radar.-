@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-11T06:15:59.009224+00:00",
+  "updatedAt": "2026-11-11T14:28:12.842232+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 504,
+  "totalVerifiedDeals": 500,
   "products": [
     {
       "id": "king-1526509776",
@@ -192,7 +192,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
+      "checkedAt": "2026-11-11T14:28:06.215177+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -544,7 +544,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
+      "checkedAt": "2026-11-11T14:28:06.215177+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1104,7 +1104,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
+      "checkedAt": "2026-11-11T14:28:06.215177+00:00",
       "basis": "store-listed-reference"
     },
     {
