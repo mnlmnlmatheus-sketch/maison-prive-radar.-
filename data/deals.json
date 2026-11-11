@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T23:19:41.441049+00:00",
+  "updatedAt": "2026-11-11T06:15:59.009224+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 501,
+  "totalVerifiedDeals": 504,
   "products": [
     {
       "id": "king-1526509776",
@@ -81,6 +81,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T23:19:35.161973+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1245927016",
+      "name": "Azzaro - Forever Wanted Elixir · 100 ML",
+      "brand": "Azzaro",
+      "shop": "The King of Parfums",
+      "price": 749.0,
+      "originalPrice": 1499.0,
+      "discountPercent": 50.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-38-29de2b5a46646674fe17432006267134-640-0-8c6f70322666adf0e517510353750949-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/azzaro-forever-wanted-elixir/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": "Elixir",
+      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -172,11 +188,11 @@
       "originalPrice": 3299.0,
       "discountPercent": 45.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344159150-boadicea-bodacious-98c9cdb4027384132417849130442760-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T19:59:19.109948+00:00",
+      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -525,10 +541,10 @@
       "discountPercent": 37.2,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/patiala-573c63c84f168ff99717539006108657-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/thameen-patiala/?entry_path=category",
-      "category": "Perfumes",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-10T02:07:56.069735+00:00",
+      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -836,22 +852,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1513415837",
-      "name": "Maison Alhambra - Jean Lowe Azure · 100 ML",
-      "brand": "Maison Alhambra",
-      "shop": "The King of Parfums",
-      "price": 179.0,
-      "originalPrice": 259.0,
-      "discountPercent": 30.9,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340590191-maison-alhambra-jean-lowe-azure-5cfed6027630d7e12e17848371141502-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/maison-alhambra-jean-lowe-azure-1t47p/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-29T23:57:39.284539+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1531075240",
       "name": "Boadicea - Knight of Love · 100 ML (S/CAIXA e  COM TAMPA)",
       "brand": "Boadicea",
@@ -1100,11 +1100,11 @@
       "originalPrice": 3599.0,
       "discountPercent": 28.9,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344159150-boadicea-bodacious-98c9cdb4027384132417849130442760-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-10-31T19:59:19.109948+00:00",
+      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
       "basis": "store-listed-reference"
     },
     {
