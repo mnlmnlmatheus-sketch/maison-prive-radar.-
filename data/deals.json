@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T11:05:14.430839+00:00",
+  "updatedAt": "2026-11-12T18:55:28.594378+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 504,
+  "totalVerifiedDeals": 501,
   "products": [
     {
       "id": "king-1526509776",
@@ -576,7 +576,7 @@
       "category": "Perfumes árabes",
       "volumeMl": 80.0,
       "concentration": null,
-      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
+      "checkedAt": "2026-11-12T18:55:21.015379+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -720,7 +720,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-12T11:05:08.468009+00:00",
+      "checkedAt": "2026-11-12T18:55:21.015379+00:00",
       "basis": "store-listed-reference"
     },
     {
