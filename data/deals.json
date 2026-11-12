@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-11T21:57:18.244370+00:00",
+  "updatedAt": "2026-11-12T02:58:55.565566+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 499,
+  "totalVerifiedDeals": 500,
   "products": [
     {
       "id": "king-1526509776",
@@ -44,11 +44,11 @@
       "originalPrice": 3999.0,
       "discountPercent": 55.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344160961-boadicea-harmonious-28a3f55c34140c761b17848373310475-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -96,7 +96,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": "Elixir",
-      "checkedAt": "2026-11-11T06:15:52.684163+00:00",
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -412,11 +412,11 @@
       "originalPrice": 3699.0,
       "discountPercent": 39.2,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/109068152-tom-ford-rose-prick-1ac3e53f5ee67257b517848274333456-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/tom-ford-rose-prick/",
+      "url": "https://www.thekingofparfums.com.br/produtos/tom-ford-rose-prick/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -492,11 +492,11 @@
       "originalPrice": 3999.0,
       "discountPercent": 37.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344160961-boadicea-harmonious-28a3f55c34140c761b17848373310475-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -564,6 +564,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1241734498",
+      "name": "Orientica - Noble · 80 ML",
+      "brand": "Orientica",
+      "shop": "The King of Parfums",
+      "price": 699.0,
+      "originalPrice": 1099.0,
+      "discountPercent": 36.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-62-c1d0faa60397d1caf017492709170891-640-0-e50b7c36395187201517507099381659-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/orientica-noble/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 80.0,
+      "concentration": null,
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1533615532",
+      "name": "Boadicea - Glorious · 100 ML (S/CAIXA e  COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344161665-boadicea-glorious-dfa51c4cfbd1291ec517848373341536-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-glorious-1bj9q/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1562123765",
       "name": "Spirit Of Kings - Harmony · 100 ML (S/CAIXA C/TAMPA)",
       "brand": "Spirit Of Kings",
@@ -593,22 +625,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T02:55:43.062081+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1533615532",
-      "name": "Boadicea - Glorious · 100 ML (S/CAIXA e  COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 35.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344161665-boadicea-glorious-dfa51c4cfbd1291ec517848373341536-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-glorious-1bj9q/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -764,11 +780,11 @@
       "originalPrice": 2529.0,
       "discountPercent": 32.8,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/regio1-926798dd9c75059c5a16389024542336-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-regio-tester/",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-regio-tester/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -860,11 +876,11 @@
       "originalPrice": 3599.0,
       "discountPercent": 30.6,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344765244-boadicea-knight-of-love-f3733a8e1fbb8b85de17848373491561-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-knight-of-love-s9txf/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-knight-of-love-s9txf/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -876,11 +892,11 @@
       "originalPrice": 2589.0,
       "discountPercent": 30.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/venom-027b96bc7170a227f417381804006265-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-venom-incarnat/",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-venom-incarnat/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T06:01:20.515489+00:00",
+      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1583,22 +1599,6 @@
       "url": "https://www.thekingofparfums.com.br/produtos/aurora-scents-habanera-white-ea6eu/",
       "category": "Perfumes",
       "volumeMl": 80.0,
-      "concentration": null,
-      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1396988110",
-      "name": "Aurora Scents - Olibanum · 100 ML",
-      "brand": "Aurora Scents",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-3-dae918ba8cdd848fd617669705083573-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/aurora-scents-olibanum-lmz3t/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-05T02:28:21.427260+00:00",
       "basis": "store-listed-reference"
