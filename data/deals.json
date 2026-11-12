@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T02:58:55.565566+00:00",
+  "updatedAt": "2026-11-12T11:05:14.430839+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 500,
+  "totalVerifiedDeals": 504,
   "products": [
     {
       "id": "king-1526509776",
@@ -716,11 +716,11 @@
       "originalPrice": 7499.0,
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351259805-boadicea-blue-sapphire-supercharged-3247950981eb7a165817848376294444-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-supercharged-1t7yz/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-supercharged-1t7yz/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T18:56:20.675496+00:00",
+      "checkedAt": "2026-11-12T11:05:08.468009+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -849,6 +849,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T09:49:08.588171+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1507472013",
+      "name": "Paris Corner - Marshmallow Blush · 50 ML",
+      "brand": "Paris Corner",
+      "shop": "The King of Parfums",
+      "price": 219.0,
+      "originalPrice": 319.0,
+      "discountPercent": 31.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/mash-f3012324d70b362d9217507058729778-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/paris-corner-marshmallow-blush/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-12T11:05:08.468009+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-08T10:19:24.884981+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1396993704",
-      "name": "Aurora Scents - Habanera White · 80 ML",
-      "brand": "Aurora Scents",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-6-26a3b4afb990b6e1e917669720205244-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/aurora-scents-habanera-white-ea6eu/",
-      "category": "Perfumes",
-      "volumeMl": 80.0,
-      "concentration": null,
-      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
       "basis": "store-listed-reference"
     }
   ]
