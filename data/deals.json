@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T07:56:42.403856+00:00",
+  "updatedAt": "2026-11-13T16:21:38.360668+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 511,
+  "totalVerifiedDeals": 518,
   "products": [
     {
       "id": "king-1526509776",
@@ -465,6 +465,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-11-09T18:48:37.763931+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1572823408",
+      "name": "Stéphane Humbert Lucas 777 - Sand Dance · 50 ML (S/CAIXA C/TAMPA)",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2908.0,
+      "discountPercent": 38.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dance-14d67e80ba5126930b17404235187861-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-sand-dance/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-13T16:21:31.565271+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -996,22 +1012,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1487226500",
-      "name": "Lattafa - Eternal Vanille · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 319.0,
-      "originalPrice": 459.0,
-      "discountPercent": 30.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334467005-lattafa-eternal-vanille-987116fb1cc080ced917848367572552-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-eternal-vanille-35egw/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-10-31T23:23:55.042311+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1439653316",
       "name": "Mawwal - Oasis Rayhan · 100 ML",
       "brand": "Mawwal",
@@ -1492,22 +1492,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1339126484",
-      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1339122868",
       "name": "Xerjoff - Duran Duran NeoRio Green · 50 ML",
       "brand": "Xerjoff",
@@ -1517,6 +1501,22 @@
       "discountPercent": 26.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192021-661-8c73e985dc3870066d17540004324299-640-0-f60d09869ae635074b17605438509674-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-green/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-13T16:21:31.565271+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1339126484",
+      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
