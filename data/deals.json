@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T00:22:20.509534+00:00",
+  "updatedAt": "2026-11-13T07:56:42.403856+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 502,
+  "totalVerifiedDeals": 511,
   "products": [
     {
       "id": "king-1526509776",
@@ -385,6 +385,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-11-08T17:03:53.310341+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1235895622",
+      "name": "Mawwal - Asir L’Qalb · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 239.0,
+      "originalPrice": 396.0,
+      "discountPercent": 39.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-68-4973c460c9a29df78717500893765534-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-asir-lqalb/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-13T07:56:36.494814+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -852,6 +868,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1234379959",
+      "name": "French Avenue - Azzure Aoud · 100 ML",
+      "brand": "French Avenue",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 437.0,
+      "discountPercent": 31.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/276229696-french-avenue-azzure-aoud-34de2ce84da6b9832317848344946841-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/french-avenue-azzure-aoud/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-13T07:56:36.494814+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1507472013",
       "name": "Paris Corner - Marshmallow Blush · 50 ML",
       "brand": "Paris Corner",
@@ -945,6 +977,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-06T00:16:42.220006+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1232598083",
+      "name": "French Avenue - Sweet Paradise · 100 ML",
+      "brand": "French Avenue",
+      "shop": "The King of Parfums",
+      "price": 319.0,
+      "originalPrice": 459.0,
+      "discountPercent": 30.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-06-11t165830-607-5b4af47aa8dda27c1017496724357608-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/french-avenue-sweet-paradise/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-13T07:56:36.494814+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1553,54 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-04T06:18:53.024012+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1432004854",
-      "name": "KUF - Body Cream MoneyGold · 250 ML",
-      "brand": "KUF",
-      "shop": "The King of Parfums",
-      "price": 59.0,
-      "originalPrice": 79.0,
-      "discountPercent": 25.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/1-_bodycream_moneygold-49c2de5a836579fe2517702333710524-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/kuf-body-cream-moneygold-16nbq/",
-      "category": "Perfumes",
-      "volumeMl": 250.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1263678072",
-      "name": "Mawwal - Symphony Saz · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/570bc582-400e-42a7-96ec-c790b0f4c98a-aed54640d0d424096217528647114846-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-symphony-saz/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1308097271",
-      "name": "Anfar - Azule Elite · 100 ML",
-      "brand": "Anfar",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-85-de038c07b6e689643d17572522353591-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/anfar-azule-elite/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
       "basis": "store-listed-reference"
     }
   ]
