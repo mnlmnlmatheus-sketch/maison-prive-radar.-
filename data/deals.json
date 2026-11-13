@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T18:55:28.594378+00:00",
+  "updatedAt": "2026-11-13T00:22:20.509534+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 501,
+  "totalVerifiedDeals": 502,
   "products": [
     {
       "id": "king-1526509776",
@@ -864,7 +864,7 @@
       "category": "Perfumes",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-12T11:05:08.468009+00:00",
+      "checkedAt": "2026-11-13T00:22:14.640565+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1100,11 +1100,11 @@
       "originalPrice": 493.0,
       "discountPercent": 29.2,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/215080939-parfums-de-marly-delina-creme-mains-894ce348a479adedad17848314452775-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/parfums-de-marly-delina-creme-mains/",
+      "url": "https://www.thekingofparfums.com.br/produtos/parfums-de-marly-delina-creme-mains/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 30.0,
       "concentration": null,
-      "checkedAt": "2026-11-01T18:56:20.675496+00:00",
+      "checkedAt": "2026-11-13T00:22:14.640565+00:00",
       "basis": "store-listed-reference"
     },
     {
