@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T16:21:38.360668+00:00",
+  "updatedAt": "2026-11-13T22:37:21.185207+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 518,
+  "totalVerifiedDeals": 520,
   "products": [
     {
       "id": "king-1526509776",
@@ -852,22 +852,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1479462362",
-      "name": "Riiffs - Wonder of You Women · 100 ML",
-      "brand": "Riiffs",
-      "shop": "The King of Parfums",
-      "price": 149.0,
-      "originalPrice": 219.0,
-      "discountPercent": 32.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/332548286-riiffs-wonder-of-you-women-20156d61cca54f669e17848366570548-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-wonder-of-you-women-117ca/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-01T13:22:32.263136+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1266778853",
       "name": "Lattafa - Qaed Al Fursan Untamed · 100 ML",
       "brand": "Lattafa",
@@ -1601,6 +1585,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1432004854",
+      "name": "KUF - Body Cream MoneyGold · 250 ML",
+      "brand": "KUF",
+      "shop": "The King of Parfums",
+      "price": 59.0,
+      "originalPrice": 79.0,
+      "discountPercent": 25.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/1-_bodycream_moneygold-49c2de5a836579fe2517702333710524-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kuf-body-cream-moneygold-16nbq/",
+      "category": "Perfumes",
+      "volumeMl": 250.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     }
   ]
