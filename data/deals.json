@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T22:37:21.185207+00:00",
+  "updatedAt": "2026-11-14T03:14:40.572380+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 520,
+  "totalVerifiedDeals": 521,
   "products": [
     {
       "id": "king-1526509776",
@@ -12,11 +12,11 @@
       "originalPrice": 4799.0,
       "discountPercent": 62.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342263117-boadicea-rebellious-4373233866693b212d17848372196718-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-rebellious-1f0lr/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-rebellious-1f0lr/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
+      "checkedAt": "2026-11-14T03:14:34.099908+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -612,6 +612,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1526509648",
+      "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344157916-boadicea-envious-728684b968d87d7eed17848373280317-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-envious-e47bj/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-14T03:14:34.099908+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1533615532",
       "name": "Boadicea - Glorious · 100 ML (S/CAIXA e  COM TAMPA)",
       "brand": "Boadicea",
@@ -641,22 +657,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-03T23:59:48.446158+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1526509648",
-      "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 35.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344157916-boadicea-envious-728684b968d87d7eed17848373280317-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-envious-e47bj/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -705,6 +705,22 @@
       "volumeMl": 50.0,
       "concentration": "Parfum",
       "checkedAt": "2026-11-10T17:50:00.247212+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1218324322",
+      "name": "Armaf - Club De Nuit Lionheart Man · 100 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 449.0,
+      "discountPercent": 33.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-05-26t172644-522-cab2e810514d4cb7cb17482913202946-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-lionheart-man/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-14T03:14:34.099908+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1252,6 +1268,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1571504101",
+      "name": "Stéphane Humbert Lucas 777 - Pink Boa · 50 ML (S/CAIXA C/TAMPA)",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/244431079-stephane-humbert-lucas-777-pink-boa-8fdfa512094c85c1bb17848327774207-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-pink-boa/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-14T03:14:34.099908+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-405032573",
       "name": "Xerjoff - La Tosca · 100 ML",
       "brand": "Xerjoff",
@@ -1313,22 +1345,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-04T06:18:53.024012+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1571504101",
-      "name": "Stéphane Humbert Lucas 777 - Pink Boa · 50 ML (S/CAIXA C/TAMPA)",
-      "brand": "Stéphane Humbert Lucas 777",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2499.0,
-      "discountPercent": 28.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/244431079-stephane-humbert-lucas-777-pink-boa-8fdfa512094c85c1bb17848327774207-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-pink-boa/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-02T20:46:59.144818+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1428,22 +1444,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1468101076",
-      "name": "Carolina Herrera - Good Girl Blush Polka Paradise · 80 ML",
-      "brand": "Carolina Herrera",
-      "shop": "The King of Parfums",
-      "price": 729.0,
-      "originalPrice": 999.0,
-      "discountPercent": 27.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/329914588-carolina-herrera-good-girl-blush-polka-paradise-df26db306e02b6d2d117848365004689-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/carolina-herrera-good-girl-blush-polka-paradise-lii1h/",
-      "category": "Perfumes designer",
-      "volumeMl": 80.0,
-      "concentration": null,
-      "checkedAt": "2026-11-01T22:49:41.431439+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1409195748",
       "name": "Lattafa - Sherif · 100 ML",
       "brand": "Lattafa",
@@ -1540,22 +1540,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1467614942",
-      "name": "Medicube - Collagen Lifting Mask · 27 Gr",
-      "brand": "Medicube",
-      "shop": "The King of Parfums",
-      "price": 29.0,
-      "originalPrice": 39.0,
-      "discountPercent": 25.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-47-f415a3f2461d867c2517733491912298-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/medicube-collagen-lifting-mask-6pg2t/",
-      "category": "Perfumes",
-      "volumeMl": null,
-      "concentration": null,
-      "checkedAt": "2026-11-01T22:49:41.431439+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-505311307",
       "name": "Xerjoff - Amabile · 100ml",
       "brand": "Xerjoff",
@@ -1601,6 +1585,22 @@
       "volumeMl": 250.0,
       "concentration": null,
       "checkedAt": "2026-11-03T18:27:45.208557+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1263678072",
+      "name": "Mawwal - Symphony Saz · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/570bc582-400e-42a7-96ec-c790b0f4c98a-aed54640d0d424096217528647114846-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-symphony-saz/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
       "basis": "store-listed-reference"
     }
   ]
