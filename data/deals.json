@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-14T10:28:01.742314+00:00",
+  "updatedAt": "2026-11-14T17:07:00.133000+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 515,
+  "totalVerifiedDeals": 511,
   "products": [
     {
       "id": "king-1526509776",
@@ -116,6 +116,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1531075495",
+      "name": "Boadicea - Empire · 100 ML (S/CAIXA e  COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 3799.0,
+      "discountPercent": 47.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-14T17:06:52.611390+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1555709781",
       "name": "Boadicea - Azrak · 100 ML (S/CAIXA C/TAMPA)",
       "brand": "Boadicea",
@@ -129,22 +145,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T23:19:35.161973+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1531075495",
-      "name": "Boadicea - Empire · 100 ML (S/CAIXA e  COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 3799.0,
-      "discountPercent": 47.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -269,22 +269,6 @@
       "discountPercent": 42.2,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/324320378-mawwal-energy-fada-gold-b110d081def9d7dc0717848362968311-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/mawwal-energy-fada-gold-kbde4/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1437728845",
-      "name": "Mawwal - Oasis Athar · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 199.0,
-      "originalPrice": 344.0,
-      "discountPercent": 42.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/324319383-mawwal-oasis-athar-91e221214615979b8817848362940233-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-oasis-athar-ltj7j/",
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
@@ -604,11 +588,11 @@
       "originalPrice": 2999.0,
       "discountPercent": 36.7,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351270735-the-fragrance-saphirre-passion-b25c8bc91d5e6fb2a317848376472715-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-saphire-passion-osw8n/",
+      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-saphire-passion-osw8n/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T10:51:31.600511+00:00",
+      "checkedAt": "2026-11-14T17:06:52.611390+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1100,11 +1084,11 @@
       "originalPrice": 3999.0,
       "discountPercent": 30.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
+      "checkedAt": "2026-11-14T17:06:52.611390+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1585,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-04T06:18:53.024012+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1432004854",
+      "name": "KUF - Body Cream MoneyGold · 250 ML",
+      "brand": "KUF",
+      "shop": "The King of Parfums",
+      "price": 59.0,
+      "originalPrice": 79.0,
+      "discountPercent": 25.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/1-_bodycream_moneygold-49c2de5a836579fe2517702333710524-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/kuf-body-cream-moneygold-16nbq/",
+      "category": "Perfumes",
+      "volumeMl": 250.0,
+      "concentration": null,
+      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
       "basis": "store-listed-reference"
     }
   ]
