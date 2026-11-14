@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-14T17:07:00.133000+00:00",
+  "updatedAt": "2026-11-14T21:29:38.088862+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 511,
+  "totalVerifiedDeals": 512,
   "products": [
     {
       "id": "king-1526509776",
@@ -176,7 +176,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
+      "checkedAt": "2026-11-14T21:29:31.994742+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -208,7 +208,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-09T18:48:37.763931+00:00",
+      "checkedAt": "2026-11-14T21:29:31.994742+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -257,22 +257,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-05T10:54:05.597046+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1437731478",
-      "name": "Mawwal - Energy Fada Gold · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 199.0,
-      "originalPrice": 344.0,
-      "discountPercent": 42.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/324320378-mawwal-energy-fada-gold-b110d081def9d7dc0717848362968311-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-energy-fada-gold-kbde4/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -737,22 +721,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-05T18:45:31.119636+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1437733308",
-      "name": "Mawwal - Zuhoor Red · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 199.0,
-      "originalPrice": 299.0,
-      "discountPercent": 33.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/324321143-mawwal-zuhoor-red-365a23a1361f55e7d817848362997043-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-zuhoor-red-2xeph/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1569,38 @@
       "volumeMl": 250.0,
       "concentration": null,
       "checkedAt": "2026-11-03T18:27:45.208557+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1263678072",
+      "name": "Mawwal - Symphony Saz · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/570bc582-400e-42a7-96ec-c790b0f4c98a-aed54640d0d424096217528647114846-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-symphony-saz/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1308097271",
+      "name": "Anfar - Azule Elite · 100 ML",
+      "brand": "Anfar",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-85-de038c07b6e689643d17572522353591-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfar-azule-elite/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
       "basis": "store-listed-reference"
     }
   ]
