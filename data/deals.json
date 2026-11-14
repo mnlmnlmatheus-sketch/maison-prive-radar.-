@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-14T03:14:40.572380+00:00",
+  "updatedAt": "2026-11-14T10:28:01.742314+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 521,
+  "totalVerifiedDeals": 515,
   "products": [
     {
       "id": "king-1526509776",
@@ -385,6 +385,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-11-08T17:03:53.310341+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1205936238",
+      "name": "Armaf - King CheckMate · 100 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 499.0,
+      "discountPercent": 40.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/armaf-king-acc790f47d127e7b5417458684616144-640-0-fd91dc30d00b0a6b9017471694956770-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-king-check-mate/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -976,7 +992,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-11-06T20:54:44.990626+00:00",
+      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1260,11 +1276,27 @@
       "originalPrice": 2199.0,
       "discountPercent": 28.2,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/333488229-gritti-neroli-extreme-aebfa54cdc7f7f296317848366998917-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gritti-neroli-extreme-12q21/",
+      "url": "https://www.thekingofparfums.com.br/produtos/gritti-neroli-extreme-12q21/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-03T02:55:43.062081+00:00",
+      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-969798946",
+      "name": "Xerjoff - Lira · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dsfsfsdf-3949fb31b97c2f474e17207903101917-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-lira/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1297,22 +1329,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-08T02:29:27.599624+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-969798946",
-      "name": "Xerjoff - Lira · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2499.0,
-      "discountPercent": 28.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dsfsfsdf-3949fb31b97c2f474e17207903101917-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-lira/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1540,6 +1556,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1206141095",
+      "name": "GIORNO BAGNO - SABONETE EM BARRA BELÍSSIMO · 180 GR",
+      "brand": "GIORNO BAGNO",
+      "shop": "The King of Parfums",
+      "price": 29.0,
+      "originalPrice": 39.0,
+      "discountPercent": 25.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-18-e8b49ed485701e917e17471740863119-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/giorno-bagno-sabonete-em-barra-belissimo/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": null,
+      "concentration": null,
+      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-505311307",
       "name": "Xerjoff - Amabile · 100ml",
       "brand": "Xerjoff",
@@ -1569,38 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-04T06:18:53.024012+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1432004854",
-      "name": "KUF - Body Cream MoneyGold · 250 ML",
-      "brand": "KUF",
-      "shop": "The King of Parfums",
-      "price": 59.0,
-      "originalPrice": 79.0,
-      "discountPercent": 25.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/1-_bodycream_moneygold-49c2de5a836579fe2517702333710524-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/kuf-body-cream-moneygold-16nbq/",
-      "category": "Perfumes",
-      "volumeMl": 250.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T18:27:45.208557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1263678072",
-      "name": "Mawwal - Symphony Saz · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/570bc582-400e-42a7-96ec-c790b0f4c98a-aed54640d0d424096217528647114846-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-symphony-saz/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
       "basis": "store-listed-reference"
     }
   ]
