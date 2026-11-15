@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-15T17:09:29.982525+00:00",
+  "updatedAt": "2026-11-15T21:48:25.183283+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 528,
+  "totalVerifiedDeals": 537,
   "products": [
     {
       "id": "king-1526509776",
@@ -65,6 +65,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-07T00:57:11.231680+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1131906654",
+      "name": "Rasasi - Hawas Elixir · 100 ML",
+      "brand": "Rasasi",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 599.0,
+      "discountPercent": 50.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/elixir-a4726dc98b54a35b5117400731066688-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rasasi-hawas-elixir-eau-de-parfum/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": "Elixir",
+      "checkedAt": "2026-11-15T21:48:18.837030+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -177,6 +193,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-11T14:28:06.215177+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1131898737",
+      "name": "Rasasi - Hawas Fire · 100 ML",
+      "brand": "Rasasi",
+      "shop": "The King of Parfums",
+      "price": 329.0,
+      "originalPrice": 599.0,
+      "discountPercent": 45.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/fire-0c2edc29c20664321f17400725894406-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rasasi-hawas-fire/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T21:48:18.837030+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -593,6 +625,22 @@
       "volumeMl": 80.0,
       "concentration": null,
       "checkedAt": "2026-11-12T18:55:21.015379+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1125340342",
+      "name": "Anfar London - The Jewel Of Night · 100 ML",
+      "brand": "Anfar London",
+      "shop": "The King of Parfums",
+      "price": 279.0,
+      "originalPrice": 436.0,
+      "discountPercent": 36.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/jewel-of-night-by-anfar-london-100-ml-perfume-bfbe76f0363f9d57ab17393006821121-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfar-london-the-jewel-of-night/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T21:48:18.837030+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1508,6 +1556,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1339126484",
+      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T21:48:18.837030+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1339121730",
       "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
       "brand": "Xerjoff",
@@ -1537,70 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-13T16:21:31.565271+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339126484",
-      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1489596624",
-      "name": "Marc Antoine Barrois - Aldebaran · 100 ML",
-      "brand": "Marc Antoine Barrois",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2699.0,
-      "discountPercent": 25.9,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334927280-marc-antoine-barrois-aldebaran-aef18d36e23960bc4917848368137058-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-aldebaran-1bwke/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T22:45:36.782649+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1206141095",
-      "name": "GIORNO BAGNO - SABONETE EM BARRA BELÍSSIMO · 180 GR",
-      "brand": "GIORNO BAGNO",
-      "shop": "The King of Parfums",
-      "price": 29.0,
-      "originalPrice": 39.0,
-      "discountPercent": 25.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-18-e8b49ed485701e917e17471740863119-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/giorno-bagno-sabonete-em-barra-belissimo/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": null,
-      "concentration": null,
-      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1572821180",
-      "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
-      "brand": "Stéphane Humbert Lucas 777",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/253058494-stephane-humbert-lucas-777-lady-white-snake-0fc3bde6a6118209c917848334218877-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-lady-white-snake/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
       "basis": "store-listed-reference"
     }
   ]

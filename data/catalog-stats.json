@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-15T17:09:29.982525+00:00",
-  "catalogTotal": 3537,
-  "verifiedLast14Days": 3521,
+  "updatedAt": "2026-11-15T21:48:25.183283+00:00",
+  "catalogTotal": 3542,
+  "verifiedLast14Days": 3526,
   "brandsIdentified": 286,
   "shops": [
     "DL Imports",
@@ -11,18 +11,18 @@
     "The King of Parfums"
   ],
   "categories": {
-    "Perfumes de nicho": 490,
-    "Perfumes": 243,
-    "Perfumes árabes": 195,
+    "Perfumes de nicho": 494,
+    "Perfumes árabes": 197,
+    "Perfumes": 250,
     "Perfumes designer": 75,
-    "Roupas": 1546,
+    "Calçados": 585,
+    "Roupas": 1544,
     "Bolsas": 148,
-    "Calçados": 591,
     "Acessórios": 214,
     "Joias": 8,
     "Outros": 27
   },
-  "perfumeCount": 1003,
-  "verifiedDeals": 528,
+  "perfumeCount": 1016,
+  "verifiedDeals": 537,
   "limitations": "Catálogo público em crescimento. Produtos podem estar indisponíveis e os preços no checkout podem diferir."
 }
