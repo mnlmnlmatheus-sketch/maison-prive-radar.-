@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-14T21:29:38.088862+00:00",
+  "updatedAt": "2026-11-15T01:55:13.254392+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 512,
+  "totalVerifiedDeals": 520,
   "products": [
     {
       "id": "king-1526509776",
@@ -516,6 +516,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1556851550",
+      "name": "Spirit of Kings - Arrakis · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Spirit of Kings",
+      "shop": "The King of Parfums",
+      "price": 999.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T01:55:07.208955+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1560817162",
       "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
       "brand": "Spirit Of Kings",
@@ -529,22 +545,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-04T21:52:50.916896+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1556851550",
-      "name": "Spirit of Kings - Arrakis · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Spirit of Kings",
-      "shop": "The King of Parfums",
-      "price": 999.0,
-      "originalPrice": 1599.0,
-      "discountPercent": 37.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -596,6 +596,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1562123765",
+      "name": "Spirit Of Kings - Harmony · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351981784-spirit-of-kings-harmony-a63310bcef6647e6d117848377178241-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-harmony-30e83/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T01:55:07.208955+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1526509648",
       "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
       "brand": "Boadicea",
@@ -628,22 +644,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1562123765",
-      "name": "Spirit Of Kings - Harmony · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Spirit Of Kings",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 35.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351981784-spirit-of-kings-harmony-a63310bcef6647e6d117848377178241-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-harmony-30e83/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-03T23:59:48.446158+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1487252774",
       "name": "Marc-Antoine Barrois - B683 · 100 ML",
       "brand": "Marc-Antoine Barrois",
@@ -657,6 +657,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-07T22:45:36.782649+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1168102455",
+      "name": "Dolce&Gabbana - Light Blue Capri In Love Pour Homme Eau de Parfum · 100 ML",
+      "brand": "Dolce&Gabbana",
+      "shop": "The King of Parfums",
+      "price": 649.0,
+      "originalPrice": 999.0,
+      "discountPercent": 35.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/capri-in-love-47cb4ef06c42e1ae7917431079069015-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/dolcegabbana-light-blue-capri-in-love-pour-homme-eau-de-parfum/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": "EDP",
+      "checkedAt": "2026-11-15T01:55:07.208955+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -689,6 +705,22 @@
       "volumeMl": 50.0,
       "concentration": "Parfum",
       "checkedAt": "2026-11-10T17:50:00.247212+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1491851250",
+      "name": "Rosendo Mateu - Nº 2 Citrus, Wood, Suede Leather · 100 ML",
+      "brand": "Rosendo Mateu",
+      "shop": "The King of Parfums",
+      "price": 1329.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 33.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/335421914-rosendo-mateu-no-2-citrus-wood-suede-leather-c52506d1ff55b49b9917848368308637-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rosendo-mateu-n-2-citrus-wood-suede-leather-18esv/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T01:55:07.208955+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 250.0,
       "concentration": null,
       "checkedAt": "2026-11-03T18:27:45.208557+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1263678072",
-      "name": "Mawwal - Symphony Saz · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/570bc582-400e-42a7-96ec-c790b0f4c98a-aed54640d0d424096217528647114846-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-symphony-saz/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1308097271",
-      "name": "Anfar - Azule Elite · 100 ML",
-      "brand": "Anfar",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-85-de038c07b6e689643d17572522353591-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/anfar-azule-elite/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
       "basis": "store-listed-reference"
     }
   ]
