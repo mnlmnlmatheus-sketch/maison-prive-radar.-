@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-15T09:24:34.228858+00:00",
+  "updatedAt": "2026-11-15T17:09:29.982525+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 529,
+  "totalVerifiedDeals": 528,
   "products": [
     {
       "id": "king-1526509776",
@@ -145,22 +145,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T23:19:35.161973+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1418615287",
-      "name": "Mawwal - Basir Dreams · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 199.0,
-      "originalPrice": 378.0,
-      "discountPercent": 47.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/320026050-mawwal-basir-dreams-0107954405164bf3a517848360826304-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-basir-dreams-1xtdf/",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T06:18:53.024012+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -477,10 +461,10 @@
       "discountPercent": 38.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dance-14d67e80ba5126930b17404235187861-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-sand-dance/?entry_path=category",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-13T16:21:31.565271+00:00",
+      "checkedAt": "2026-11-15T17:09:23.979811+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1585,22 @@
       "volumeMl": null,
       "concentration": null,
       "checkedAt": "2026-11-14T10:27:55.471675+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1572821180",
+      "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/253058494-stephane-humbert-lucas-777-lady-white-snake-0fc3bde6a6118209c917848334218877-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-lady-white-snake/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
       "basis": "store-listed-reference"
     }
   ]
