@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T21:48:25.183283+00:00",
-  "catalogTotal": 3542,
-  "verifiedLast14Days": 3526,
-  "brandsIdentified": 286,
+  "updatedAt": "2026-11-16T02:05:18.834951+00:00",
+  "catalogTotal": 3540,
+  "verifiedLast14Days": 3524,
+  "brandsIdentified": 289,
   "shops": [
     "DL Imports",
     "Droper",
@@ -12,17 +12,17 @@
   ],
   "categories": {
     "Perfumes de nicho": 494,
-    "Perfumes árabes": 197,
-    "Perfumes": 250,
-    "Perfumes designer": 75,
-    "Calçados": 585,
-    "Roupas": 1544,
-    "Bolsas": 148,
+    "Perfumes designer": 79,
+    "Perfumes": 254,
+    "Perfumes árabes": 200,
+    "Roupas": 1531,
     "Acessórios": 214,
+    "Bolsas": 148,
+    "Calçados": 585,
     "Joias": 8,
     "Outros": 27
   },
-  "perfumeCount": 1016,
-  "verifiedDeals": 537,
+  "perfumeCount": 1027,
+  "verifiedDeals": 543,
   "limitations": "Catálogo público em crescimento. Produtos podem estar indisponíveis e os preços no checkout podem diferir."
 }

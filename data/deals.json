@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-15T21:48:25.183283+00:00",
+  "updatedAt": "2026-11-16T02:05:18.834951+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 537,
+  "totalVerifiedDeals": 543,
   "products": [
     {
       "id": "king-1526509776",
@@ -548,6 +548,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1560817162",
+      "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 999.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/352535117-spirit-of-kings-sagira-67b06bd1aad541fc0417848377335556-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-sagira-1h3a6/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-16T02:05:11.774330+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1556851550",
       "name": "Spirit of Kings - Arrakis · 100 ML (S/CAIXA C/TAMPA)",
       "brand": "Spirit of Kings",
@@ -561,22 +577,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-15T01:55:07.208955+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1560817162",
-      "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
-      "brand": "Spirit Of Kings",
-      "shop": "The King of Parfums",
-      "price": 999.0,
-      "originalPrice": 1599.0,
-      "discountPercent": 37.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/352535117-spirit-of-kings-sagira-67b06bd1aad541fc0417848377335556-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-sagira-1h3a6/",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -844,11 +844,11 @@
       "originalPrice": 2849.0,
       "discountPercent": 33.3,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351272514-the-fragrance-emerald-shine-8b516bcb78eaef994517848376501247-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-emerald-shine-6c4ra/",
+      "url": "https://www.thekingofparfums.com.br/produtos/the-fragrance-emerald-shine-6c4ra/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-11-05T02:28:21.427260+00:00",
+      "checkedAt": "2026-11-16T02:05:11.774330+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -977,6 +977,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T23:19:35.161973+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1124651138",
+      "name": "Viktor&Rolf - Spicebomb Dark Leather · 90 ML",
+      "brand": "Viktor&Rolf",
+      "shop": "The King of Parfums",
+      "price": 899.0,
+      "originalPrice": 1299.0,
+      "discountPercent": 30.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/254758983-viktor-rolf-spicebomb-dark-leather-58767561439c77cf0317848335524228-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/viktorrolf-spicebomb-dark-leather/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 90.0,
+      "concentration": null,
+      "checkedAt": "2026-11-16T02:05:11.774330+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339122868",
-      "name": "Xerjoff - Duran Duran NeoRio Green · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192021-661-8c73e985dc3870066d17540004324299-640-0-f60d09869ae635074b17605438509674-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-green/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-13T16:21:31.565271+00:00",
       "basis": "store-listed-reference"
     }
   ]
