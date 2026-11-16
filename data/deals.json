@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16T02:05:18.834951+00:00",
+  "updatedAt": "2026-11-16T09:41:29.673552+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 543,
+  "totalVerifiedDeals": 545,
   "products": [
     {
       "id": "king-1526509776",
@@ -1021,10 +1021,10 @@
       "discountPercent": 30.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/venom-027b96bc7170a227f417381804006265-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-venom-incarnat/?entry_path=category",
-      "category": "Perfumes de nicho",
+      "category": "Perfumes",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-12T02:58:49.119907+00:00",
+      "checkedAt": "2026-11-16T09:41:23.779200+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1121,6 +1121,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-06T15:02:56.141775+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1116638501",
+      "name": "Armaf - Private Key To My Soul · 100 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 349.0,
+      "originalPrice": 499.0,
+      "discountPercent": 30.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/hair-oil-574a2de13248579f1417382390035334-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-private-key-to-my-soul/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-16T09:41:23.779200+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1585,22 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-15T21:48:18.837030+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339121730",
-      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
       "basis": "store-listed-reference"
     }
   ]
