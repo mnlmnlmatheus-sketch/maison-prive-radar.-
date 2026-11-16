@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16T09:41:29.673552+00:00",
+  "updatedAt": "2026-11-16T20:28:53.533798+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 545,
+  "totalVerifiedDeals": 542,
   "products": [
     {
       "id": "king-1526509776",
@@ -1540,22 +1540,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1409195748",
-      "name": "Lattafa - Sherif · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 219.0,
-      "originalPrice": 299.0,
-      "discountPercent": 26.8,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/318120624-lattafa-sherif-9a03966587832cc32f17848360238161-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-sherif-kmw0p/",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-04T21:52:50.916896+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1345406642",
       "name": "Nadia Ferreira - DAMA · 100 ML",
       "brand": "Nadia Ferreira",
@@ -1601,6 +1585,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-15T21:48:18.837030+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1339121730",
+      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
       "basis": "store-listed-reference"
     }
   ]

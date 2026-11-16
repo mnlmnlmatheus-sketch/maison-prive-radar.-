@@ -1,23 +1,23 @@
 {
   "cursor": 0,
   "pages": {
-    "king-niche": 30,
-    "king-all": 110
+    "king-niche": 31,
+    "king-all": 111
   },
-  "lastRunAt": "2026-11-16T09:41:23.779200+00:00",
+  "lastRunAt": "2026-11-16T20:28:46.083458+00:00",
   "verifiedThisRun": 25,
-  "addedThisRun": 10,
-  "catalogSize": 3510,
+  "addedThisRun": 11,
+  "catalogSize": 3511,
   "status": [
     {
       "source": "king-niche",
-      "page": 29,
+      "page": 30,
       "status": "ok",
       "variants": 12
     },
     {
       "source": "king-all",
-      "page": 109,
+      "page": 110,
       "status": "ok",
       "variants": 13
     }
