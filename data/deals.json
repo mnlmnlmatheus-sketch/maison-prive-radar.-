@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-17T13:24:04.055363+00:00",
+  "updatedAt": "2026-11-17T22:23:01.748725+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 530,
+  "totalVerifiedDeals": 523,
   "products": [
     {
       "id": "king-1526509776",
@@ -1060,22 +1060,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1356797503",
-      "name": "Mawwal - Dubai's Chocolate Pistachio · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 199.0,
-      "originalPrice": 286.0,
-      "discountPercent": 30.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/305029860-mawwal-dubai-s-chocolate-pistachio-8aa8a5e6997c3af0d917848356445759-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-dubais-chocolate-pistachio/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-06T15:02:56.141775+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1116638501",
       "name": "Armaf - Private Key To My Soul · 100 ML",
       "brand": "Armaf",
@@ -1601,6 +1585,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-16T09:41:23.779200+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-505311307",
+      "name": "Xerjoff - Amabile · 100ml",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T02:07:56.069735+00:00",
       "basis": "store-listed-reference"
     }
   ]
