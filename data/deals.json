@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-17T03:53:01.262715+00:00",
+  "updatedAt": "2026-11-17T13:24:04.055363+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 534,
+  "totalVerifiedDeals": 530,
   "products": [
     {
       "id": "king-1526509776",
@@ -1012,22 +1012,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1569856202",
-      "name": "Givenchy - Irresistible Nude Velvet · 50 ML",
-      "brand": "Givenchy",
-      "shop": "The King of Parfums",
-      "price": 479.0,
-      "originalPrice": 689.0,
-      "discountPercent": 30.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/309304063-givenchy-irresistible-nude-velvet-56e4f97e78717cc75217848357694375-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/givenchy-irresistible-nude-velvet-83h89/?entry_path=category",
-      "category": "Perfumes designer",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1232598083",
       "name": "French Avenue - Sweet Paradise · 100 ML",
       "brand": "French Avenue",
@@ -1428,22 +1412,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1586337017",
-      "name": "Birkholz - Paris Mon Amour · 100 ML (S/CAIXA)",
-      "brand": "Birkholz",
-      "shop": "The King of Parfums",
-      "price": 1599.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 27.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351980196-birkholz-paris-mon-amour-3d43e2ea509143e68217848377032373-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/birkholz-paris-mon-amour-pkt6f/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1299146148",
       "name": "Rabanne - Kit Invictus Victory · 100 ML x 150 ML x 10 ML",
       "brand": "Rabanne",
@@ -1601,6 +1569,38 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-07T22:45:36.782649+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1206141095",
+      "name": "GIORNO BAGNO - SABONETE EM BARRA BELÍSSIMO · 180 GR",
+      "brand": "GIORNO BAGNO",
+      "shop": "The King of Parfums",
+      "price": 29.0,
+      "originalPrice": 39.0,
+      "discountPercent": 25.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-18-e8b49ed485701e917e17471740863119-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/giorno-bagno-sabonete-em-barra-belissimo/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": null,
+      "concentration": null,
+      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1572821180",
+      "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
+      "brand": "Stéphane Humbert Lucas 777",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/253058494-stephane-humbert-lucas-777-lady-white-snake-0fc3bde6a6118209c917848334218877-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-lady-white-snake/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-16T09:41:23.779200+00:00",
       "basis": "store-listed-reference"
     }
   ]
