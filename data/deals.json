@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16T20:28:53.533798+00:00",
+  "updatedAt": "2026-11-17T03:53:01.262715+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 542,
+  "totalVerifiedDeals": 534,
   "products": [
     {
       "id": "king-1526509776",
@@ -241,38 +241,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-08T02:29:27.599624+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1369678901",
-      "name": "Mawwal - Sense Nawa · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 199.0,
-      "originalPrice": 349.0,
-      "discountPercent": 43.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/nawa-367247f5eb040721d417635797855912-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-sense-nawa-i2i0o/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-06T00:16:42.220006+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1390036714",
-      "name": "Mawwal - Ra'if · 100 ML",
-      "brand": "Mawwal",
-      "shop": "The King of Parfums",
-      "price": 199.0,
-      "originalPrice": 344.0,
-      "discountPercent": 42.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/313790082-mawwal-ra-if-0c39b5d2e9f9f4ece217848358972033-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-raif-aex7r/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-05T10:54:05.597046+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -756,6 +724,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1307057604",
+      "name": "Profumi Di Polignano - Crema Limone · 100 ML",
+      "brand": "Profumi Di Polignano",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 2299.0,
+      "discountPercent": 34.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-ee97dcae1c99a0c4dd17570984633539-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/profumi-di-polignano-crema-limone/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-17T03:52:54.921769+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1491851250",
       "name": "Rosendo Mateu - Nº 2 Citrus, Wood, Suede Leather · 100 ML",
       "brand": "Rosendo Mateu",
@@ -785,22 +769,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-14T03:14:34.099908+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1386007137",
-      "name": "MAISON ASRAR - Leo · 100 ML",
-      "brand": "MAISON ASRAR",
-      "shop": "The King of Parfums",
-      "price": 279.0,
-      "originalPrice": 419.0,
-      "discountPercent": 33.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-f6ef0d5e1d143ce30117655372446071-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/maison-asrar-leo-fez83/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-05T18:45:31.119636+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1569,38 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1339122868",
+      "name": "Xerjoff - Duran Duran NeoRio Green · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192021-661-8c73e985dc3870066d17540004324299-640-0-f60d09869ae635074b17605438509674-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-green/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-13T16:21:31.565271+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1489596624",
+      "name": "Marc Antoine Barrois - Aldebaran · 100 ML",
+      "brand": "Marc Antoine Barrois",
+      "shop": "The King of Parfums",
+      "price": 1999.0,
+      "originalPrice": 2699.0,
+      "discountPercent": 25.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334927280-marc-antoine-barrois-aldebaran-aef18d36e23960bc4917848368137058-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-aldebaran-1bwke/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-07T22:45:36.782649+00:00",
       "basis": "store-listed-reference"
     }
   ]
