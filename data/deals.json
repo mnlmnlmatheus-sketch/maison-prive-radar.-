@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:23:01.748725+00:00",
+  "updatedAt": "2026-11-18T04:19:26.821814+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
   "totalVerifiedDeals": 523,
   "products": [
@@ -1412,22 +1412,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1358642938",
-      "name": "Aurora Scents - Pharaoh · 100 ML",
-      "brand": "Aurora Scents",
-      "shop": "The King of Parfums",
-      "price": 349.0,
-      "originalPrice": 479.0,
-      "discountPercent": 27.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/305500224-aurora-scents-pharaoh-bec6277571f51a6d6e17848356665613-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/aurora-scents-pharaoh/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-06T15:02:56.141775+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1565531592",
       "name": "Xerjoff - Torino 21 · 100 ML (S/CAIXA)",
       "brand": "Xerjoff",
@@ -1601,6 +1585,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T02:07:56.069735+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1263678072",
+      "name": "Mawwal - Symphony Saz · 100 ML",
+      "brand": "Mawwal",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/570bc582-400e-42a7-96ec-c790b0f4c98a-aed54640d0d424096217528647114846-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mawwal-symphony-saz/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T17:50:00.247212+00:00",
       "basis": "store-listed-reference"
     }
   ]
