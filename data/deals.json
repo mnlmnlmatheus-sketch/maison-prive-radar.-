@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-18T04:19:26.821814+00:00",
+  "updatedAt": "2026-11-18T13:57:38.708765+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 523,
+  "totalVerifiedDeals": 505,
   "products": [
     {
       "id": "king-1526509776",
@@ -20,22 +20,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1337433807",
-      "name": "PARIS CORNER - Taskeen Marina · 100 ML",
-      "brand": "PARIS CORNER",
-      "shop": "The King of Parfums",
-      "price": 150.0,
-      "originalPrice": 355.0,
-      "discountPercent": 57.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-16-e60b3247440346f5cb17603842432270-640-0-0557a9dcdcf40dc0a717603843256010-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/paris-corner-taskeen-marina/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T14:01:03.831924+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1560818176",
       "name": "Boadicea - Harmonious · 100 ML (S/ CAIXA C/ TAMPA)",
       "brand": "Boadicea",
@@ -49,22 +33,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-12T02:58:49.119907+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1342639075",
-      "name": "Al Wataniah - Sabah Al Ward Sugar · 100 ML",
-      "brand": "Al Wataniah",
-      "shop": "The King of Parfums",
-      "price": 179.0,
-      "originalPrice": 378.0,
-      "discountPercent": 52.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/301320430-al-wataniah-sabah-al-ward-sugar-74211ca9a068674ac117848355731102-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/al-wataniah-sabah-al-ward-sugar/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T00:57:11.231680+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -276,22 +244,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1334834506",
-      "name": "Orientica - Desert Dusk · 80 ML",
-      "brand": "Orientica",
-      "shop": "The King of Parfums",
-      "price": 699.0,
-      "originalPrice": 1189.0,
-      "discountPercent": 41.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-00f2d96d69af4ccda817600351050738-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/orientica-desert-dusk/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 80.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T14:01:03.831924+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1302892091",
       "name": "Kajal - Masa · 100 ML",
       "brand": "Kajal",
@@ -369,22 +321,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-13T07:56:36.494814+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1337412659",
-      "name": "Anfar - The Jewel of Ocean · 100 ML",
-      "brand": "Anfar",
-      "shop": "The King of Parfums",
-      "price": 279.0,
-      "originalPrice": 461.0,
-      "discountPercent": 39.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-13-85fbd7af89b57f3e1917603833969331-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/anfar-the-jewel-of-ocean/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T14:01:03.831924+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1380,22 +1316,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1337455470",
-      "name": "PARIS CORNER - Zodiac Lunaris · 100 ML",
-      "brand": "PARIS CORNER",
-      "shop": "The King of Parfums",
-      "price": 239.0,
-      "originalPrice": 329.0,
-      "discountPercent": 27.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-19-b4899663731124eba017603850052032-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/paris-corner-zodiac-lunaris/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T07:09:33.073299+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1299146148",
       "name": "Rabanne - Kit Invictus Victory · 100 ML x 150 ML x 10 ML",
       "brand": "Rabanne",
@@ -1441,22 +1361,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1345406642",
-      "name": "Nadia Ferreira - DAMA · 100 ML",
-      "brand": "Nadia Ferreira",
-      "shop": "The King of Parfums",
-      "price": 279.0,
-      "originalPrice": 379.0,
-      "discountPercent": 26.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-5b042666b5bf4aa48a17611600748308-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nadia-ferreira-dama/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T00:57:11.231680+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1505,102 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T17:50:00.247212+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1308097271",
+      "name": "Anfar - Azule Elite · 100 ML",
+      "brand": "Anfar",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 399.0,
+      "discountPercent": 25.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-85-de038c07b6e689643d17572522353591-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/anfar-azule-elite/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-08T10:19:24.884981+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1466828638",
+      "name": "Xerjoff - Alexandria II Anniversary · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 2999.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/captura-de-tela-2026-03-05-145437-b6b147a98e5768437817727332846410-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-alexandria-ii-anniversary-uvxkg/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-13T22:37:12.163544+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-339854874",
+      "name": "Tiziana Terenzi - Orion · 100 ML",
+      "brand": "Tiziana Terenzi",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2399.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/89155165-tiziana-terenzi-orion-9f03cc079ddb6ebe4017848264789376-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/tiziana-terenzi-orion/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1480633616",
+      "name": "Imperial Parfums - Kashmir · 100 ML",
+      "brand": "Imperial Parfums",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-10T02:07:56.069735+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1375467695",
+      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
+      "brand": "Nishane",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1241745908",
+      "name": "Armaf - The Lion's Club Monarque · 100 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 329.0,
+      "originalPrice": 436.0,
+      "discountPercent": 24.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/lion-club-85a12f392fa0c1437517507104124316-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-the-lions-club-monarque/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-12T18:55:21.015379+00:00",
       "basis": "store-listed-reference"
     }
   ]
