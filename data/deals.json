@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:57:38.708765+00:00",
+  "updatedAt": "2026-11-18T21:56:11.701120+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
   "totalVerifiedDeals": 505,
   "products": [
@@ -49,6 +49,38 @@
       "volumeMl": 100.0,
       "concentration": "Elixir",
       "checkedAt": "2026-11-15T21:48:18.837030+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1083506451",
+      "name": "Al Haramain - Detour Noir Intense · 100 ML",
+      "brand": "Al Haramain",
+      "shop": "The King of Parfums",
+      "price": 249.0,
+      "originalPrice": 499.0,
+      "discountPercent": 50.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/intense-1e1bcf48b0cfc86e2917338511087298-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/al-haramain-detour-noir-intense/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-18T21:56:05.898532+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1083508434",
+      "name": "Al Haramain - Détour Rouge · 100 ML",
+      "brand": "Al Haramain",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 399.0,
+      "discountPercent": 50.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/rouge-08958a84561d78675e17338512876931-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/al-haramain-detour-rouge/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-18T21:56:05.898532+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -804,22 +836,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1518673646",
-      "name": "Electimuss - Aurora · 100 ML",
-      "brand": "Electimuss",
-      "shop": "The King of Parfums",
-      "price": 1699.0,
-      "originalPrice": 2499.0,
-      "discountPercent": 32.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342266241-electimuss-aurora-7acf5f0d8600af978117848372284104-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/electimuss-aurora-12rkf/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T18:48:10.701721+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1266778853",
       "name": "Lattafa - Qaed Al Fursan Untamed · 100 ML",
       "brand": "Lattafa",
@@ -1316,6 +1332,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1086228681",
+      "name": "Bharara - Viking Rio · 100 ML",
+      "brand": "Bharara",
+      "shop": "The King of Parfums",
+      "price": 579.0,
+      "originalPrice": 799.0,
+      "discountPercent": 27.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/imagem-do-whatsapp-de-2024-12-13-as-13-19-16_acccbc25-cc9bbc3209d2c3689817341082340007-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bharara-viking-rio/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-18T21:56:05.898532+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1299146148",
       "name": "Rabanne - Kit Invictus Victory · 100 ML x 150 ML x 10 ML",
       "brand": "Rabanne",
@@ -1444,6 +1476,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1086240153",
+      "name": "Bharara - Viking Kashmir · 100 ML",
+      "brand": "Bharara",
+      "shop": "The King of Parfums",
+      "price": 579.0,
+      "originalPrice": 779.0,
+      "discountPercent": 25.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/imagem-do-whatsapp-de-2024-12-13-as-13-19-15_68faadbc-83ef371029ab88785817341084635517-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bharara-viking-kashmir/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-18T21:56:05.898532+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1206141095",
       "name": "GIORNO BAGNO - SABONETE EM BARRA BELÍSSIMO · 180 GR",
       "brand": "GIORNO BAGNO",
@@ -1553,54 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T23:19:35.161973+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1480633616",
-      "name": "Imperial Parfums - Kashmir · 100 ML",
-      "brand": "Imperial Parfums",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T02:07:56.069735+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1375467695",
-      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
-      "brand": "Nishane",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1241745908",
-      "name": "Armaf - The Lion's Club Monarque · 100 ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 329.0,
-      "originalPrice": 436.0,
-      "discountPercent": 24.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/lion-club-85a12f392fa0c1437517507104124316-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-the-lions-club-monarque/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-12T18:55:21.015379+00:00",
       "basis": "store-listed-reference"
     }
   ]
