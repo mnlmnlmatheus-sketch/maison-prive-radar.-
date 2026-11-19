@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-18T21:56:11.701120+00:00",
+  "updatedAt": "2026-11-19T03:26:23.768166+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 505,
+  "totalVerifiedDeals": 492,
   "products": [
     {
       "id": "king-1526509776",
@@ -20,6 +20,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1080914823",
+      "name": "Riiffs - Goodness Oud Purple · 100 ML",
+      "brand": "Riiffs",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 529.0,
+      "discountPercent": 62.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/godd-069d645c087fd56e9c17335219936573-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-goodness-oud-purple/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-19T03:26:17.705867+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1560818176",
       "name": "Boadicea - Harmonious · 100 ML (S/ CAIXA C/ TAMPA)",
       "brand": "Boadicea",
@@ -33,6 +49,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-12T02:58:49.119907+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1080883240",
+      "name": "Riiffs - Imperial Rouge · 100 ML",
+      "brand": "Riiffs",
+      "shop": "The King of Parfums",
+      "price": 179.0,
+      "originalPrice": 379.0,
+      "discountPercent": 52.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/rouge-df5f0e6562af66e95517335205031684-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-imperial-rouge/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-19T03:26:17.705867+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -228,22 +260,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1048032090",
-      "name": "Creed - Delphinus · 100 ML",
-      "brand": "Creed",
-      "shop": "The King of Parfums",
-      "price": 2999.0,
-      "originalPrice": 5289.0,
-      "discountPercent": 43.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/238753503-creed-delphinus-4a4a864303988f6e0b17848325369871-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/creed-delphinus/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-08T02:29:27.599624+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-504389811",
       "name": "Xerjoff - Dolce Amalfi · 100 ML",
       "brand": "Xerjoff",
@@ -321,6 +337,22 @@
       "volumeMl": 105.0,
       "concentration": null,
       "checkedAt": "2026-11-08T17:03:53.310341+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1585680070",
+      "name": "Riiffs - Intrepid · 100 ML (S/CAIXA)",
+      "brand": "Riiffs",
+      "shop": "The King of Parfums",
+      "price": 149.0,
+      "originalPrice": 249.0,
+      "discountPercent": 40.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/intrepid-0fc7d28031a859d94917335207520644-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-intrepid/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-19T03:26:17.705867+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -628,22 +660,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1487252774",
-      "name": "Marc-Antoine Barrois - B683 · 100 ML",
-      "brand": "Marc-Antoine Barrois",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 3104.0,
-      "discountPercent": 35.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334474439-marc-antoine-barrois-b683-c8531d8673e26bb2a017848367717659-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-b683-1k2c7/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T22:45:36.782649+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1168102455",
       "name": "Dolce&Gabbana - Light Blue Capri In Love Pour Homme Eau de Parfum · 100 ML",
       "brand": "Dolce&Gabbana",
@@ -737,6 +753,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-14T03:14:34.099908+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1080892947",
+      "name": "Riiffs - Intrepid · 100 ML",
+      "brand": "Riiffs",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 299.0,
+      "discountPercent": 33.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/intrepid-0fc7d28031a859d94917335207520644-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/riiffs-intrepid/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-19T03:26:17.705867+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1460,22 +1492,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1489596624",
-      "name": "Marc Antoine Barrois - Aldebaran · 100 ML",
-      "brand": "Marc Antoine Barrois",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 2699.0,
-      "discountPercent": 25.9,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/334927280-marc-antoine-barrois-aldebaran-aef18d36e23960bc4917848368137058-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/marc-antoine-barrois-aldebaran-1bwke/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-07T22:45:36.782649+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1086240153",
       "name": "Bharara - Viking Kashmir · 100 ML",
       "brand": "Bharara",
@@ -1585,22 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-13T22:37:12.163544+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-339854874",
-      "name": "Tiziana Terenzi - Orion · 100 ML",
-      "brand": "Tiziana Terenzi",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2399.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/89155165-tiziana-terenzi-orion-9f03cc079ddb6ebe4017848264789376-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/tiziana-terenzi-orion/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
       "basis": "store-listed-reference"
     }
   ]

@@ -1,55 +1,55 @@
 {
-  "lastRunAt": "2026-11-18T21:55:37.853987+00:00",
-  "cursor": 27,
-  "verifiedThisRun": 575,
-  "addedThisRun": 3,
+  "lastRunAt": "2026-11-19T03:25:44.956605+00:00",
+  "cursor": 5,
+  "verifiedThisRun": 704,
+  "addedThisRun": 24,
   "catalogSize": 3500,
   "status": [
     {
-      "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/feminino/acessorios/oculos",
-      "status": "ok",
-      "verified": 33
-    },
-    {
-      "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/feminino/acessorios/cintos",
+      "category": "Calçados",
+      "url": "https://www.oqvestir.com.br/masculino/sapatos",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/masculino/acessorios/cintos",
-      "status": "ok",
-      "verified": 58
-    },
-    {
-      "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/masculino/sapatos/sapatos",
-      "status": "ok",
-      "verified": 44
-    },
-    {
-      "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/masculino/roupas/bermudas-e-shorts/bermudas",
+      "url": "https://www.oqvestir.com.br/made-by-oqvestir/feminino/acessorios",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Roupas",
-      "url": "https://www.oqvestir.com.br/feminino/roupas/bermudas-e-shorts/shorts",
+      "url": "https://www.oqvestir.com.br/masculino/roupas",
       "status": "ok",
       "verified": 88
     },
     {
-      "category": "Acessórios",
-      "url": "https://www.oqvestir.com.br/feminino/acessorios",
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/casacos-e-jaquetas/jaquetas",
       "status": "ok",
       "verified": 88
     },
     {
       "category": "Calçados",
-      "url": "https://www.oqvestir.com.br/feminino/sapatos",
+      "url": "https://www.oqvestir.com.br/feminino/sapatos/tenis",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Bolsas",
+      "url": "https://www.oqvestir.com.br/feminino/acessorios/bolsas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/masculino/roupas/camisetas",
+      "status": "ok",
+      "verified": 88
+    },
+    {
+      "category": "Roupas",
+      "url": "https://www.oqvestir.com.br/feminino/roupas/vestidos",
       "status": "ok",
       "verified": 88
     }
