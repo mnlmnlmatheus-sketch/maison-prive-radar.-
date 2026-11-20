@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-19T21:31:41.087918+00:00",
+  "updatedAt": "2026-11-20T03:13:26.101144+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 456,
+  "totalVerifiedDeals": 457,
   "products": [
     {
       "id": "king-1526509776",
@@ -321,22 +321,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-10T17:50:00.247212+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-368423199",
-      "name": "Xerjoff - Decas · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2999.0,
-      "discountPercent": 41.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/xerjoff-decas1-26f76367a9639be0f116293134383543-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-decas/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-09T00:54:41.154361+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -721,6 +705,22 @@
       "volumeMl": 100.0,
       "concentration": "EDP",
       "checkedAt": "2026-11-15T01:55:07.208955+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1066693053",
+      "name": "Nabeel - Ocean Blue · 100 ML",
+      "brand": "Nabeel",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 459.0,
+      "discountPercent": 34.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/ocean-blue-a07c3709ec5c9d142117319555738284-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/nabeel-ocean-blue/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-20T03:13:20.221175+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1204,22 +1204,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1284938979",
-      "name": "Narciso Rodriguez - Narciso Rodriguez For Her Intense · 30 ML",
-      "brand": "Narciso Rodriguez",
-      "shop": "The King of Parfums",
-      "price": 499.0,
-      "originalPrice": 699.0,
-      "discountPercent": 28.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-08-11t205335-869-a9f72ca8b76b7e745c17549565169455-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/narciso-rodriguez-narciso-rodriguez-for-her-intense/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 30.0,
-      "concentration": null,
-      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1483090469",
       "name": "Gritti - Neroli Extreme · 100 ML",
       "brand": "Gritti",
@@ -1233,6 +1217,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-14T10:27:55.471675+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1126164589",
+      "name": "Xerjoff - JTC 400 · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/400-527dc0fc4e16e87c5d17316154656642-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-jtc-400/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-20T03:13:20.221175+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1263,22 +1263,6 @@
       "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-dama-bianca/?entry_path=category",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1126164589",
-      "name": "Xerjoff - JTC 400 · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2499.0,
-      "discountPercent": 28.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/400-527dc0fc4e16e87c5d17316154656642-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-jtc-400/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
       "basis": "store-listed-reference"
@@ -1361,6 +1345,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1359259723",
+      "name": "Xerjoff - Erba Gold · 100 ML (S/ CAIXA)",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1399.0,
+      "originalPrice": 1899.0,
+      "discountPercent": 26.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/vibe-erba-gold-a-1-550x550-99f3b6d33bbe12a3f017237368868695-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-erba-gold/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-20T03:13:20.221175+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1572,22 +1572,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1375467695",
-      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
-      "brand": "Nishane",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-09T07:58:18.992603+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1218323015",
       "name": "Versace - Eros Energy · 100 ML",
       "brand": "Versace",
@@ -1598,6 +1582,22 @@
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/erosenergy-14a33e00914cf2031317337803588308-1024-1024.webp",
       "url": "https://www.thekingofparfums.com.br/produtos/versace-eros-energy/?entry_path=category",
       "category": "Perfumes designer",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-18T21:56:05.898532+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1086219332",
+      "name": "Bharara - King Gold Edition · 100 ML",
+      "brand": "Bharara",
+      "shop": "The King of Parfums",
+      "price": 599.0,
+      "originalPrice": 799.0,
+      "discountPercent": 25.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kinggold-15072c43048249592217341080288300-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bharara-king-gold-edition/?entry_path=category",
+      "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-18T21:56:05.898532+00:00",
