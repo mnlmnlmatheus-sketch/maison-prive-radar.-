@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-21T09:49:07.699911+00:00",
+  "updatedAt": "2026-11-21T17:31:11.708745+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 473,
+  "totalVerifiedDeals": 487,
   "products": [
     {
       "id": "king-1526509776",
@@ -164,22 +164,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1555709781",
-      "name": "Boadicea - Azrak · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 3799.0,
-      "discountPercent": 47.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/339943061-boadicea-azrak-bb4ad09712e349f8e817848370871560-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-azrak-1m7fr/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1353110336",
       "name": "Xerjoff - Torino 22 · 50 ML",
       "brand": "Xerjoff",
@@ -241,6 +225,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-19T13:03:11.466829+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1007434613",
+      "name": "Mercedes Benz - Woman In Red · 60 ML",
+      "brand": "Mercedes Benz",
+      "shop": "The King of Parfums",
+      "price": 189.0,
+      "originalPrice": 349.0,
+      "discountPercent": 45.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/inred-2ce066e1a2211a132717252777395186-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/mercedes-benz-woman-in-red1/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 60.0,
+      "concentration": null,
+      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -484,6 +484,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1276197043",
+      "name": "Creed - Love in White · 75ML S/CAIXA S/TAMPA",
+      "brand": "Creed",
+      "shop": "The King of Parfums",
+      "price": 1199.0,
+      "originalPrice": 1954.0,
+      "discountPercent": 38.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/141525212-creed-love-in-white-e5679b8c62daa78e0217848283419909-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/creed-love-in-white/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1080692266",
       "name": "Lattafa - Teriaq Intense · 100 ML",
       "brand": "Lattafa",
@@ -524,11 +540,11 @@
       "originalPrice": 2099.0,
       "discountPercent": 38.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/lamar_noir-shop_1_afcb9289-29cf-4e99-a04d-6b5d086b04e5_2033x-54848a1fe954ce906b17417146456618-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/kajal-lamar-noir/?entry_path=category",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/kajal-lamar-noir/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
+      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -916,22 +932,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1631590283",
-      "name": "Initio - Oud for Happiness · 90 ML S/CAIXA",
-      "brand": "Initio",
-      "shop": "The King of Parfums",
-      "price": 1899.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 32.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/blac1-d4624198515a03a7c416807987391482-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/initio-oud-for-happiness/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 90.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1058673462",
       "name": "Stella Dustin - Self Legends · 100 ML",
       "brand": "Stella Dustin",
@@ -1236,6 +1236,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1018957670",
+      "name": "Rabanne - Million Gold for Her · 30 ML",
+      "brand": "Rabanne",
+      "shop": "The King of Parfums",
+      "price": 429.0,
+      "originalPrice": 599.0,
+      "discountPercent": 28.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/rr-c4aaef6ddff854c76b17265727411161-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rabanne-million-gold-for-her/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 30.0,
+      "concentration": null,
+      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1483090469",
       "name": "Gritti - Neroli Extreme · 100 ML",
       "brand": "Gritti",
@@ -1508,6 +1524,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-505311307",
+      "name": "Xerjoff - Amabile · 100ml",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1572821180",
       "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
       "brand": "Stéphane Humbert Lucas 777",
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-13T22:37:12.163544+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-339854874",
-      "name": "Tiziana Terenzi - Orion · 100 ML",
-      "brand": "Tiziana Terenzi",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2399.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/89155165-tiziana-terenzi-orion-9f03cc079ddb6ebe4017848264789376-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/tiziana-terenzi-orion/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T23:19:35.161973+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1375467695",
-      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
-      "brand": "Nishane",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-21T01:34:27.292460+00:00",
       "basis": "store-listed-reference"
     }
   ]
