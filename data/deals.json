@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-20T20:16:35.097889+00:00",
+  "updatedAt": "2026-11-21T01:34:33.813220+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 466,
+  "totalVerifiedDeals": 471,
   "products": [
     {
       "id": "king-1526509776",
@@ -820,6 +820,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1031288333",
+      "name": "Afnan - Souvenir Blooming Bliss · 100 ML",
+      "brand": "Afnan",
+      "shop": "The King of Parfums",
+      "price": 299.0,
+      "originalPrice": 449.0,
+      "discountPercent": 33.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/souven-22cc0132efc9d20fb817278955157045-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/afnan-souvenir-blooming-bliss/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-21T01:34:27.292460+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1218324322",
       "name": "Armaf - Club De Nuit Lionheart Man · 100 ML",
       "brand": "Armaf",
@@ -961,22 +977,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-20T11:38:42.381019+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1266778853",
-      "name": "Lattafa - Qaed Al Fursan Untamed · 100 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 179.0,
-      "originalPrice": 263.0,
-      "discountPercent": 31.9,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/qaed-667ad3c878f3f17ced17531913943499-640-0-9dac6cacf8f4ae996217531915106373-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-qaed-al-fursan-untamed/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1172,22 +1172,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1536244927",
-      "name": "Boadicea - Blue Sapphire · 100 ML (S/ CAIXA e COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 3289.0,
-      "originalPrice": 4699.0,
-      "discountPercent": 30.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1518660647",
       "name": "Boadicea - Empire · 100 ML",
       "brand": "Boadicea",
@@ -1233,22 +1217,6 @@
       "volumeMl": 30.0,
       "concentration": null,
       "checkedAt": "2026-11-13T00:22:14.640565+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1524626741",
-      "name": "Boadicea - Blue Sapphire · 100 ML",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 3549.0,
-      "originalPrice": 4999.0,
-      "discountPercent": 29.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-10T09:49:08.588171+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1412,6 +1380,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1024170099",
+      "name": "Al Haramain - Amber Oud Dubai Night · 100 ML",
+      "brand": "Al Haramain",
+      "shop": "The King of Parfums",
+      "price": 499.0,
+      "originalPrice": 689.0,
+      "discountPercent": 27.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/233017677-al-haramain-amber-oud-dubai-night-f57b922bdeae4fcdc117848323122786-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/al-haramain-amber-oud-dubai-night/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-21T01:34:27.292460+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1524613707",
       "name": "Boadicea - Azrak · 100 ML",
       "brand": "Boadicea",
@@ -1505,6 +1489,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1032131006",
+      "name": "Maison Alhambra - Salvo Eau de Parfum · 100 ML",
+      "brand": "Maison Alhambra",
+      "shop": "The King of Parfums",
+      "price": 235.0,
+      "originalPrice": 319.0,
+      "discountPercent": 26.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/234962146-maison-alhambra-salvo-eau-de-parfum-b483f9a3bdf771aa6417848323789406-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/maison-alhambra-salvo-eau-de-parfum/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": "EDP",
+      "checkedAt": "2026-11-21T01:34:27.292460+00:00",
       "basis": "store-listed-reference"
     },
     {
