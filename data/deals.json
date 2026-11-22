@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-22T11:22:07.265416+00:00",
+  "updatedAt": "2026-11-22T19:38:11.103921+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 491,
+  "totalVerifiedDeals": 500,
   "products": [
     {
       "id": "king-1526509776",
@@ -33,6 +33,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-19T03:26:17.705867+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1560818176",
+      "name": "Boadicea - Harmonious · 100 ML (S/ CAIXA C/ TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 55.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344160961-boadicea-harmonious-28a3f55c34140c761b17848373310475-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T19:38:05.071041+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -225,6 +241,22 @@
       "volumeMl": 60.0,
       "concentration": null,
       "checkedAt": "2026-11-21T17:31:05.508036+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1528888648",
+      "name": "Boadicea - Bodacious · 100 ML (S/ CAIXA e COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 3299.0,
+      "discountPercent": 45.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344159150-boadicea-bodacious-98c9cdb4027384132417849130442760-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T19:38:05.071041+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -564,6 +596,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1524622978",
+      "name": "Boadicea - Harmonious · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2499.0,
+      "originalPrice": 3999.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344160961-boadicea-harmonious-28a3f55c34140c761b17848373310475-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-harmonious-1y0d2/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T19:38:05.071041+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1560817162",
       "name": "Spirit Of Kings - Sagira · 100 ML (S/ CAIXA C/ TAMPA)",
       "brand": "Spirit Of Kings",
@@ -612,6 +660,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1562130146",
+      "name": "Thameen - Patiala · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Thameen",
+      "shop": "The King of Parfums",
+      "price": 1569.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 37.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/patiala-573c63c84f168ff99717539006108657-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/thameen-patiala/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T19:38:05.071041+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1562135993",
       "name": "The Fragrance - Saphirre Passion · 75 ML (SEM CAIXA)",
       "brand": "The Fragrance",
@@ -625,22 +689,6 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-11-14T17:06:52.611390+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1241734498",
-      "name": "Orientica - Noble · 80 ML",
-      "brand": "Orientica",
-      "shop": "The King of Parfums",
-      "price": 699.0,
-      "originalPrice": 1099.0,
-      "discountPercent": 36.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-62-c1d0faa60397d1caf017492709170891-640-0-e50b7c36395187201517507099381659-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/orientica-noble/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 80.0,
-      "concentration": null,
-      "checkedAt": "2026-11-12T18:55:21.015379+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -820,22 +868,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1562128404",
-      "name": "Boadicea - Blue Sapphire Supercharged · 100 ML (S/CAIXA C/TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 4999.0,
-      "originalPrice": 7499.0,
-      "discountPercent": 33.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351259805-boadicea-blue-sapphire-supercharged-3247950981eb7a165817848376294444-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-supercharged-1t7yz/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-12T18:55:21.015379+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1178141512",
       "name": "Xerjoff - Mefisto Gentiluomo · 100 ML",
       "brand": "Xerjoff",
@@ -961,6 +993,22 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-13T00:22:14.640565+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1417322414",
+      "name": "Stella Dustin - Capri - comprar online · 100 ML",
+      "brand": "Stella Dustin",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 289.0,
+      "discountPercent": 31.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-4-8f8f8ef7b4a455366617689935708264-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/stella-dustin-capri-1dwex/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T19:38:05.071041+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1124,6 +1172,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-967324733",
+      "name": "Paco Rabanne - Phantom Intense · 100 ML",
+      "brand": "Paco Rabanne",
+      "shop": "The King of Parfums",
+      "price": 699.0,
+      "originalPrice": 999.0,
+      "discountPercent": 30.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/phantom-intense-180ac6de337b76ce8d17204648479177-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/paco-rabanne-phantom-intense/?entry_path=category",
+      "category": "Perfumes designer",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T19:38:05.071041+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1151920457",
       "name": "Al Haramain - Portfolio Imperial Oud - comprar online · 75 ML",
       "brand": "Al Haramain",
@@ -1169,6 +1233,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-22T03:12:44.885695+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1524612413",
+      "name": "Boadicea - Bodacious · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 2559.0,
+      "originalPrice": 3599.0,
+      "discountPercent": 28.9,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344159150-boadicea-bodacious-98c9cdb4027384132417849130442760-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-bodacious-1kar1/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T19:38:05.071041+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1521,86 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-18T21:56:05.898532+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-968481329",
-      "name": "Lattafa - Atlas · 55 ML",
-      "brand": "Lattafa",
-      "shop": "The King of Parfums",
-      "price": 319.0,
-      "originalPrice": 429.0,
-      "discountPercent": 25.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/220341043-lattafa-atlas-d2eab40ced57d2b41417848317727713-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-atlas/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 55.0,
-      "concentration": null,
-      "checkedAt": "2026-11-22T11:22:01.007797+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1206141095",
-      "name": "GIORNO BAGNO - SABONETE EM BARRA BELÍSSIMO · 180 GR",
-      "brand": "GIORNO BAGNO",
-      "shop": "The King of Parfums",
-      "price": 29.0,
-      "originalPrice": 39.0,
-      "discountPercent": 25.6,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-18-e8b49ed485701e917e17471740863119-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/giorno-bagno-sabonete-em-barra-belissimo/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": null,
-      "concentration": null,
-      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-505311307",
-      "name": "Xerjoff - Amabile · 100ml",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1572821180",
-      "name": "Stéphane Humbert Lucas 777 - Lady White Snake · 50 ML (S/CAIXA C/TAMPA)",
-      "brand": "Stéphane Humbert Lucas 777",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/253058494-stephane-humbert-lucas-777-lady-white-snake-0fc3bde6a6118209c917848334218877-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-lady-white-snake/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-16T09:41:23.779200+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1080206844",
-      "name": "Armaf - Club de Nuit Woman 10ML · 10ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 79.0,
-      "originalPrice": 106.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/245753377-armaf-club-de-nuit-woman-10ml-d893942f2b570d588b17848328162679-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-woman-10ml/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 10.0,
-      "concentration": null,
-      "checkedAt": "2026-11-19T21:31:34.703936+00:00",
       "basis": "store-listed-reference"
     }
   ]
