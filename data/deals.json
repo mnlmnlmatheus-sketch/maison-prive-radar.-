@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-21T23:15:11.948243+00:00",
+  "updatedAt": "2026-11-22T03:12:50.938257+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 485,
+  "totalVerifiedDeals": 491,
   "products": [
     {
       "id": "king-1526509776",
@@ -129,6 +129,22 @@
       "volumeMl": 100.0,
       "concentration": "Elixir",
       "checkedAt": "2026-11-12T02:58:49.119907+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1513596350",
+      "name": "Sospiro - Cavatina · 75 ML (SEM CAIXA)",
+      "brand": "Sospiro",
+      "shop": "The King of Parfums",
+      "price": 1199.0,
+      "originalPrice": 2299.0,
+      "discountPercent": 47.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-9703e6506cddf9d88b17555515178018-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/sospiro-cavatina/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 75.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T03:12:44.885695+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -604,11 +620,11 @@
       "originalPrice": 3499.0,
       "discountPercent": 37.2,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/paragon-6115c83855acba9d6b17313288279047-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/initio-paragon/?entry_path=category",
+      "url": "https://www.thekingofparfums.com.br/produtos/initio-paragon/?entry_path=category&entry_category_id=8624724",
       "category": "Perfumes de nicho",
       "volumeMl": 90.0,
       "concentration": null,
-      "checkedAt": "2026-11-20T11:38:42.381019+00:00",
+      "checkedAt": "2026-11-22T03:12:44.885695+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -737,6 +753,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-20T03:13:20.221175+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1048984450",
+      "name": "Xerjoff - Tony Iommi Deified Parfum · 50ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2759.0,
+      "discountPercent": 34.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/captura-de-tela-2024-10-25-192556-741a25562763c6200317298951909384-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-tony-iommi-deified-parfum/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": "Parfum",
+      "checkedAt": "2026-11-22T03:12:44.885695+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1092,6 +1124,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1536244927",
+      "name": "Boadicea - Blue Sapphire · 100 ML (S/ CAIXA e COM TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 3289.0,
+      "originalPrice": 4699.0,
+      "discountPercent": 30.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T03:12:44.885695+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1518660647",
       "name": "Boadicea - Empire · 100 ML",
       "brand": "Boadicea",
@@ -1140,6 +1188,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1524626741",
+      "name": "Boadicea - Blue Sapphire · 100 ML",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 3549.0,
+      "originalPrice": 4999.0,
+      "discountPercent": 29.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/340651025-boadicea-blue-sapphire-28aa830980262cda5817848371402306-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-acvy9/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T03:12:44.885695+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1061234744",
       "name": "Initio - Paragon · 90 ML",
       "brand": "Initio",
@@ -1148,11 +1212,11 @@
       "originalPrice": 3499.0,
       "discountPercent": 28.6,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/paragon-6115c83855acba9d6b17313288279047-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/initio-paragon/?entry_path=category",
+      "url": "https://www.thekingofparfums.com.br/produtos/initio-paragon/?entry_path=category&entry_category_id=8624724",
       "category": "Perfumes de nicho",
       "volumeMl": 90.0,
       "concentration": null,
-      "checkedAt": "2026-11-20T11:38:42.381019+00:00",
+      "checkedAt": "2026-11-22T03:12:44.885695+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1537,70 +1601,6 @@
       "volumeMl": 10.0,
       "concentration": null,
       "checkedAt": "2026-11-19T21:31:34.703936+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1053903857",
-      "name": "Carolina Herrera - Good Girl Hair Mist · 30 ML",
-      "brand": "Carolina Herrera",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/gd-6a38470eb1ea3f578e17304863749925-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/carolina-herrera-good-girl-hair-mist/?entry_path=category",
-      "category": "Perfumes designer",
-      "volumeMl": 30.0,
-      "concentration": null,
-      "checkedAt": "2026-11-20T11:38:42.381019+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1466828638",
-      "name": "Xerjoff - Alexandria II Anniversary · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 2999.0,
-      "originalPrice": 3999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/captura-de-tela-2026-03-05-145437-b6b147a98e5768437817727332846410-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-alexandria-ii-anniversary-uvxkg/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-13T22:37:12.163544+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1480633616",
-      "name": "Imperial Parfums - Kashmir · 100 ML",
-      "brand": "Imperial Parfums",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1375467695",
-      "name": "Nishane - Kredo · 100 ML (S/ CAIXA)",
-      "brand": "Nishane",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/kredo1-22a33ac63e3ecba9af16869476983532-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/nishane-kredo/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-21T01:34:27.292460+00:00",
       "basis": "store-listed-reference"
     }
   ]
