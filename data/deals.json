@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-23T09:03:02.641089+00:00",
+  "updatedAt": "2026-11-23T21:22:12.424046+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 511,
+  "totalVerifiedDeals": 509,
   "products": [
     {
       "id": "king-1526509776",
@@ -400,7 +400,7 @@
       "category": "Perfumes árabes",
       "volumeMl": 105.0,
       "concentration": null,
-      "checkedAt": "2026-11-23T09:02:56.502959+00:00",
+      "checkedAt": "2026-11-23T21:22:06.201745+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -848,7 +848,23 @@
       "category": "Perfumes árabes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-23T09:02:56.502959+00:00",
+      "checkedAt": "2026-11-23T21:22:06.201745+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-949665308",
+      "name": "Armaf - Voce Viva · 100 ML",
+      "brand": "Armaf",
+      "shop": "The King of Parfums",
+      "price": 399.0,
+      "originalPrice": 599.0,
+      "discountPercent": 33.4,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/voceviva-062c2abe01f7e7a70117183765568014-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/armaf-voce-viva/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-23T21:22:06.201745+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -900,6 +916,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1562128404",
+      "name": "Boadicea - Blue Sapphire Supercharged · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Boadicea",
+      "shop": "The King of Parfums",
+      "price": 4999.0,
+      "originalPrice": 7499.0,
+      "discountPercent": 33.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351259805-boadicea-blue-sapphire-supercharged-3247950981eb7a165817848376294444-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-blue-sapphire-supercharged-1t7yz/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-23T21:22:06.201745+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1178141512",
       "name": "Xerjoff - Mefisto Gentiluomo · 100 ML",
       "brand": "Xerjoff",
@@ -945,6 +977,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-19T21:31:34.703936+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1116934079",
+      "name": "Xerjoff - Regio · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1699.0,
+      "originalPrice": 2529.0,
+      "discountPercent": 32.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/regio1-926798dd9c75059c5a16389024542336-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-regio-tester/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-23T21:22:06.201745+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1052,11 +1100,11 @@
       "originalPrice": 2589.0,
       "discountPercent": 30.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/venom-027b96bc7170a227f417381804006265-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-venom-incarnat/?entry_path=category",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-venom-incarnat/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-16T09:41:23.779200+00:00",
+      "checkedAt": "2026-11-23T21:22:06.201745+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1120,7 +1168,7 @@
       "category": "Perfumes árabes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-23T09:02:56.502959+00:00",
+      "checkedAt": "2026-11-23T21:22:06.201745+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1553,54 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-15T21:48:18.837030+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339121730",
-      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339122868",
-      "name": "Xerjoff - Duran Duran NeoRio Green · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192021-661-8c73e985dc3870066d17540004324299-640-0-f60d09869ae635074b17605438509674-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-green/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-13T16:21:31.565271+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1086240153",
-      "name": "Bharara - Viking Kashmir · 100 ML",
-      "brand": "Bharara",
-      "shop": "The King of Parfums",
-      "price": 579.0,
-      "originalPrice": 779.0,
-      "discountPercent": 25.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/imagem-do-whatsapp-de-2024-12-13-as-13-19-15_68faadbc-83ef371029ab88785817341084635517-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/bharara-viking-kashmir/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-18T21:56:05.898532+00:00",
       "basis": "store-listed-reference"
     }
   ]
