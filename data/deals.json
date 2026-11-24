@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-23T21:22:12.424046+00:00",
+  "updatedAt": "2026-11-24T06:01:13.763928+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 509,
+  "totalVerifiedDeals": 515,
   "products": [
     {
       "id": "king-1526509776",
@@ -97,6 +97,22 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-18T21:56:05.898532+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-946958146",
+      "name": "Lattafa - Affection · 100 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 199.0,
+      "originalPrice": 399.0,
+      "discountPercent": 50.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/afee-ed93b8aec2faef14ef17180190610174-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-affection/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-24T06:01:07.843956+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1268,6 +1284,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-941569320",
+      "name": "Parfums de Marly - Delina Crème Mains · 30 ML",
+      "brand": "Parfums de Marly",
+      "shop": "The King of Parfums",
+      "price": 349.0,
+      "originalPrice": 493.0,
+      "discountPercent": 29.2,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/215080939-parfums-de-marly-delina-creme-mains-894ce348a479adedad17848314452775-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/parfums-de-marly-delina-creme-mains/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 30.0,
+      "concentration": null,
+      "checkedAt": "2026-11-24T06:01:07.843956+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1524626741",
       "name": "Boadicea - Blue Sapphire · 100 ML",
       "brand": "Boadicea",
@@ -1569,38 +1601,6 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1032131006",
-      "name": "Maison Alhambra - Salvo Eau de Parfum · 100 ML",
-      "brand": "Maison Alhambra",
-      "shop": "The King of Parfums",
-      "price": 235.0,
-      "originalPrice": 319.0,
-      "discountPercent": 26.3,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/234962146-maison-alhambra-salvo-eau-de-parfum-b483f9a3bdf771aa6417848323789406-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/maison-alhambra-salvo-eau-de-parfum/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": "EDP",
-      "checkedAt": "2026-11-21T01:34:27.292460+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1339126484",
-      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1759.0,
-      "originalPrice": 2379.0,
-      "discountPercent": 26.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-15T21:48:18.837030+00:00",
       "basis": "store-listed-reference"
     }
   ]
