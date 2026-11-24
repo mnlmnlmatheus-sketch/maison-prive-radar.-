@@ -1,24 +1,8 @@
 {
-  "updatedAt": "2026-11-24T06:01:13.763928+00:00",
+  "updatedAt": "2026-11-24T17:42:06.139940+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 515,
+  "totalVerifiedDeals": 499,
   "products": [
-    {
-      "id": "king-1526509776",
-      "name": "Boadicea - Rebellious · 100 ML (S/ CAIXA e COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 4799.0,
-      "discountPercent": 62.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342263117-boadicea-rebellious-4373233866693b212d17848372196718-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-rebellious-1f0lr/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-14T03:14:34.099908+00:00",
-      "basis": "store-listed-reference"
-    },
     {
       "id": "king-1080914823",
       "name": "Riiffs - Goodness Oud Purple · 100 ML",
@@ -756,22 +740,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1526509648",
-      "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2799.0,
-      "discountPercent": 35.7,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/344157916-boadicea-envious-728684b968d87d7eed17848373280317-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-envious-e47bj/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-14T03:14:34.099908+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1168102455",
       "name": "Dolce&Gabbana - Light Blue Capri In Love Pour Homme Eau de Parfum · 100 ML",
       "brand": "Dolce&Gabbana",
@@ -897,22 +865,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-21T01:34:27.292460+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1218324322",
-      "name": "Armaf - Club De Nuit Lionheart Man · 100 ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 449.0,
-      "discountPercent": 33.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-05-26t172644-522-cab2e810514d4cb7cb17482913202946-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-lionheart-man/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-14T03:14:34.099908+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1292,11 +1244,11 @@
       "originalPrice": 493.0,
       "discountPercent": 29.2,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/215080939-parfums-de-marly-delina-creme-mains-894ce348a479adedad17848314452775-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/parfums-de-marly-delina-creme-mains/?entry_path=category",
+      "url": "https://www.thekingofparfums.com.br/produtos/parfums-de-marly-delina-creme-mains/?entry_path=category&entry_category_id=8624724",
       "category": "Perfumes de nicho",
       "volumeMl": 30.0,
       "concentration": null,
-      "checkedAt": "2026-11-24T06:01:07.843956+00:00",
+      "checkedAt": "2026-11-24T17:42:00.105018+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1492,6 +1444,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-881785779",
+      "name": "Paco Rabanne - Invictus Parfum · 100 ML",
+      "brand": "Paco Rabanne",
+      "shop": "The King of Parfums",
+      "price": 649.0,
+      "originalPrice": 899.0,
+      "discountPercent": 27.8,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/210819750-paco-rabanne-invictus-parfum-526a2035473e2127eb17848312152646-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/paco-rabanne-invictus-parfum/?entry_path=category",
+      "category": "Perfumes designer",
+      "volumeMl": 100.0,
+      "concentration": "Parfum",
+      "checkedAt": "2026-11-24T17:42:00.105018+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1024170099",
       "name": "Al Haramain - Amber Oud Dubai Night · 100 ML",
       "brand": "Al Haramain",
@@ -1601,6 +1569,38 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-11-15T09:24:28.314787+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1032131006",
+      "name": "Maison Alhambra - Salvo Eau de Parfum · 100 ML",
+      "brand": "Maison Alhambra",
+      "shop": "The King of Parfums",
+      "price": 235.0,
+      "originalPrice": 319.0,
+      "discountPercent": 26.3,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/234962146-maison-alhambra-salvo-eau-de-parfum-b483f9a3bdf771aa6417848323789406-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/maison-alhambra-salvo-eau-de-parfum/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 100.0,
+      "concentration": "EDP",
+      "checkedAt": "2026-11-21T01:34:27.292460+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1339126484",
+      "name": "Xerjoff - Duran Duran NeoRio Orange · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t192241-980-fd1b324124c40b357617540005881693-640-0-1e826efd9e946aff6817605439969488-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-orange/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T21:48:18.837030+00:00",
       "basis": "store-listed-reference"
     }
   ]
