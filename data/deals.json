@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-24T17:42:06.139940+00:00",
+  "updatedAt": "2026-11-25T02:27:19.810874+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 499,
+  "totalVerifiedDeals": 489,
   "products": [
     {
       "id": "king-1080914823",
@@ -145,22 +145,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-22T11:22:01.007797+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1531075495",
-      "name": "Boadicea - Empire · 100 ML (S/CAIXA e  COM TAMPA)",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 1999.0,
-      "originalPrice": 3799.0,
-      "discountPercent": 47.4,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-14T17:06:52.611390+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -420,22 +404,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1205936238",
-      "name": "Armaf - King CheckMate · 100 ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 499.0,
-      "discountPercent": 40.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/armaf-king-acc790f47d127e7b5417458684616144-640-0-fd91dc30d00b0a6b9017471694956770-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-king-check-mate/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-1641992493",
       "name": "Xerjoff - Lira · 100 ML (S/CAIXA)",
       "brand": "Xerjoff",
@@ -556,11 +524,11 @@
       "originalPrice": 2908.0,
       "discountPercent": 38.1,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dance-14d67e80ba5126930b17404235187861-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-sand-dance/?entry_path=category",
-      "category": "Perfumes",
+      "url": "https://www.thekingofparfums.com.br/produtos/stephane-humbert-lucas-777-sand-dance/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-15T17:09:23.979811+00:00",
+      "checkedAt": "2026-11-25T02:27:13.452993+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1084,11 +1052,11 @@
       "originalPrice": 1954.0,
       "discountPercent": 30.5,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-1641aa1d896a0691db17618239152422-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-lalibela/?entry_path=category",
+      "url": "https://www.thekingofparfums.com.br/produtos/memo-paris-lalibela/?entry_path=category&entry_category_id=8624724",
       "category": "Perfumes de nicho",
       "volumeMl": 75.0,
       "concentration": null,
-      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
+      "checkedAt": "2026-11-25T02:27:13.452993+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1185,22 +1153,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-22T03:12:44.885695+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1518660647",
-      "name": "Boadicea - Empire · 100 ML",
-      "brand": "Boadicea",
-      "shop": "The King of Parfums",
-      "price": 2799.0,
-      "originalPrice": 3999.0,
-      "discountPercent": 30.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/342262649-boadicea-empire-386f11dc1cd1a3642217848372167450-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/boadicea-empire-1ocjy/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-14T17:06:52.611390+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1361,22 +1313,6 @@
       "volumeMl": 30.0,
       "concentration": null,
       "checkedAt": "2026-11-21T17:31:05.508036+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1483090469",
-      "name": "Gritti - Neroli Extreme · 100 ML",
-      "brand": "Gritti",
-      "shop": "The King of Parfums",
-      "price": 1579.0,
-      "originalPrice": 2199.0,
-      "discountPercent": 28.2,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/333488229-gritti-neroli-extreme-aebfa54cdc7f7f296317848366998917-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/gritti-neroli-extreme-12q21/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-14T10:27:55.471675+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1601,6 +1537,70 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-15T21:48:18.837030+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1339121730",
+      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/?entry_path=category",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-15T09:24:28.314787+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1086240153",
+      "name": "Bharara - Viking Kashmir · 100 ML",
+      "brand": "Bharara",
+      "shop": "The King of Parfums",
+      "price": 579.0,
+      "originalPrice": 779.0,
+      "discountPercent": 25.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/imagem-do-whatsapp-de-2024-12-13-as-13-19-15_68faadbc-83ef371029ab88785817341084635517-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/bharara-viking-kashmir/?entry_path=category",
+      "category": "Perfumes",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-18T21:56:05.898532+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-968481329",
+      "name": "Lattafa - Atlas · 55 ML",
+      "brand": "Lattafa",
+      "shop": "The King of Parfums",
+      "price": 319.0,
+      "originalPrice": 429.0,
+      "discountPercent": 25.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/220341043-lattafa-atlas-d2eab40ced57d2b41417848317727713-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/lattafa-atlas/?entry_path=category",
+      "category": "Perfumes árabes",
+      "volumeMl": 55.0,
+      "concentration": null,
+      "checkedAt": "2026-11-22T11:22:01.007797+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-505311307",
+      "name": "Xerjoff - Amabile · 100ml",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2414.0,
+      "discountPercent": 25.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
       "basis": "store-listed-reference"
     }
   ]
