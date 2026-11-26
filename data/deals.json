@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-26T05:02:43.274862+00:00",
+  "updatedAt": "2026-11-26T15:13:44.898730+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 461,
+  "totalVerifiedDeals": 463,
   "products": [
     {
       "id": "king-1526509776",
@@ -244,6 +244,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1281158368",
+      "name": "Xerjoff - Bouquet Ideale · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1399.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 44.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/bouquet-idealeeau-de-parfum-100ml1-b21efa941b3ec4a7bc16337232250530-640-0-8b5d32c92275d832a117545883451519-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-bouquet-ideale/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-26T15:13:38.924694+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1048032090",
       "name": "Creed - Delphinus · 100 ML",
       "brand": "Creed",
@@ -380,11 +396,11 @@
       "originalPrice": 2499.0,
       "discountPercent": 40.0,
       "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dsfsfsdf-3949fb31b97c2f474e17207903101917-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-lira/?entry_path=category",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-lira/?entry_path=category&entry_category_id=8624724",
       "category": "Perfumes de nicho",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-22T11:22:01.007797+00:00",
+      "checkedAt": "2026-11-26T15:13:38.924694+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -868,22 +884,6 @@
       "basis": "store-listed-reference"
     },
     {
-      "id": "king-1124651138",
-      "name": "Viktor&Rolf - Spicebomb Dark Leather · 90 ML",
-      "brand": "Viktor&Rolf",
-      "shop": "The King of Parfums",
-      "price": 899.0,
-      "originalPrice": 1299.0,
-      "discountPercent": 30.8,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/254758983-viktor-rolf-spicebomb-dark-leather-58767561439c77cf0317848335524228-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/viktorrolf-spicebomb-dark-leather/?entry_path=category",
-      "category": "Perfumes",
-      "volumeMl": 90.0,
-      "concentration": null,
-      "checkedAt": "2026-11-16T02:05:11.774330+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
       "id": "king-838816693",
       "name": "Apple Beauty - Cinderella Pink · 60 ML",
       "brand": "Apple Beauty",
@@ -1236,6 +1236,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-969798946",
+      "name": "Xerjoff - Lira · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dsfsfsdf-3949fb31b97c2f474e17207903101917-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-lira/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-26T15:13:38.924694+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1571504101",
       "name": "Stéphane Humbert Lucas 777 - Pink Boa · 50 ML (S/CAIXA C/TAMPA)",
       "brand": "Stéphane Humbert Lucas 777",
@@ -1249,22 +1265,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-26T05:02:37.444425+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-969798946",
-      "name": "Xerjoff - Lira · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2499.0,
-      "discountPercent": 28.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/dsfsfsdf-3949fb31b97c2f474e17207903101917-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-lira/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-22T11:22:01.007797+00:00",
       "basis": "store-listed-reference"
     },
     {
