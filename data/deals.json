@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-27T08:28:57.441237+00:00",
+  "updatedAt": "2026-11-27T18:58:34.333096+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 465,
+  "totalVerifiedDeals": 450,
   "products": [
     {
       "id": "king-783403955",
@@ -16,7 +16,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-27T08:28:51.646138+00:00",
+      "checkedAt": "2026-11-27T18:58:28.632287+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -64,7 +64,7 @@
       "category": "Perfumes",
       "volumeMl": 100.0,
       "concentration": null,
-      "checkedAt": "2026-11-27T08:28:51.646138+00:00",
+      "checkedAt": "2026-11-27T18:58:28.632287+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -660,6 +660,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1562123765",
+      "name": "Spirit Of Kings - Harmony · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Spirit Of Kings",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2799.0,
+      "discountPercent": 35.7,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351981784-spirit-of-kings-harmony-a63310bcef6647e6d117848377178241-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-harmony-30e83/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-27T18:58:28.632287+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1526509648",
       "name": "Boadicea - Envious · 100 ML (S/ CAIXA e COM TAMPA)",
       "brand": "Boadicea",
@@ -721,22 +737,6 @@
       "volumeMl": 50.0,
       "concentration": "Parfum",
       "checkedAt": "2026-11-22T03:12:44.885695+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1307057604",
-      "name": "Profumi Di Polignano - Crema Limone · 100 ML",
-      "brand": "Profumi Di Polignano",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 2299.0,
-      "discountPercent": 34.8,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-1-ee97dcae1c99a0c4dd17570984633539-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/profumi-di-polignano-crema-limone/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-17T03:52:54.921769+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1504,7 +1504,7 @@
       "category": "Perfumes de nicho",
       "volumeMl": 50.0,
       "concentration": null,
-      "checkedAt": "2026-11-27T08:28:51.646138+00:00",
+      "checkedAt": "2026-11-27T18:58:28.632287+00:00",
       "basis": "store-listed-reference"
     },
     {

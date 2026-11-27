@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-27T08:28:57.441237+00:00",
-  "catalogTotal": 3553,
-  "verifiedLast14Days": 3537,
-  "brandsIdentified": 290,
+  "updatedAt": "2026-11-27T18:58:34.333096+00:00",
+  "catalogTotal": 3534,
+  "verifiedLast14Days": 3518,
+  "brandsIdentified": 288,
   "shops": [
     "DL Imports",
     "Droper",
@@ -11,18 +11,18 @@
     "The King of Parfums"
   ],
   "categories": {
-    "Perfumes": 178,
+    "Perfumes": 161,
     "Perfumes de nicho": 423,
-    "Perfumes designer": 111,
-    "Calçados": 640,
     "Perfumes árabes": 146,
-    "Roupas": 1626,
+    "Perfumes designer": 111,
+    "Roupas": 1629,
+    "Calçados": 638,
+    "Acessórios": 239,
     "Bolsas": 150,
-    "Acessórios": 242,
     "Joias": 10,
     "Outros": 27
   },
-  "perfumeCount": 858,
-  "verifiedDeals": 465,
+  "perfumeCount": 841,
+  "verifiedDeals": 450,
   "limitations": "Catálogo público em crescimento. Produtos podem estar indisponíveis e os preços no checkout podem diferir."
 }
