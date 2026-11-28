@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-28T01:59:03.478053+00:00",
+  "updatedAt": "2026-11-28T10:25:48.942790+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 464,
+  "totalVerifiedDeals": 467,
   "products": [
     {
       "id": "king-783403955",
@@ -452,6 +452,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1641991922",
+      "name": "Xerjoff - Dama Bianca · 100 ML (S/CAIXA)",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1499.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 40.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/106021694-xerjoff-dama-bianca-f470add4498b08d95417848273357239-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-dama-bianca/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-28T10:25:42.859980+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1641992493",
       "name": "Xerjoff - Lira · 100 ML (S/CAIXA)",
       "brand": "Xerjoff",
@@ -513,6 +529,22 @@
       "volumeMl": 75.0,
       "concentration": null,
       "checkedAt": "2026-11-21T17:31:05.508036+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-748446551",
+      "name": "Carolina Herrera - 212 Men Heroes Forever Young · 150 ML",
+      "brand": "Carolina Herrera",
+      "shop": "The King of Parfums",
+      "price": 429.0,
+      "originalPrice": 699.0,
+      "discountPercent": 38.6,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/heroesmen-91e5b4a17e852f9f3716981712964010-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/carolina-herrera-212-men-heroes-forever-young/?entry_path=category",
+      "category": "Perfumes designer",
+      "volumeMl": 150.0,
+      "concentration": null,
+      "checkedAt": "2026-11-28T10:25:42.859980+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1316,6 +1348,38 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-405036495",
+      "name": "Xerjoff - Dama Bianca · 100 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/106021694-xerjoff-dama-bianca-f470add4498b08d95417848273357239-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-dama-bianca/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-28T10:25:42.859980+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1126164589",
+      "name": "Xerjoff - JTC 400 · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1799.0,
+      "originalPrice": 2499.0,
+      "discountPercent": 28.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/400-527dc0fc4e16e87c5d17316154656642-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-jtc-400/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-28T10:25:42.859980+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-969798946",
       "name": "Xerjoff - Lira · 100 ML",
       "brand": "Xerjoff",
@@ -1345,22 +1409,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-26T05:02:37.444425+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1126164589",
-      "name": "Xerjoff - JTC 400 · 50 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2499.0,
-      "discountPercent": 28.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/400-527dc0fc4e16e87c5d17316154656642-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-jtc-400/?entry_path=category",
-      "category": "Perfumes de nicho",
-      "volumeMl": 50.0,
-      "concentration": null,
-      "checkedAt": "2026-11-20T03:13:20.221175+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1476,6 +1524,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1339121730",
+      "name": "Xerjoff - Duran Duran NeoRio Yellow · 50 ML",
+      "brand": "Xerjoff",
+      "shop": "The King of Parfums",
+      "price": 1759.0,
+      "originalPrice": 2379.0,
+      "discountPercent": 26.1,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/novo-projeto-2025-07-31t191537-800-5b17263f839acfe82917540001922025-640-0-941417a56cdad66b1d17605437945647-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-duran-duran-neorio-yellow/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 50.0,
+      "concentration": null,
+      "checkedAt": "2026-11-28T10:25:42.859980+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1339122868",
       "name": "Xerjoff - Duran Duran NeoRio Green · 50 ML",
       "brand": "Xerjoff",
@@ -1537,70 +1601,6 @@
       "volumeMl": 50.0,
       "concentration": null,
       "checkedAt": "2026-11-27T18:58:28.632287+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-505311307",
-      "name": "Xerjoff - Amabile · 100ml",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2414.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/129142145-xerjoff-amabile-ce2a9d34d33709f8c317848280860661-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-amabile/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1080206844",
-      "name": "Armaf - Club de Nuit Woman 10ML · 10ML",
-      "brand": "Armaf",
-      "shop": "The King of Parfums",
-      "price": 79.0,
-      "originalPrice": 106.0,
-      "discountPercent": 25.5,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/245753377-armaf-club-de-nuit-woman-10ml-d893942f2b570d588b17848328162679-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/armaf-club-de-nuit-woman-10ml/?entry_path=category",
-      "category": "Perfumes árabes",
-      "volumeMl": 10.0,
-      "concentration": null,
-      "checkedAt": "2026-11-19T21:31:34.703936+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1053903857",
-      "name": "Carolina Herrera - Good Girl Hair Mist · 30 ML",
-      "brand": "Carolina Herrera",
-      "shop": "The King of Parfums",
-      "price": 299.0,
-      "originalPrice": 399.0,
-      "discountPercent": 25.1,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/gd-6a38470eb1ea3f578e17304863749925-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/carolina-herrera-good-girl-hair-mist/?entry_path=category",
-      "category": "Perfumes designer",
-      "volumeMl": 30.0,
-      "concentration": null,
-      "checkedAt": "2026-11-20T11:38:42.381019+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1466828638",
-      "name": "Xerjoff - Alexandria II Anniversary · 100 ML",
-      "brand": "Xerjoff",
-      "shop": "The King of Parfums",
-      "price": 2999.0,
-      "originalPrice": 3999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/captura-de-tela-2026-03-05-145437-b6b147a98e5768437817727332846410-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/xerjoff-alexandria-ii-anniversary-uvxkg/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-25T12:52:23.539776+00:00",
       "basis": "store-listed-reference"
     }
   ]
