@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-27T18:58:34.333096+00:00",
+  "updatedAt": "2026-11-28T01:59:03.478053+00:00",
   "basis": "Desconto anunciado pela própria loja; não comparar com preço histórico",
-  "totalVerifiedDeals": 450,
+  "totalVerifiedDeals": 464,
   "products": [
     {
       "id": "king-783403955",
@@ -612,6 +612,22 @@
       "basis": "store-listed-reference"
     },
     {
+      "id": "king-1556851550",
+      "name": "Spirit of Kings - Arrakis · 100 ML (S/CAIXA C/TAMPA)",
+      "brand": "Spirit of Kings",
+      "shop": "The King of Parfums",
+      "price": 999.0,
+      "originalPrice": 1599.0,
+      "discountPercent": 37.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/351767155-spirit-of-kings-arrakis-86950710768a03201e17848376768383-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/spirit-of-kings-arrakis-y2uw8/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-28T01:58:57.526847+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
       "id": "king-1639603568",
       "name": "Initio - Paragon · 90 ML (S/CAIXA)",
       "brand": "Initio",
@@ -737,6 +753,22 @@
       "volumeMl": 50.0,
       "concentration": "Parfum",
       "checkedAt": "2026-11-22T03:12:44.885695+00:00",
+      "basis": "store-listed-reference"
+    },
+    {
+      "id": "king-1491851250",
+      "name": "Rosendo Mateu - Nº 2 Citrus, Wood, Suede Leather · 100 ML",
+      "brand": "Rosendo Mateu",
+      "shop": "The King of Parfums",
+      "price": 1329.0,
+      "originalPrice": 1999.0,
+      "discountPercent": 33.5,
+      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/335421914-rosendo-mateu-no-2-citrus-wood-suede-leather-c52506d1ff55b49b9917848368308637-1024-1024.webp",
+      "url": "https://www.thekingofparfums.com.br/produtos/rosendo-mateu-n-2-citrus-wood-suede-leather-18esv/?entry_path=category&entry_category_id=8624724",
+      "category": "Perfumes de nicho",
+      "volumeMl": 100.0,
+      "concentration": null,
+      "checkedAt": "2026-11-28T01:58:57.526847+00:00",
       "basis": "store-listed-reference"
     },
     {
@@ -1569,38 +1601,6 @@
       "volumeMl": 100.0,
       "concentration": null,
       "checkedAt": "2026-11-25T12:52:23.539776+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-339854874",
-      "name": "Tiziana Terenzi - Orion · 100 ML",
-      "brand": "Tiziana Terenzi",
-      "shop": "The King of Parfums",
-      "price": 1799.0,
-      "originalPrice": 2399.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/89155165-tiziana-terenzi-orion-9f03cc079ddb6ebe4017848264789376-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/tiziana-terenzi-orion/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-22T11:22:01.007797+00:00",
-      "basis": "store-listed-reference"
-    },
-    {
-      "id": "king-1480633616",
-      "name": "Imperial Parfums - Kashmir · 100 ML",
-      "brand": "Imperial Parfums",
-      "shop": "The King of Parfums",
-      "price": 1499.0,
-      "originalPrice": 1999.0,
-      "discountPercent": 25.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/001/216/674/products/editedimage_1789739382084-892ef48b4eb05bf96117897393879582-1024-1024.webp",
-      "url": "https://www.thekingofparfums.com.br/produtos/imperial-parfums-kashmir-fbc1f/?entry_path=category&entry_category_id=8624724",
-      "category": "Perfumes de nicho",
-      "volumeMl": 100.0,
-      "concentration": null,
-      "checkedAt": "2026-11-21T17:31:05.508036+00:00",
       "basis": "store-listed-reference"
     }
   ]
